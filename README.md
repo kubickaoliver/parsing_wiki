@@ -11,3 +11,13 @@
 ## Web predmetu
 
 - https://vi2022.ui.sav.sk/doku.php?id=start
+
+## Run docker image (iisas/hadoop-spark-pig-hive:2.9.2)
+
+```
+docker pull iisas/hadoop-spark-pig-hive:2.9.2
+```
+
+```
+docker run -it -p 50070:50070 -p 8088:8088 -p 8080:8080 iisas/hadoop-spark-pig-hive:2.9.2
+```
