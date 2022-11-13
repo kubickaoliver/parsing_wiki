@@ -130,4 +130,3 @@ dmypy.json
 
 # ignore datasets
 *.bz2
-*.json
