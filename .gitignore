@@ -133,3 +133,4 @@ dmypy.json
 /hadoop_vehicles*
 .devcontainer
 /dataset
+/index_schema
