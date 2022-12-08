@@ -28,3 +28,4 @@ docker run -it -p 50070:50070 -p 8088:8088 -p 8080:8080 iisas/hadoop-spark-pig-h
 - with parallelization:
   - (1 producer, 1 consumer): 9652 s
   - (4 producers, 1 consumer): 8061 s
+  - pyspark: 5208 s

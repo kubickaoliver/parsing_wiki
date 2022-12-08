@@ -123,6 +123,7 @@ def query_simular_vehicle(
 
     return vehicles_index.get(most_common_id, None)
 
+
 if __name__ == "__main__":
     # audi e-tron gt
     print('Enter the name of the vehicle:', end=' ')

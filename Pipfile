@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 nltk = "*"
+pyspark = "*"
 
 [dev-packages]
 ipykernel = "*"
