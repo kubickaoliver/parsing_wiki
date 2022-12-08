@@ -1,8 +1,6 @@
-import json
-import bz2
 import re
 import time
-from pyspark import SparkContext, SparkConf
+from pyspark import SparkContext
 from pyspark.sql import SparkSession
 from pyspark.sql.types import *
 
@@ -20,60 +18,57 @@ class Vehicle:
         self.related = related
 
 
-def parse_parameter_value(parameter: str, text: str) -> str:
-    """ regex = f"(\|){{1}}(\s)*({parameter}){{1}}(\s)*(=){{1}}(\s)*"
-    re.findall(regex, text, re.MULTILINE)
-    print() """
+def parse_parameter_value(parameter: str, text: str) -> list:
     regex = f"(\|){{1}}(\s)*({parameter}){{1}}(\s)*(=){{1}}(.*?)(?=\\\\n)"
     matches = re.findall(regex, text, re.MULTILINE)
 
     if matches:
         value = matches[0][5]
-        value = re.split('<|>|[|&|]', value)
-        return value[0].replace('[', '').replace(']', '').replace('{', '').replace('}', '').replace('\n', '').rstrip()
+        # value = re.split('<|>|[|&|]', value)
+        values = re.split(r"[/;,.#()\[\]|<>{}\\']\s*", value)
+        result_values = []
+        for item in values:
+            item = str(item).lstrip().rstrip().replace('\n', '').replace('"', '')
+            if item != '' and len(item) > 2:
+                result_values.append(item)
+        return result_values
     return None
-
-
-""" def find_parameter(parameter: str, text: str):
-    pattern = f"(?<=)(\|){{1}}(\s)*({parameter}){{1}}(\s)*(=){{1}}(\s)*(.)*?(?=\\n)"
-    return re.search(pattern, text) """
 
 
 def get_vehicle_parameters(text: str):
     vehicle = { 'name': '', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': [] }
     text = text.lower()
     
-    value = parse_parameter_value('name', text)
-    if value:
-        vehicle['name'] = value
+    values = parse_parameter_value('name', text)
+    if values:
+        vehicle['name'] = values[0]
 
-    value = parse_parameter_value('manufacturer', text)
-    if value:
-        manufacturers = re.split('[|]', value)
-        vehicle['manufacturer'] = [str(item).lstrip().rstrip() for item in manufacturers]
-    
-    value = parse_parameter_value('class', text)
-    if value:
-        vehicle_class = re.split('(|)|[|/|]', value)
-        vehicle['class'] = [str(item).lstrip().rstrip() for item in vehicle_class]
+        values = parse_parameter_value('manufacturer', text)
+        if values:
+            vehicle['manufacturer'] = values
+        
+        values = parse_parameter_value('class', text)
+        if values:
+            vehicle['class'] = values
 
-    value = parse_parameter_value('production', text)
-    if value:
-        years = re.findall(r'([1-2][0-9]{3})', value)
-        if years:
-            vehicle['production_year'] = int(years[0])
-    
-    value = parse_parameter_value('layout', text)
-    if value:
-        layout = re.split('[|/|,|#|]', value)
-        vehicle['layout'] = [str(item).lstrip().rstrip() for item in layout]
+        values = parse_parameter_value('production', text)
+        if values:
+            for item in values:
+                years = re.findall(r'([1-2][0-9]{3})', item)
+                if years:
+                    vehicle['production_year'] = int(years[0])
+                    break
+        
+        values = parse_parameter_value('layout', text)
+        if values:
+            vehicle['layout'] = values
 
-    value = parse_parameter_value('related', text)
-    if value:
-        related = re.split('[|/|,|#]', value)
-        vehicle['related'] = [str(item).lstrip().rstrip() for item in related]
-    
-    return vehicle
+        values = parse_parameter_value('related', text)
+        if values:
+            vehicle['related'] = values
+        
+        return vehicle
+    return None
 
 
 def parsing_wiki(row):
@@ -88,25 +83,21 @@ if __name__ == "__main__":
     sc = SparkContext("local[12]", "vehicle_wiki_parsing")
     spark = SparkSession.builder.master("local[12]").appName("vehicle_wiki_parsing").getOrCreate()
     start = time.time()
-    # dataset/enwiki-20220920-pages-meta-current10.xml-p4045403p5399366.bz2
-    # dataset/enwiki-20220920-pages-meta-current.xml.bz2
     
-    xml_schema = StructType([ \
+    xml_schema = StructType([\
         StructField('revision', StructType([
             StructField('text', StringType(), True)
         ]))
     ])
 
+    # dataset/enwiki-20220920-pages-meta-current10.xml-p4045403p5399366.bz2
+    # dataset/enwiki-20220920-pages-meta-current.xml.bz2
     df = spark.read\
         .format('xml')\
             .options(rowTag="page")\
-                .load("dataset/enwiki-20220920-pages-meta-current.xml.bz2", schema=xml_schema)
+                .load("dataset/enwiki-20220920-pages-meta-current10.xml-p4045403p5399366.bz2", schema=xml_schema)
 
     rdd2 = df.rdd.map(lambda row: parsing_wiki(row)).filter(lambda row: row != None)
     rdd2.saveAsTextFile("./parsed_vehicles")
     print(time.time() - start, 's')
-    
-    """ with open('vehicles.json', 'w') as json_file:
-        json.dump(vehicles, json_file, indent=2)
-        json_file.close() """
  

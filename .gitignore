@@ -130,7 +130,6 @@ dmypy.json
 
 # ignore datasets
 *.bz2
-/hadoop_vehicles*
 .devcontainer
 /dataset
 /index_schema
