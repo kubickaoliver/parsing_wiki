@@ -11,6 +11,11 @@
 
 - https://vi2022.ui.sav.sk/doku.php?id=start
 
+## Install XML jar
+```
+curl -O https://repo1.maven.org/maven2/com/databricks/spark-xml_2.12/0.15.0/spark-xml_2.12-0.15.0.jar
+```
+
 ## Run pyspark wiki parsing
 
 ```

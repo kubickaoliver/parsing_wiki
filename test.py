@@ -1,5 +1,21 @@
 import re
+import json
+import os
 
+vehicles = []
+
+os.chdir('./parsed_vehicles')
+for file_name in os.listdir():
+    if not file_name.endswith(".crc") and file_name != '_SUCCESS':
+        with open(f'{file_name}', 'r') as f:
+            for row in f:
+                if row:
+                    row = row.replace('\n', '')
+                    row = json.dumps(row)
+                    vehicles.append(row)
+
+print(len(vehicles))
+            
 # to co ma dlzku menej ako tri to ani neratat
 value = '[[front-engine, front-wheel drive layout|front-engine, front-wheel drive]]'
 value_1 = '[[hudson motor car company]] <br/> [[american motors|american motors corporation]]'

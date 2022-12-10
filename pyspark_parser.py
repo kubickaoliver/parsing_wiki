@@ -1,12 +1,14 @@
 import re
+import os
+import json
 import time
 from pyspark import SparkContext
 from pyspark.sql import SparkSession
 from pyspark.sql.types import *
+from search_simular_vehicle import create_indexes, query_user_vehicle, query_simular_vehicle, Index
 
-vehicles = []
-flag = -1
-
+# vehicle name for example: audi e-tron gt
+USERS_VEHICLE = 'audi e-tron gt'
 
 class Vehicle:
     def __init__(self, name='', manufacturer=[], production='', vehicle_class=[], layout=[], related=[]):
@@ -24,11 +26,10 @@ def parse_parameter_value(parameter: str, text: str) -> list:
 
     if matches:
         value = matches[0][5]
-        # value = re.split('<|>|[|&|]', value)
         values = re.split(r"[/;,.#()\[\]|<>{}\\']\s*", value)
         result_values = []
         for item in values:
-            item = str(item).lstrip().rstrip().replace('\n', '').replace('"', '')
+            item = str(item).lstrip().rstrip().replace('\n', '').replace('"', '').replace("'", "")
             if item != '' and len(item) > 2:
                 result_values.append(item)
         return result_values
@@ -79,6 +80,44 @@ def parsing_wiki(row):
     return None
 
 
+def enable_searching_simular_vehicle():
+    vehicles = []
+    vehicle_index = Index()
+    # Create index from parsed vehicles
+    os.chdir('./parsed_vehicles')
+    for file_name in os.listdir():
+        if not file_name.endswith(".crc") and file_name != '_SUCCESS':
+            with open(f'{file_name}', 'r') as f:
+                for row in f:
+                    if row:
+                        row = row.replace('\n', '').replace("'", '"')
+                        print(row)
+                        row = json.loads(row)
+                        vehicles.append(row)
+    
+    vehicle_index = create_indexes(vehicles, vehicle_index)
+    
+    key, user_vehicle = query_user_vehicle(USERS_VEHICLE, vehicle_index)
+    print("Your vehicle parameters :")
+    print(user_vehicle)
+
+    if user_vehicle != {}:
+        simular_vehicle = query_simular_vehicle(
+            users_vehicle_key=key,
+            manufacturer=user_vehicle['manufacturer'],
+            vehicle_class=user_vehicle['class'],
+            layout=user_vehicle['layout'],
+            production_year=user_vehicle['production_year'],
+            related_vehicle=user_vehicle['related'],
+            index=vehicle_index
+        )
+        print('')
+        print('Most simular vehicle is:')
+        print(simular_vehicle)
+    else:
+        print('We are not able to find your vehicle in the wiki :(')
+
+
 if __name__ == "__main__":
     sc = SparkContext("local[12]", "vehicle_wiki_parsing")
     spark = SparkSession.builder.master("local[12]").appName("vehicle_wiki_parsing").getOrCreate()
@@ -95,9 +134,11 @@ if __name__ == "__main__":
     df = spark.read\
         .format('xml')\
             .options(rowTag="page")\
-                .load("dataset/enwiki-20220920-pages-meta-current10.xml-p4045403p5399366.bz2", schema=xml_schema)
+                .load("dataset/enwiki-20220920-pages-meta-current.xml.bz2", schema=xml_schema)
 
     rdd2 = df.rdd.map(lambda row: parsing_wiki(row)).filter(lambda row: row != None)
     rdd2.saveAsTextFile("./parsed_vehicles")
     print(time.time() - start, 's')
+
+    # enable_searching_simular_vehicle()
  
