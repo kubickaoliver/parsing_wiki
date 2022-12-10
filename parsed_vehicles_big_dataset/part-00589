@@ -1,0 +1,3 @@
+{'name': 'reliant scimitar ss1', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1984, 'related': []}
+{'name': 'ford falcon', 'manufacturer': ['ford australia'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1996, 'related': []}
+{'name': 'toyota camry', 'manufacturer': ['toyota'], 'class': ['mid-size car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': '', 'related': []}

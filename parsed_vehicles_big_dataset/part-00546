@@ -1,0 +1,3 @@
+{'name': 'lotus etna', 'manufacturer': ['lotus cars', 'lotus'], 'class': ['concept car', 'concept', 'supercar'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 1984, 'related': []}
+{'name': 'new compact coupé', 'manufacturer': ['volkswagen'], 'class': ['compact car', 'concept car'], 'layout': ['ff layout'], 'production_year': 2010, 'related': ['volkswagen jetta']}
+{'name': 'triumph fury', 'manufacturer': ['triumph motor company', 'standard-triumph', 'leyland motors'], 'class': [], 'layout': ['fr layout'], 'production_year': 1964, 'related': ['triumph 2000', 'triumph vitesse', 'triumph spitfire', 'triumph gt6']}

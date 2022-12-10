@@ -1,0 +1,2 @@
+{'name': 'alfa romeo 33 iguana', 'manufacturer': ['alfa romeo'], 'class': ['concept car'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'mid-engine', 'rear-wheel drive'], 'production_year': 1969, 'related': ['alfa romeo 33 stradale']}
+{'name': 'honda civic', 'manufacturer': ['honda'], 'class': ['compact car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2015, 'related': ['honda insight', 'third generation', 'honda insight', 'third generation', 'honda cr-v', 'fifth generation']}

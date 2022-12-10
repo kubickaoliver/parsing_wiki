@@ -1,0 +1,2 @@
+{'name': 'porsche 911', 'manufacturer': ['porsche', 'porsche ag'], 'class': ['sports car'], 'layout': ['rear-engine', 'rear-wheel drive layout', 'rear-engine', 'rear-wheel drive'], 'production_year': 1964, 'related': ['porsche 912', 'porsche 959', 'porsche 930']}
+{'name': 'proton exora', 'manufacturer': ['proton holdings', 'proton'], 'class': ['compact mpv'], 'layout': ['front-engine', 'front-wheel drive'], 'production_year': 2009, 'related': []}

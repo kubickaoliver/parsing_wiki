@@ -1,0 +1,3 @@
+{'name': 'first generation', 'manufacturer': [], 'class': ['wikitable'], 'layout': [], 'production_year': 1997, 'related': []}
+{'name': 'lykan hypersport', 'manufacturer': ['w motors'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 2013, 'related': []}
+{'name': 'bmw 2 series', 'manufacturer': ['bmw'], 'class': ['luxury vehicle', 'premium compact', 'subcompact executive car', 'c-segment'], 'layout': [], 'production_year': 2014, 'related': ['bmw 1 series']}

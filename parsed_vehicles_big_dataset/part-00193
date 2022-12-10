@@ -1,0 +1,4 @@
+{'name': 'valkyrie', 'manufacturer': ['fiberfab'], 'class': ['sportscar'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout'], 'production_year': '', 'related': ['fiberfab avenger gt']}
+{'name': 'gill getabout', 'manufacturer': ['gill cars ltd'], 'class': ['microcar'], 'layout': [], 'production_year': 1958, 'related': []}
+{'name': 'ferrari monza', 'manufacturer': ['ferrari'], 'class': ['world sportscar championship'], 'layout': ['mid-engine design', 'fmr layout – front mid-engine', 'rear-wheel drive', 'front mid-engine', 'rear-wheel-drive'], 'production_year': 1953, 'related': []}
+{'name': 'rolls-royce 20', 'manufacturer': ['rolls-royce ltd'], 'class': [], 'layout': [], 'production_year': 1929, 'related': []}

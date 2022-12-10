@@ -1,0 +1,5 @@
+{'name': 'chery a5', 'manufacturer': ['chery'], 'class': ['compact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2006, 'related': ['chery e5']}
+{'name': 'holden fj', 'manufacturer': ['holden', 'general motors'], 'class': ['mid-size car', 'mid-size'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1953, 'related': []}
+{'name': 'alfa romeo 6c', 'manufacturer': ['alfa romeo'], 'class': ['luxury car', 'sports car', 'racing car'], 'layout': ['front-engine', 'rear-wheel-drive'], 'production_year': 1927, 'related': []}
+{'name': 'standard eight', 'manufacturer': ['standard motor company', 'standard-triumph'], 'class': [], 'layout': [], 'production_year': 1938, 'related': []}
+{'name': 'alfa 20-30 hp', 'manufacturer': ['alfa', 'alfa romeo'], 'class': ['wikitable style=font-size:90%', 'text-align:center'], 'layout': [], 'production_year': 1914, 'related': []}

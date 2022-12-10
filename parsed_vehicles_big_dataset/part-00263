@@ -1,0 +1,3 @@
+{'name': 'toyota zr engine', 'manufacturer': ['toyota'], 'class': [], 'layout': [], 'production_year': 2007, 'related': []}
+{'name': 'ruf ctr3', 'manufacturer': ['ruf automobile'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 2007, 'related': ['porsche cayman', 'lykan hypersport']}
+{'name': 'ruf rk coupe', 'manufacturer': ['unbulleted list'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': '', 'related': ['porsche 987']}

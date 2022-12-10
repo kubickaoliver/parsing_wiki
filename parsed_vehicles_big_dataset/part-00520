@@ -1,0 +1,3 @@
+{'name': 'ford a series', 'manufacturer': ['ford of britain', 'ford uk'], 'class': ['light commercial vehicle', 'm-segment'], 'layout': [], 'production_year': 1973, 'related': ['ford_transit', 'first_generation_', '1965', 'ford transit']}
+{'name': 'rover 16', 'manufacturer': ['rover', 'ref name=britishcars', 'cite book', 'last=culshaw', 'author2=horrobin', 'title=complete catalogue of british cars', 'year=1974', 'publisher=macmillan', 'location=london', 'isbn=0-333-16689-2', 'ref'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'ref name=tt44278'], 'production_year': 1926, 'related': []}
+{'name': 'mercedes-benz m276 de30', 'manufacturer': ['daimler ag'], 'class': [], 'layout': [], 'production_year': 2013, 'related': []}

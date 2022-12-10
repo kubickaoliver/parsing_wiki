@@ -1,0 +1,4 @@
+{'name': 'fiat 1100', 'manufacturer': ['fiat'], 'class': ['small family car', 'c-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1937, 'related': ['simca 8']}
+{'name': 'payhauler 350', 'manufacturer': ['international harvester', 'payhauler corp', 'terex corp'], 'class': ['50-ton', '45t'], 'layout': ['front engine 4x4'], 'production_year': 1956, 'related': ['payhauler', '140', '180', '330']}
+{'name': 'alfa romeo montreal', 'manufacturer': ['alfa romeo'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1970, 'related': []}
+{'name': 'fiat 1200 cabriolet', 'manufacturer': ['fiat'], 'class': ['sports car'], 'layout': [], 'production_year': 1959, 'related': []}

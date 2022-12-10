@@ -1,0 +1,2 @@
+{'name': 'lotus evora', 'manufacturer': ['lotus cars'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'transverse mid-engine', 'rear-wheel drive'], 'production_year': 2009, 'related': ['lotus 3-eleven', 'infiniti emerg-e']}
+{'name': 'toyota crown majesta', 'manufacturer': ['toyota'], 'class': ['full-size', 'luxury car', '!-- note mid-size in japan must be less than 1', '700 mm wide', 'crown majesta is 1', '800 mm --'], 'layout': ['unbulleted list'], 'production_year': 1991, 'related': ['unbulleted list']}

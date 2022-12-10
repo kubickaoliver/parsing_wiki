@@ -1,0 +1,5 @@
+{'name': 'lexus rz', 'manufacturer': ['lexus', 'toyota'], 'class': ['mid-size luxury car', 'mid-size luxury', 'crossover suv'], 'layout': ['dual-motor', 'all-wheel-drive', 'direct4'], 'production_year': 2022, 'related': ['toyota bz4x']}
+{'name': 'maxus mifa 9', 'manufacturer': ['maxus', 'saic motor'], 'class': ['minivan', 'm-segment'], 'layout': ['front-engine', 'front-wheel-drive', 'front-motor', 'front wheel drive'], 'production_year': 2021, 'related': ['maxus g90']}
+{'name': 'modern in', 'manufacturer': ['modern auto'], 'class': ['compact car', 'compact', 'crossover suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-motor', 'front-wheel drive'], 'production_year': 2021, 'related': []}
+{'name': 'bmw xm', 'manufacturer': ['bmw m'], 'class': ['luxury car', 'luxury', 'crossover suv'], 'layout': ['front-engine', 'four-wheel-drive layout', 'front-engine', 'all-wheel drive', 'xdrive'], 'production_year': 2022, 'related': ['bmw x7']}
+{'name': 'mitsubishi airtrek', 'manufacturer': ['mitsubishi motors'], 'class': ['compact crossover suv'], 'layout': ['front-motor', 'front-wheel-drive'], 'production_year': 2021, 'related': ['aion v']}

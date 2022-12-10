@@ -1,0 +1,3 @@
+{'name': 'yo-mobil', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'lexus is', 'manufacturer': ['lexus', 'toyota'], 'class': ['unbulleted list'], 'layout': ['unbulleted list'], 'production_year': 2005, 'related': []}
+{'name': 'gaz-3102 volga', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1982, 'related': ['gaz-31105']}

@@ -1,0 +1,4 @@
+{'name': 'exeed lx', 'manufacturer': ['chery', 'exeed', 'chery'], 'class': ['compact suv', 'compact', 'crossover', 'automobile', 'crossover'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2019, 'related': ['chery tiggo 7']}
+{'name': 'dorcen g70s', 'manufacturer': ['dorcen'], 'class': ['mid-size cuv', 'mid-size', 'crossover sport utility vehicle', 'cuv'], 'layout': ['front-engine', 'front-wheel drive'], 'production_year': 2018, 'related': ['zotye domy x7']}
+{'name': 'mazda mx-30', 'manufacturer': ['mazda'], 'class': ['compact crossover suv'], 'layout': ['unbulleted list'], 'production_year': 2020, 'related': ['unbulleted list']}
+{'name': 'toyota dynamic force engine', 'manufacturer': ['toyota'], 'class': ['wikitable style=text-align:center', 'font-size:90%'], 'layout': [], 'production_year': 2017, 'related': []}

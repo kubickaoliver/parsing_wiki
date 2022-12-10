@@ -1,0 +1,5 @@
+{'name': 'daihatsu mira e:s', 'manufacturer': ['daihatsu'], 'class': ['kei car'], 'layout': ['unbulleted list'], 'production_year': 2011, 'related': ['daihatsu move', 'la100', 'daihatsu move', 'la100']}
+{'name': 'dongfeng sokon c-series', 'manufacturer': ['dfsk', 'sokon', 'dongfeng xiaokang'], 'class': ['mini truck', 'microvan'], 'layout': [], 'production_year': 2009, 'related': []}
+{'name': 'jaguar r', 'manufacturer': ['jaguar cars', 'jaguar'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'all-wheel-drive'], 'production_year': 1995, 'related': ['jaguar xj220']}
+{'name': 'porsche 982', 'manufacturer': ['porsche'], 'class': ['sports car', 's-segment'], 'layout': ['mr layout'], 'production_year': 2016, 'related': []}
+{'name': 'opel astra', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': ['???', 'citation needed', 'reason=not because the information is doubted', 'but because all material must be properly cited', 'date=july 2018']}

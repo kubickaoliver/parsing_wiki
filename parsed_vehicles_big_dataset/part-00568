@@ -1,0 +1,2 @@
+{'name': 'peugeot type 183', 'manufacturer': ['peugeot'], 'class': ['family car'], 'layout': ['fr layout'], 'production_year': 1928, 'related': []}
+{'name': 'škoda fabia s2000', 'manufacturer': ['škoda auto', 'škoda motorsport'], 'class': ['super 2000'], 'layout': ['4-wheel drive'], 'production_year': 2009, 'related': []}

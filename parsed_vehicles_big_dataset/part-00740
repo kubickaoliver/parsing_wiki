@@ -1,0 +1,4 @@
+{'name': 'land rover discovery sport', 'manufacturer': ['jaguar land rover'], 'class': ['compact executive car', 'compact luxury', 'date=july 2022', 'crossover', 'automobile', 'crossover suv'], 'layout': ['ubl'], 'production_year': 2014, 'related': ['range rover evoque', 'l538', 'range rover evoque', 'l538']}
+{'name': 'twinair engine', 'manufacturer': ['fiat powertrain technologies', '2010-2011', 'fca italy', 'fiat group automobiles', '2011-2014', 'fca italy', '2014-'], 'class': [], 'layout': [], 'production_year': 2010, 'related': []}
+{'name': 'ubl', 'manufacturer': ['hillman', 'hillman motor car co ltd'], 'class': [], 'layout': [], 'production_year': 1934, 'related': []}
+{'name': 'lada vesta', 'manufacturer': ['lada', 'avtovaz'], 'class': ['subcompact car', 'b-segment'], 'layout': ['front-engine', 'front-wheel drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2015, 'related': []}

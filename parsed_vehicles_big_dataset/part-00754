@@ -1,0 +1,2 @@
+{'name': 'ford everest', 'manufacturer': ['ford'], 'class': ['mid-size', 'suv'], 'layout': ['front-engine design', 'front engine', 'rear-wheel drive', 'four-wheel drive'], 'production_year': 1998, 'related': []}
+{'name': 'ford capri', 'manufacturer': ['ford australia'], 'class': ['sports roadster'], 'layout': ['ff layout'], 'production_year': 1989, 'related': ['mazda 323']}

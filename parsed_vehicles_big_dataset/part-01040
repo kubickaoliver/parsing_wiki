@@ -1,0 +1,10 @@
+{'name': 'momo mirage', 'manufacturer': ['the momo corporation'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': '', 'related': []}
+{'name': 'hyundai ioniq 6', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': ['mid-size car'], 'layout': ['unbulleted list'], 'production_year': 2022, 'related': ['unbulleted list']}
+{'name': 'nabi lfw', 'manufacturer': ['north american bus industries', 'nabi'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 1997, 'related': []}
+{'name': 'nabi lfw', 'manufacturer': ['north american bus industries', 'nabi'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 1997, 'related': []}
+{'name': 'nabi lfw', 'manufacturer': ['ubl', 'ikarus usa', '1989–92', 'american ikarus', '1992–97', 'north american bus industries', 'nabi', '1997–2013'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 1989, 'related': []}
+{'name': 'nabi 416', 'manufacturer': ['ubl', 'ikarus usa', '1989–92', 'american ikarus', '1992–97', 'north american bus industries', 'nabi', '1997–2013'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 1989, 'related': []}
+{'name': 'nabi compobus', 'manufacturer': ['north american bus industries', 'nabi'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 2004, 'related': []}
+{'name': 'nabi compobus', 'manufacturer': ['north american bus industries', 'nabi'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 2004, 'related': []}
+{'name': 'nabi 60-brt', 'manufacturer': ['north american bus industries', 'nabi'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 2004, 'related': []}
+{'name': 'nabi 60-brt', 'manufacturer': ['north american bus industries', 'nabi'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 2004, 'related': []}

@@ -1,0 +1,4 @@
+{'name': 'datsun db', 'manufacturer': [], 'class': [], 'layout': ['fr layout'], 'production_year': 1948, 'related': ['datsun 2124 pickup']}
+{'name': 'austin eighteen', 'manufacturer': ['austin motor company', 'austin', 'ref name=tt47736', 'cars of 1938', 'the times', 'wednesday', '14 july 1937', 'issue 47736', 'ref'], 'class': [], 'layout': [], 'production_year': 1937, 'related': []}
+{'name': 'isotta fraschini t12 coupé', 'manufacturer': ['isotta fraschini', 'isotta fraschini spa'], 'class': ['luxury'], 'layout': ['front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive'], 'production_year': '', 'related': []}
+{'name': 'isotta fraschini d80&nbsp', 'manufacturer': ['isotta fraschini'], 'class': [], 'layout': [], 'production_year': '', 'related': []}

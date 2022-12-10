@@ -1,0 +1,5 @@
+{'name': 'nissan gt-r', 'manufacturer': ['nissan'], 'class': ['sports car', 'grand tourer', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['mid-engine', 'four-wheel-drive layout', 'front mid-engine', 'all-wheel drive'], 'production_year': 2007, 'related': ['unbulleted list']}
+{'name': 'chrysler pacifica', 'manufacturer': ['daimlerchrysler'], 'class': [], 'layout': ['transverse', 'ff layout', 'transverse', 'f4 layout'], 'production_year': 1999, 'related': ['chrysler town & country', 'chrysler voyager', 'dodge caravan', 'plymouth voyager']}
+{'name': 'htt pléthore', 'manufacturer': ['htt automobile'], 'class': ['sports car', 's-segment'], 'layout': ['mid-engine design', 'mid engine', 'rear-wheel drive'], 'production_year': 2010, 'related': []}
+{'name': 'rover ten', 'manufacturer': ['rover', 'car', 'rover'], 'class': [], 'layout': [], 'production_year': 1927, 'related': []}
+{'name': 'plymouth belmont', 'manufacturer': ['plymouth', 'automobile', 'plymouth', 'chrysler'], 'class': ['concept car'], 'layout': ['fr layout'], 'production_year': 1953, 'related': []}

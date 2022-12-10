@@ -1,0 +1,3 @@
+{'name': 'blue bird vision', 'manufacturer': ['blue bird corporation'], 'class': [], 'layout': ['front-engine', 'rear-wheel drive layout', 'fr layout'], 'production_year': 2003, 'related': []}
+{'name': 'peugeot 508', 'manufacturer': ['peugeot'], 'class': ['mid-size', 'large family car', 'd-segment'], 'layout': ['front-engine', 'front-wheel-drive', 'all-wheel-drive'], 'production_year': 2010, 'related': ['peugeot 5008']}
+{'name': 'mitsubishi pajero evolution', 'manufacturer': ['mitsubishi motors'], 'class': ['rally raid'], 'layout': ['4-wheel drive'], 'production_year': 1984, 'related': []}

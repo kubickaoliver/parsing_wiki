@@ -1,0 +1,6 @@
+{'name': 'sunbeam-talbot ten', 'manufacturer': ['sunbeam-talbot', 'rootes group'], 'class': ['compact executive car', 'd-segment'], 'layout': [], 'production_year': 1938, 'related': ['sunbeam-talbot 2 litre']}
+{'name': 'hartnett', 'manufacturer': ['hartnett motor company'], 'class': ['compact car'], 'layout': ['ff layout'], 'production_year': 1951, 'related': []}
+{'name': 'humber snipe', 'manufacturer': ['humber limited', 'humber', 'after 1931', 'rootes group'], 'class': [], 'layout': [], 'production_year': 1930, 'related': ['humber pullman']}
+{'name': 'toyota prius', 'manufacturer': ['toyota'], 'class': ['compact car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2009, 'related': ['ubl']}
+{'name': 'toyota prius', 'manufacturer': ['toyota'], 'class': ['compact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': '', 'related': []}
+{'name': 'toyota prius', 'manufacturer': ['toyota'], 'class': ['subcompact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1997, 'related': []}

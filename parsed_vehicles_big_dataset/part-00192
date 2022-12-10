@@ -1,0 +1,4 @@
+{'name': 'mercedes-benz m114', 'manufacturer': ['mercedes-benz'], 'class': [], 'layout': [], 'production_year': 1967, 'related': []}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2002, 'related': ['nissan bluebird sylphy']}
+{'name': 'opel kapitän', 'manufacturer': ['opel'], 'class': ['luxury car', 'f-segment'], 'layout': ['fr layout'], 'production_year': 1939, 'related': []}
+{'name': 'fiat 1300', 'manufacturer': ['fiat automobiles', 'fiat'], 'class': ['compact executive car', 'large family car', 'd-segment'], 'layout': ['fr layout'], 'production_year': 1961, 'related': ['seat 1500', 'fiat 125', 'polski fiat 125p', 'zastava 1300']}

@@ -1,0 +1,4 @@
+{'name': 'toyota gr super sport concept', 'manufacturer': ['toyota'], 'class': ['concept car'], 'layout': ['rear mid-engine', 'four-wheel-drive layout', 'rear mid-engine', 'four-wheel-drive'], 'production_year': '', 'related': ['unbulleted list']}
+{'name': 'tata lpt 613', 'manufacturer': ['tata motors'], 'class': ['truck'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'exeed tx', 'manufacturer': ['chery', 'exeed', 'chery'], 'class': ['mid-size car', 'mid-size', 'crossover', 'automobile', 'cuv'], 'layout': ['front engine', 'front-wheel drive', 'front engine', 'all-wheel drive'], 'production_year': 2019, 'related': []}
+{'name': 'honda e', 'manufacturer': ['honda'], 'class': ['subcompact car', 'supermini', 'b-segment'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-motor', 'rear-wheel-drive'], 'production_year': 2020, 'related': []}

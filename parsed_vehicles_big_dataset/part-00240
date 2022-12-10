@@ -1,0 +1,7 @@
+{'name': 'gmt 360', 'manufacturer': ['general motors'], 'class': ['mid-size suv', 'trailblazer', 'envoy & ascender', 'mid-size car', 'mid-size', 'luxury car', 'luxury suv', 'rainier', 'bravada & 9-7x', 'pickup truck', 'ssr'], 'layout': ['front engine', 'rwd', 'awd', '4x4'], 'production_year': 2001, 'related': []}
+{'name': 'standard vanguard', 'manufacturer': ['standard motor company'], 'class': [], 'layout': [], 'production_year': 1948, 'related': []}
+{'name': 'jaguar mark v', 'manufacturer': ['jaguar cars'], 'class': ['executive car', 'e-segment'], 'layout': [], 'production_year': 1948, 'related': []}
+{'name': 'porsche 914', 'manufacturer': ['porsche'], 'class': ['sports car'], 'layout': ['mr layout', 'mid engined'], 'production_year': 1970, 'related': ['porsche 917']}
+{'name': 'rover 8', 'manufacturer': ['rover company', 'rover'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': 1904, 'related': ['rover 6']}
+{'name': 'tvr tamora', 'manufacturer': ['tvr'], 'class': ['sports car', 's-segment'], 'layout': [], 'production_year': 2002, 'related': ['unbulleted list']}
+{'name': 'mitsubishi asx', 'manufacturer': ['mitsubishi motors'], 'class': ['subcompact crossover suv'], 'layout': ['unbulleted list'], 'production_year': 2010, 'related': ['unbulleted list']}

@@ -1,0 +1,12 @@
+{'name': 'mercury', 'manufacturer': ['mercury', 'automobile', 'mercury', 'ford motor company', 'ford'], 'class': ['muscle car'], 'layout': ['fr layout'], 'production_year': '', 'related': ['mercury comet', 'ford fairlane', 'americas', 'ford fairlane', 'mercury montego', 'ford torino talladega']}
+{'name': 'daimler ds420', 'manufacturer': ['daimler company', 'the daimler company limited', 'jaguar cars'], 'class': ['luxury car'], 'layout': [], 'production_year': 1968, 'related': ['jaguar mark x']}
+{'name': 'dodge royal', 'manufacturer': ['dodge'], 'class': ['full-size'], 'layout': ['fr layout'], 'production_year': 1954, 'related': []}
+{'name': 'mitsubishi freeca', 'manufacturer': ['unbulleted list'], 'class': ['unbulleted list'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': '', 'related': []}
+{'name': 'bolwell mk viii nagari', 'manufacturer': ['bolwell'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1970, 'related': []}
+{'name': 'mitsubishi ek', 'manufacturer': ['unbulleted list'], 'class': ['kei car'], 'layout': ['unbulleted list'], 'production_year': '', 'related': ['mitsubishi ek space', 'first generation']}
+{'name': 'holden commodore', 'manufacturer': ['holden'], 'class': ['executive car'], 'layout': ['front-engine', 'rear-wheel drive layout', 'front-engine', 'rear-wheel drive'], 'production_year': 2006, 'related': ['buick park avenue', 'china', 'chevrolet camaro', 'fifth generation', 'holden caprice', 'holden statesman', 'caprice', 'holden special vehicles', 'gts', 'clubsport']}
+{'name': 'veritas rs3', 'manufacturer': ['veritas', 'ref', 'http:', 'vermot-ag', 'com', 'inhalt', 'php?id=2702&menu_level=2&id_mnu=3308&id_kunden=422', 'bare url inline', 'date=september 2022', 'ref'], 'class': ['sports car', 's-segment'], 'layout': ['fmr layout', 'fmr'], 'production_year': 2009, 'related': []}
+{'name': 'emd 710', 'manufacturer': ['electro-motive diesel'], 'class': ['wikitable sortable'], 'layout': [], 'production_year': 1983, 'related': []}
+{'name': 'fiat nuova campagnola', 'manufacturer': ['fiat'], 'class': [], 'layout': [], 'production_year': 1974, 'related': []}
+{'name': 'fiat 1400', 'manufacturer': ['fiat'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1950, 'related': ['seat 1400']}
+{'name': 'fiat 524', 'manufacturer': ['fiat'], 'class': [], 'layout': ['fr layout'], 'production_year': 1931, 'related': []}

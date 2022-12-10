@@ -1,0 +1,2 @@
+{'name': 'honda civic', 'manufacturer': ['honda'], 'class': ['compact car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2011, 'related': ['acura ilx', 'honda cr-v', 'fourth generation', 'honda insight', 'honda jade']}
+{'name': 'chevrolet cosworth vega', 'manufacturer': ['chevrolet', 'general motors'], 'class': ['subcompact car', 'subcompact'], 'layout': ['fr layout'], 'production_year': 1974, 'related': []}

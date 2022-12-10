@@ -1,0 +1,2 @@
+{'name': 'daihatsu sonica', 'manufacturer': ['daihatsu'], 'class': ['kei car'], 'layout': ['unbulleted list'], 'production_year': 2006, 'related': []}
+{'name': 'ford cougar', 'manufacturer': ['ford of europe', 'ford europe'], 'class': ['sport coupé', 's-segment'], 'layout': ['front engine', 'front-wheel-drive'], 'production_year': 1998, 'related': ['ford mondeo']}

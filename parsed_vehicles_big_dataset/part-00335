@@ -1,0 +1,7 @@
+{'name': 'zap alias', 'manufacturer': ['zap', 'motor company', 'zap jonway'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'bmw 502', 'manufacturer': ['bmw', 'bayerische motoren werke ag', 'bmw'], 'class': ['luxury car'], 'layout': ['fr layout'], 'production_year': 1954, 'related': ['ubl', 'bmw 501', 'bmw 503', 'bmw 507', 'bmw 3200 cs']}
+{'name': 'jensen interceptor', 'manufacturer': ['jensen motors', 'jensen'], 'class': [], 'layout': [], 'production_year': 1950, 'related': []}
+{'name': 'bmw 326', 'manufacturer': ['bmw', 'bayerische motoren werke ag', 'bmw'], 'class': ['mid-size'], 'layout': ['fr layout'], 'production_year': 1936, 'related': ['bmw 327', 'bmw 328']}
+{'name': 'bmw 335', 'manufacturer': ['bmw', 'bayerische motoren werke ag', 'bmw'], 'class': ['full-size', 'luxury car'], 'layout': ['fr layout'], 'production_year': 1939, 'related': ['bmw 326']}
+{'name': 'dongfeng eq2102', 'manufacturer': ['dongfeng motor corporation'], 'class': ['truck'], 'layout': [], 'production_year': 1990, 'related': ['nissan diesel condor', 'cm series']}
+{'name': 'shaanxi sx2190', 'manufacturer': ['shaanxi automobile group'], 'class': [], 'layout': ['6x6', '4x4', 'sx2110', '8x8', 'sx2300'], 'production_year': 1980, 'related': []}

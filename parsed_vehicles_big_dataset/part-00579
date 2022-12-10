@@ -1,0 +1,4 @@
+{'name': 'file:renault logo', 'manufacturer': ['flagicon', 'france', 'renault sport'], 'class': ['wikitable style=text-align:center', 'font-size:95%'], 'layout': [], 'production_year': 1977, 'related': []}
+{'name': 'file:renault logo 1972', 'manufacturer': ['flagicon', 'france', 'renault', 'gordini'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'lada granta', 'manufacturer': ['lada'], 'class': ['subcompact car', 'subcompact', 'b-segment'], 'layout': ['transverse engine', 'transverse', 'front-engine', 'front-wheel-drive layout', 'front engine', 'front-wheel-drive'], 'production_year': 2011, 'related': ['lada kalina', 'datsun on-do']}
+{'name': 'jaguar c-x16', 'manufacturer': ['jaguar cars'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2011, 'related': ['jaguar f-type']}

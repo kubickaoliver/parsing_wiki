@@ -1,0 +1,2 @@
+{'name': 'ferrari sf90 stradale', 'manufacturer': ['ferrari'], 'class': ['sports car', 's-segment', '!-- per wp:carclass', 'this term should not be changed to supercar or hypercar --'], 'layout': ['longitudinal engine', 'longitudinal', 'mid-engine', 'four-wheel-drive layout', 'mid-engine', 'all-wheel-drive'], 'production_year': 2019, 'related': ['ubl']}
+{'name': 'volvo gtz', 'manufacturer': ['volvo cars'], 'class': ['concept car'], 'layout': ['fr layout'], 'production_year': 1969, 'related': ['volvo 140 series']}

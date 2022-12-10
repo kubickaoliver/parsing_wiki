@@ -1,0 +1,3 @@
+{'name': 'beijing bj2022', 'manufacturer': [], 'class': ['suv', 'pickup truck'], 'layout': ['front-engine design', 'front engine', 'four-wheel drive'], 'production_year': 2005, 'related': []}
+{'name': 'mercedes-benz sls amg', 'manufacturer': ['mercedes-amg'], 'class': ['grand tourer', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['ubl'], 'production_year': 2010, 'related': []}
+{'name': 'bmw z', 'manufacturer': [], 'class': ['sports car', 's-segment'], 'layout': ['rear-wheel drive'], 'production_year': 1989, 'related': []}

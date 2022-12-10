@@ -1,0 +1,2 @@
+{'name': 'honda nsx', 'manufacturer': ['honda'], 'class': ['sports car', 's-segment'], 'layout': ['longitudinal engine', 'longitudinal', 'mid-engine', 'all-wheel drive'], 'production_year': 2016, 'related': []}
+{'name': 'honda nsx', 'manufacturer': ['unbulleted list'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear-mid-engine', 'rear-wheel drive'], 'production_year': 1990, 'related': ['honda hsc']}

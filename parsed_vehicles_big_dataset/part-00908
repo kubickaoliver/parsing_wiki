@@ -1,0 +1,2 @@
+{'name': 'hyundai nexo', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': ['compact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-motor', 'front-wheel-drive'], 'production_year': 2018, 'related': []}
+{'name': 'byton m-byte', 'manufacturer': ['byton', 'company', 'byton'], 'class': ['subcompact executive car', 'subcompact luxury', 'crossover suv'], 'layout': ['plainlist'], 'production_year': '', 'related': []}

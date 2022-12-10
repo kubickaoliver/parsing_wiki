@@ -133,4 +133,4 @@ dmypy.json
 .devcontainer
 /dataset
 /index_schema
-/parsed_vehicles*
+/parsed_vehicles

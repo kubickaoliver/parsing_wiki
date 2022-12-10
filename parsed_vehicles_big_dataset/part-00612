@@ -1,0 +1,2 @@
+{'name': 'mini hatch', 'manufacturer': ['bmw', 'mini', 'marque', 'mini'], 'class': ['supermini', 'b-segment', 'sport compact', 'hot hatch', 'cooper s & jcw'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2000, 'related': []}
+{'name': 'vauxhall equus', 'manufacturer': ['panther westwinds', 'panther'], 'class': ['concept car'], 'layout': ['fr layout'], 'production_year': 1978, 'related': ['panther lima']}

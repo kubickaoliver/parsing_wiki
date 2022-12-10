@@ -1,0 +1,11 @@
+{'name': 'gaz-61v', 'manufacturer': ['gaz'], 'class': ['full-size car'], 'layout': ['f4 layout'], 'production_year': 1938, 'related': []}
+{'name': 'gaz-53', 'manufacturer': [], 'class': ['truck'], 'layout': ['fr layout', 'front engine layout'], 'production_year': 1961, 'related': []}
+{'name': 'honda airwave', 'manufacturer': ['honda'], 'class': ['subcompact car'], 'layout': ['unbulleted list'], 'production_year': '', 'related': ['unbulleted list']}
+{'name': 'honda l engine', 'manufacturer': ['honda'], 'class': ['wikitable'], 'layout': [], 'production_year': 2013, 'related': []}
+{'name': 'lamborghini 400 gt monza', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'nash ambassador', 'manufacturer': ['nash motors', '1932–1954', 'american motors', '1954–1974'], 'class': ['wikitable style=font-size: 90%'], 'layout': ['front-engine', 'rear-wheel drive layout', 'longitudinal front-engine', 'rear-wheel drive'], 'production_year': 1927, 'related': ['nash statesman']}
+{'name': 'series 25', 'manufacturer': [], 'class': [], 'layout': ['fr layout'], 'production_year': '', 'related': ['chevrolet deluxe']}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1955, 'related': ['pontiac safari']}
+{'name': 'lagonda 2', 'manufacturer': ['aston martin'], 'class': ['luxury car'], 'layout': [], 'production_year': 1948, 'related': []}
+{'name': 'lagonda 3-litre', 'manufacturer': ['aston martin', 'aston martin lagonda'], 'class': ['luxury car'], 'layout': [], 'production_year': 1953, 'related': []}
+{'name': 'toyota ist', 'manufacturer': ['toyota'], 'class': ['subcompact car'], 'layout': ['unbulleted list'], 'production_year': 2002, 'related': ['unbulleted list']}

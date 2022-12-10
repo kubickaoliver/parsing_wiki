@@ -1,0 +1,2 @@
+{'name': 'pontiac firebird', 'manufacturer': ['pontiac', 'automobile', 'pontiac', 'general motors'], 'class': ['pony car', 'muscle car'], 'layout': ['front-engine', 'rear-wheel drive layout', 'fr layout'], 'production_year': 1982, 'related': ['chevrolet camaro', 'third generation']}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2003, 'related': []}

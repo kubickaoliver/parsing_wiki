@@ -1,0 +1,6 @@
+{'name': 'plymouth de luxe', 'manufacturer': ['plymouth', 'automobile', 'plymouth', 'chrysler'], 'class': ['full-size'], 'layout': ['fr layout'], 'production_year': 1933, 'related': ['desoto deluxe', 'dodge deluxe']}
+{'name': 'singer sm1500', 'manufacturer': ['singer motors'], 'class': ['small family car', 'c-segment'], 'layout': [], 'production_year': 1948, 'related': []}
+{'name': 'fiat 1200 granluce', 'manufacturer': [], 'class': ['small family car'], 'layout': [], 'production_year': 1957, 'related': ['fiat 1100']}
+{'name': 'n15', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1995, 'related': []}
+{'name': 'y engine', 'manufacturer': ['toyota'], 'class': [], 'layout': [], 'production_year': 1982, 'related': []}
+{'name': 'toyota tz engine', 'manufacturer': ['toyota'], 'class': [], 'layout': [], 'production_year': 1990, 'related': []}

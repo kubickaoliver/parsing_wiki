@@ -1,0 +1,4 @@
+{'name': 'lohner-porsche mixed hybrid', 'manufacturer': [], 'class': ['horseless carriage'], 'layout': [], 'production_year': 1900, 'related': []}
+{'name': 'bugatti 18', 'manufacturer': ['bugatti automobiles', 'bugatti automobiles s'], 'class': ['concept car'], 'layout': ['mid-engine', 'four-wheel drive layout', 'mid-engine', 'four-wheel drive'], 'production_year': 1999, 'related': ['ubl']}
+{'name': 'daihatsu opti', 'manufacturer': ['daihatsu'], 'class': ['kei car'], 'layout': ['unbulleted list'], 'production_year': 1992, 'related': ['daihatsu mira', 'l200', 'daihatsu mira', 'l200']}
+{'name': 'daihatsu leeza', 'manufacturer': ['daihatsu'], 'class': ['kei car'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 1986, 'related': ['daihatsu mira', 'second', 'daihatsu mira', 'l70', 'l80']}

@@ -84,7 +84,7 @@ def enable_searching_simular_vehicle():
     vehicles = []
     vehicle_index = Index()
     # Create index from parsed vehicles
-    os.chdir('./parsed_vehicles')
+    os.chdir('./parsed_vehicles_big_dataset')
     for file_name in os.listdir():
         if not file_name.endswith(".crc") and file_name != '_SUCCESS':
             with open(f'{file_name}', 'r') as f:
@@ -119,8 +119,8 @@ def enable_searching_simular_vehicle():
 
 
 if __name__ == "__main__":
-    sc = SparkContext("local[12]", "vehicle_wiki_parsing")
-    spark = SparkSession.builder.master("local[12]").appName("vehicle_wiki_parsing").getOrCreate()
+    sc = SparkContext("local[10]", "wiki_parsing")
+    spark = SparkSession.builder.master("local[10]").appName("wiki_parsing").getOrCreate()
     start = time.time()
     
     xml_schema = StructType([\
@@ -134,11 +134,11 @@ if __name__ == "__main__":
     df = spark.read\
         .format('xml')\
             .options(rowTag="page")\
-                .load("dataset/enwiki-20220920-pages-meta-current.xml.bz2", schema=xml_schema)
+                .load("dataset/enwiki-20220920-pages-meta-current10.xml-p4045403p5399366.bz2", schema=xml_schema)
 
     rdd2 = df.rdd.map(lambda row: parsing_wiki(row)).filter(lambda row: row != None)
     rdd2.saveAsTextFile("./parsed_vehicles")
     print(time.time() - start, 's')
 
-    # enable_searching_simular_vehicle()
+    enable_searching_simular_vehicle()
  

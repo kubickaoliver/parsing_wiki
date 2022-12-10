@@ -1,0 +1,4 @@
+{'name': 'lotus elise', 'manufacturer': ['lotus cars'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'transverse mid-engine', 'rear-wheel-drive'], 'production_year': 1996, 'related': ['lotus 340r', 'opel speedster', 'vauxhall vx220', 'opel speedster', 'lotus elise gt1']}
+{'name': 'ford taunus', 'manufacturer': ['ford germany'], 'class': ['mid-size car'], 'layout': [], 'production_year': 1939, 'related': []}
+{'name': 'lotus elite type 14', 'manufacturer': ['unbulleted list'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1957, 'related': []}
+{'name': 'first generation', 'manufacturer': [], 'class': ['wikitable style=font-size: 90%'], 'layout': [], 'production_year': 1974, 'related': ['volkswagen golf', 'volkswagen jetta']}

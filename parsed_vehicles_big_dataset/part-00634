@@ -1,0 +1,2 @@
+{'name': 'jaguar xe', 'manufacturer': ['jaguar land rover'], 'class': ['compact executive car', 'd-segment'], 'layout': ['fr layout', 'f4 layout'], 'production_year': 2015, 'related': ['ubl', 'jaguar f-pace', 'jaguar xf', 'x260', 'range rover velar']}
+{'name': 'auburn speedster', 'manufacturer': ['auburn automobile', 'auburn automobile company'], 'class': [], 'layout': [], 'production_year': 1925, 'related': []}

@@ -1,0 +1,7 @@
+{'name': 'honda wow', 'manufacturer': ['honda'], 'class': ['minivan', 'concept car'], 'layout': ['ff layout'], 'production_year': '', 'related': []}
+{'name': 'toyota vios', 'manufacturer': ['toyota'], 'class': ['subcompact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2002, 'related': ['toyota platz', 'toyota platz', 'yaris', 'echo sedan', 'xp10']}
+{'name': 'first generation', 'manufacturer': [], 'class': ['wikitable style=text-align:center', 'font-size:90%'], 'layout': [], 'production_year': 2006, 'related': ['nissan rogue', 's35', 'nissan rogue', 's35', 'venucia t70']}
+{'name': 'jaguar', 'manufacturer': ['ss cars ltd', 'ss cars'], 'class': ['executive car', 'e-segment'], 'layout': ['fr layout'], 'production_year': 1935, 'related': []}
+{'name': 'opel signum', 'manufacturer': ['opel', 'general motors'], 'class': ['large family car', 'd-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2003, 'related': ['fiat croma', 'chevrolet malibu', 'opel vectra', 'saturn aura', 'saab 9-3']}
+{'name': 'quasar-unipower', 'manufacturer': ['universal power drives ltd', 'england'], 'class': ['special production'], 'layout': [], 'production_year': 1967, 'related': []}
+{'name': 'tvr cerbera', 'manufacturer': ['tvr'], 'class': ['sports car', 's-segment'], 'layout': ['front mid-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive'], 'production_year': 1996, 'related': ['tvr chimaera']}

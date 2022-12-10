@@ -1,0 +1,4 @@
+{'name': 'spyker silvestris v8', 'manufacturer': ['spyker cars'], 'class': ['concept car'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rmr layout'], 'production_year': 1999, 'related': []}
+{'name': 'ducati v4', 'manufacturer': ['ducati motor holding s'], 'class': ['super bike'], 'layout': [], 'production_year': 2017, 'related': []}
+{'name': 'chevrolet series f', 'manufacturer': ['chevrolet'], 'class': ['mid-size'], 'layout': ['fr layout'], 'production_year': 1917, 'related': []}
+{'name': 'polaris ranger', 'manufacturer': ['polaris industries'], 'class': ['utv'], 'layout': ['mid-engine', 'four-wheel-drive layout', 'mid-engine', 'four-wheel-drive'], 'production_year': 1997, 'related': ['polaris rzr']}

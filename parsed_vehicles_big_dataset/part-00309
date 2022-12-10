@@ -1,0 +1,5 @@
+{'name': 'volkswagen d24', 'manufacturer': ['volkswagen group'], 'class': ['wikitable style=text-align: center', 'font-size: 98%'], 'layout': [], 'production_year': 1978, 'related': []}
+{'name': 'volkswagen d24tic engine', 'manufacturer': ['volkswagen group'], 'class': ['wikitable style=text-align: center', 'font-size: 98%'], 'layout': [], 'production_year': 1982, 'related': []}
+{'name': 'jensen s-v8', 'manufacturer': ['jensen motors'], 'class': [], 'layout': ['longitudinal', 'front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2001, 'related': []}
+{'name': 'subaru srd-1', 'manufacturer': [], 'class': ['concept car'], 'layout': ['front-engine', 'all-wheel-drive layout'], 'production_year': 1989, 'related': []}
+{'name': 'covin', 'manufacturer': [], 'class': [], 'layout': ['rear-engine design', 'rear engine', 'rear-wheel drive'], 'production_year': 1980, 'related': ['volkswagen type 3', 'volkswagen variant type 3']}

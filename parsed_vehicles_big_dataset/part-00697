@@ -1,0 +1,3 @@
+{'name': 'subaru viziv', 'manufacturer': ['subaru'], 'class': ['shooting-brake', 'suv', 'subcompact suv'], 'layout': ['hybrid vehicle drivetrain', 'ttr hybrid', 'ttr hybrid', 'front-engine design', 'front engine', 'front-wheel drive', '+ electrically driven rear wheels'], 'production_year': '', 'related': ['viziv evolution']}
+{'name': 'bmw 2 series', 'manufacturer': ['bmw'], 'class': ['compact executive car', 'subcompact executive car', 'c-segment'], 'layout': ['ubl'], 'production_year': 2014, 'related': ['bmw 1 series', 'f20']}
+{'name': 'powerdrive', 'manufacturer': ['powerdrive ltd'], 'class': ['microcar'], 'layout': ['rmr layout', 'rmr'], 'production_year': '', 'related': ['coronet', 'automobile']}

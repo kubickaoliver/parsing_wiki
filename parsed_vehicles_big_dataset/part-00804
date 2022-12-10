@@ -1,0 +1,4 @@
+{'name': 'tama iron cobra', 'manufacturer': [], 'class': [], 'layout': ['standard footboard', 'longboard', 'speed cobra', 'single pedal', 'double pedal'], 'production_year': 1992, 'related': []}
+{'name': 'rover 9', 'manufacturer': ['rover company', 'rover'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'bugatti chiron', 'manufacturer': ['bugatti automobiles', 'bugatti automobiles s'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['mid-engine design', 'mid-engine', 'all-wheel-drive'], 'production_year': 2016, 'related': ['unbulleted list']}
+{'name': 'rover two-litre', 'manufacturer': ['rover', 'car', 'rover', 'ref name=tt44780', 'cite news', 'title=cars of to-day', 'newspaper=the times', 'date=3 january 1928', 'page=17', 'issue=44780', 'ref'], 'class': ['midsize car'], 'layout': [], 'production_year': 1927, 'related': []}

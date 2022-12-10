@@ -1,0 +1,8 @@
+{'name': 'devrim', 'manufacturer': ['eskişehir demiryolu fabrikası', 'eskişehir railroad factory', 'tülomsaş'], 'class': ['middle sized', 'road type'], 'layout': ['front engine', 'rear wheel drive'], 'production_year': '', 'related': []}
+{'name': 'british racing motors', 'manufacturer': ['flagicon', 'british racing motors'], 'class': [], 'layout': [], 'production_year': 1947, 'related': []}
+{'name': 'lancia thesis', 'manufacturer': ['fiat auto', '2001–2007', 'fca italy', 'fiat group automobiles', '2007–2009'], 'class': ['executive car', 'e-segment', 'full-size car'], 'layout': ['ff layout'], 'production_year': 2001, 'related': []}
+{'name': 'lancia y', 'manufacturer': [], 'class': ['wikitable style=text-align:center', 'font-size:85%', 'background-color:', 'ffffff '], 'layout': [], 'production_year': 1995, 'related': ['fiat punto', '176']}
+{'name': 'dawson 11-12', 'manufacturer': ['dawson car company'], 'class': [], 'layout': [], 'production_year': 1919, 'related': []}
+{'name': 'optare solo & optare solo sr', 'manufacturer': ['optare & switch mobility', 'optare'], 'class': ['minibus', 'midibus'], 'layout': [], 'production_year': 1998, 'related': []}
+{'name': 'renault 4cv', 'manufacturer': ['renault'], 'class': ['supermini', 'b-segment'], 'layout': ['rr layout'], 'production_year': 1947, 'related': []}
+{'name': 'volvo l3314', 'manufacturer': ['volvo cars'], 'class': ['military vehicle'], 'layout': ['mid-engine', 'four-wheel-drive layout', 'mid-engine', 'four-wheel-drive'], 'production_year': 1959, 'related': ['volvo c303']}

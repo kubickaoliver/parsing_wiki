@@ -1,0 +1,2 @@
+{'name': 'leapmotor s01', 'manufacturer': ['leapmotor'], 'class': ['sports car', 'sports car', 'city car', 'city car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front motor', 'front-wheel drive'], 'production_year': 2019, 'related': []}
+{'name': 'levc vn5', 'manufacturer': ['london ev company', 'levc'], 'class': ['panel van', 'leisure activity vehicle'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel drive'], 'production_year': 2020, 'related': ['levc tx']}

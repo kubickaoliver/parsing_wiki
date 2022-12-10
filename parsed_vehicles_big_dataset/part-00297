@@ -1,0 +1,8 @@
+{'name': 'mitsubishi mizushima', 'manufacturer': ['mitsubishi'], 'class': ['wikitable style=text-align:left'], 'layout': [], 'production_year': 1947, 'related': []}
+{'name': 'seat 1500', 'manufacturer': ['seat'], 'class': ['large family car', 'd-segment'], 'layout': ['fr layout'], 'production_year': 1963, 'related': ['seat 1400', 'seat 1400 c', 'fiat 1400', 'fiat 1800', '2100']}
+{'name': 'tamplin', 'manufacturer': ['tamplin motors'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1919, 'related': []}
+{'name': 'haval h3', 'manufacturer': ['great wall motors'], 'class': ['compact suv'], 'layout': ['front-engine', 'rear-wheel drive layout', 'front-engine', 'rear-wheel drive', 'front-engine', 'four-wheel drive layout', 'front-engine', 'four-wheel drive'], 'production_year': 2005, 'related': ['isuzu axiom']}
+{'name': 'grieve', 'manufacturer': ['juan alberto grieve'], 'class': ['economy car'], 'layout': [], 'production_year': 1908, 'related': []}
+{'name': 'orion vii', 'manufacturer': ['orion bus industries'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 2001, 'related': []}
+{'name': 'goggomobil dart', 'manufacturer': ['buckle motors', 'pty ltd', 'ref name=weiner58dart', 'cite web', 'url=http:', 'microcarmuseum', 'com', 'tour', 'goggo-dart', 'html', 'title=the bruce weiner motorcar museum - 1958 goggomobil dart', 'publisher=microcarmuseum', 'com', 'date=', 'accessdate=2012-04-06', 'ref'], 'class': ['microcar'], 'layout': ['rear-engine', 'rear-wheel drive layout', 'rr layout'], 'production_year': 1959, 'related': ['goggomobil']}
+{'name': 'humber hawk', 'manufacturer': ['humber limited', 'humber', 'rootes group'], 'class': [], 'layout': [], 'production_year': 1945, 'related': []}

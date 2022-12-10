@@ -1,0 +1,7 @@
+{'name': 'jeep grand commander', 'manufacturer': ['jeep', 'efn', 'name=manufacturer', 'ubl', 'fca us llc', '2018–2021', 'stellantis north america', '2021–present'], 'class': ['mid-size crossover suv'], 'layout': ['transverse engine', 'transverse', 'front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel drive'], 'production_year': 2018, 'related': ['jeep cherokee']}
+{'name': 'baojun 530', 'manufacturer': ['saic-gm-wuling'], 'class': ['compact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2018, 'related': ['unbulleted list']}
+{'name': 'geely haijing', 'manufacturer': ['englon', 'geely'], 'class': ['compact car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2010, 'related': ['geely yuanjing']}
+{'name': 'jac j5', 'manufacturer': ['jac motors'], 'class': [], 'layout': [], 'production_year': 2011, 'related': ['jac j3', 'jac j6']}
+{'name': 'lifan foison', 'manufacturer': ['lifan group'], 'class': ['microvan'], 'layout': [], 'production_year': 2011, 'related': []}
+{'name': 'lifan 530', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2013, 'related': []}
+{'name': 'man tg-range', 'manufacturer': ['man truck & bus'], 'class': ['commercial vehicle'], 'layout': [], 'production_year': 2000, 'related': []}

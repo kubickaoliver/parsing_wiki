@@ -1,0 +1,3 @@
+{'name': 'lamborghini asterion', 'manufacturer': ['automobili lamborghini s'], 'class': ['concept car', 'grand tourer', 's-segment'], 'layout': ['mid-engine', 'four-wheel-drive layout', 'mid-engine', 'all-wheel-drive'], 'production_year': 2014, 'related': ['lamborghini huracán']}
+{'name': 'tam 110 t7', 'manufacturer': ['tovarna avtomobilov maribor', 'tam'], 'class': ['truck', '4x4 utility', 'transport truck'], 'layout': [], 'production_year': 1976, 'related': []}
+{'name': 'chrysler valiant', 'manufacturer': ['chrysler australia'], 'class': [], 'layout': ['fr layout'], 'production_year': 1965, 'related': ['plymouth valiant']}

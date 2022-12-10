@@ -1,0 +1,3 @@
+{'name': 'suzuki dzire', 'manufacturer': ['suzuki'], 'class': ['subcompact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2008, 'related': ['ubl', 'suzuki baleno', 'suzuki ertiga', 'suzuki ignis', 'suzuki swift']}
+{'name': 'fiat argo', 'manufacturer': ['fiat', 'efn', 'name=manufacturer', 'ubl', 'fiat chrysler automobiles', '2017–2021', 'stellantis', '2021–present'], 'class': ['subcompact car', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2017, 'related': ['ubl']}
+{'name': 'more aggravation iii', 'manufacturer': [], 'class': ['alcohol fuel', 'alcohol', 'competition', 'supercharged'], 'layout': [], 'production_year': '', 'related': ['none']}

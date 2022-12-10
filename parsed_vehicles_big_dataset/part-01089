@@ -1,0 +1,3 @@
+{'name': 'citroën c3', 'manufacturer': ['citroën'], 'class': ['supermini', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2022, 'related': []}
+{'name': 'tank 500', 'manufacturer': ['great wall motor'], 'class': ['sport utility vehicle', 'full-size suv', 'full-size', 'luxury vehicle', 'luxury suv', 'crossover', 'luxury suv'], 'layout': ['front-engine', 'four-wheel drive layout', 'longitudinal front-engine', 'four-wheel drive'], 'production_year': 2021, 'related': []}
+{'name': 'hyundai global 900', 'manufacturer': ['hyundai motor company'], 'class': ['commercial vehicles', 'rear wheel drive vehicles'], 'layout': [], 'production_year': '', 'related': ['hyundai aero city', 'bering global 900', 'bering aero city']}

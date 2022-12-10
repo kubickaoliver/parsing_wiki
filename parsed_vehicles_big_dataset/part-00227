@@ -1,0 +1,8 @@
+{'name': 'matra m530', 'manufacturer': ['matra', 'matra automobiles'], 'class': ['sports car'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'mr layout'], 'production_year': 1967, 'related': ['ford taunus', 'taunus 15m ts', 'running gear', 'renault 16', 'headlights']}
+{'name': 'jaguar xf', 'manufacturer': ['ubl', 'jaguar cars', '2007-2012', 'jaguar land rover', '2013-2015'], 'class': ['executive car', 'e-segment'], 'layout': ['unbulleted list'], 'production_year': 2007, 'related': ['unbulleted list']}
+{'name': 'rinspeed veleno', 'manufacturer': ['rinspeed'], 'class': ['concept car'], 'layout': [], 'production_year': 1993, 'related': []}
+{'name': 'antarctic snow cruiser', 'manufacturer': ['armour institute of technology'], 'class': ['class 9'], 'layout': ['front-engine', 'four-wheel-drive layout', 'longitudinal front-engine', 'four-wheel drive'], 'production_year': 1937, 'related': []}
+{'name': 'rinspeed mono ego', 'manufacturer': ['rinspeed'], 'class': ['concept car'], 'layout': [], 'production_year': 1997, 'related': []}
+{'name': 'first generation', 'manufacturer': [], 'class': ['wikitable sortable style=text-align: centre'], 'layout': [], 'production_year': 2007, 'related': ['bmw x5', 'f15']}
+{'name': 'nissan r89c', 'manufacturer': ['nissan'], 'class': ['group c', 'race car'], 'layout': ['mr layout'], 'production_year': 1989, 'related': []}
+{'name': 'peugeot 306', 'manufacturer': ['peugeot'], 'class': ['small family car', 'c-segment'], 'layout': ['ff layout'], 'production_year': 1993, 'related': ['citroën xsara', 'citroën zx']}

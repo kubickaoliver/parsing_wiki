@@ -1,0 +1,3 @@
+{'name': '5hp', 'manufacturer': ['zf friedrichshafen'], 'class': ['5-speed', 'longitudinal engine', 'longitudinal', 'automatic transmission', 'automatic transmission'], 'layout': [], 'production_year': 1991, 'related': []}
+{'name': 'wright streetdeck', 'manufacturer': ['wrightbus'], 'class': ['double-decker bus'], 'layout': [], 'production_year': 2014, 'related': []}
+{'name': 'triumph tr7 sprint', 'manufacturer': ['triumph motor company'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1977, 'related': ['triumph tr7']}

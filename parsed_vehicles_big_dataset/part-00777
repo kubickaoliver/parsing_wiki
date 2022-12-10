@@ -1,0 +1,3 @@
+{'name': 'isuzu 810 series', 'manufacturer': ['isuzu motors'], 'class': ['truck'], 'layout': [], 'production_year': 1983, 'related': ['hino profia', 'super dolphin', 'hino super dolphin']}
+{'name': 'jelcz m125m', 'manufacturer': ['jelcz', 'zakłady samochodowe jelcz s'], 'class': ['commercial vehicle'], 'layout': ['rear-engine design', 'rear-engine', 'rear-wheel-drive'], 'production_year': 1998, 'related': ['jelcz m125m', '4 cng']}
+{'name': 'renault kwid', 'manufacturer': ['renault'], 'class': ['crossover city car', 'a-segment'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2015, 'related': ['unbulleted list']}

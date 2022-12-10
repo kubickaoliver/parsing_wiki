@@ -1,0 +1,4 @@
+{'name': 'rover-brm', 'manufacturer': ['rover company', 'rover', 'british racing motors', 'brm'], 'class': [], 'layout': [], 'production_year': 1963, 'related': []}
+{'name': 'lotus mark ix', 'manufacturer': ['lotus cars'], 'class': ['sports car racing', 'sports racing car'], 'layout': ['front engine', 'rear drive'], 'production_year': 1954, 'related': ['lotus mark vi']}
+{'name': 'tac stark 4wd flex', 'manufacturer': ['tecnologia automotiva catarinense'], 'class': [], 'layout': [], 'production_year': 2009, 'related': []}
+{'name': 'buick standard six', 'manufacturer': ['buick', 'general motors'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive', 'ref name=kimes1996'], 'production_year': '', 'related': ['mclaughlin motor car company', 'mclaughlin-buick']}

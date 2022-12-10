@@ -1,0 +1,8 @@
+{'name': 'fengon 500', 'manufacturer': ['dfsk motor'], 'class': ['subcompact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive', 'e3 evr', 'front-engine', 'front-wheel-drive layout', 'front-motor', 'front-wheel-drive', 'e3 ev', 'seres 3'], 'production_year': 2019, 'related': []}
+{'name': 'arcfox α-t', 'manufacturer': ['arcfox'], 'class': ['compact executive car', 'compact luxury', 'crossover suv'], 'layout': ['dual motor', 'four-wheel drive', '4wd'], 'production_year': 2020, 'related': []}
+{'name': 'beijing x7', 'manufacturer': ['baic group', 'beijing'], 'class': ['mid-size crossover', 'mid-size', 'crossover suv'], 'layout': ['ff layout'], 'production_year': 2020, 'related': []}
+{'name': 'wuling hongguang mini ev', 'manufacturer': ['saic-gm-wuling'], 'class': ['microcar', 'date=september 2022'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-motor', 'rear-wheel-drive'], 'production_year': 2020, 'related': ['unbulleted list']}
+{'name': 'luminousmarioii', 'manufacturer': ['the honda'], 'class': ['speed'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'arcfox lite', 'manufacturer': ['baic group', 'arcfox'], 'class': ['microcar'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': 2017, 'related': []}
+{'name': 'weiwang 407 ev', 'manufacturer': ['baic group'], 'class': ['light commercial vehicle'], 'layout': [], 'production_year': 2018, 'related': []}
+{'name': 'proterra ecoride be35', 'manufacturer': ['proterra', 'bus manufacturer', 'proterra'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-engine', 'rear-wheel-drive'], 'production_year': 2010, 'related': []}

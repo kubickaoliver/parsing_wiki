@@ -1,0 +1,2 @@
+{'name': 'storm multimission vehicle', 'manufacturer': ['automotive industries', 'automotive industries ltd'], 'class': ['off-road vehicle'], 'layout': ['f4 layout'], 'production_year': 1990, 'related': ['jeep wrangler', 'amc jeep cj', 'aev brute']}
+{'name': 'rover meteor', 'manufacturer': ['rover company', 'rover', 'ref name=tt45439', 'the rover meteor', 'the times', 'monday', 'feb 17', '1930', 'issue 45439', 'ref'], 'class': ['medium-size'], 'layout': ['front engine rear wheel drive'], 'production_year': '', 'related': ['rover two-litre']}

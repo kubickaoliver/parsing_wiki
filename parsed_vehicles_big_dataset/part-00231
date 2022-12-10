@@ -1,0 +1,5 @@
+{'name': 'bristol 407', 'manufacturer': ['bristol cars'], 'class': ['sports sedan', 'sport saloon'], 'layout': ['fr layout'], 'production_year': 1961, 'related': []}
+{'name': 'bristol 408', 'manufacturer': ['bristol cars'], 'class': ['sports sedan', 'sport saloon'], 'layout': ['fr layout'], 'production_year': 1963, 'related': []}
+{'name': 'bristol 409', 'manufacturer': ['bristol cars'], 'class': ['sports sedan', 'sport saloon'], 'layout': ['front-engine', 'rear-wheel drive layout', 'fr layout'], 'production_year': 1965, 'related': []}
+{'name': 'bristol 410', 'manufacturer': ['bristol cars'], 'class': ['sports sedan', 'sport saloon'], 'layout': ['front-engine', 'rear-wheel drive layout', 'fr layout'], 'production_year': 1968, 'related': []}
+{'name': 'meillerwagen', 'manufacturer': ['gollnow & son'], 'class': ['trailer'], 'layout': [], 'production_year': '', 'related': ['kfz', 'vidalwagen']}

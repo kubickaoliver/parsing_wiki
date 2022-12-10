@@ -1,0 +1,6 @@
+{'name': 'honda n-box', 'manufacturer': ['honda'], 'class': ['kei car'], 'layout': ['unbulleted list'], 'production_year': 2011, 'related': ['unbulleted list']}
+{'name': 'suzuki spacia', 'manufacturer': ['suzuki'], 'class': ['kei car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2013, 'related': ['suzuki wagon r', 'fifth', 'suzuki wagon r', 'mh34s', 'mh54s']}
+{'name': 'alfa romeo transaxle', 'manufacturer': ['alfa romeo'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1972, 'related': []}
+{'name': 'daihatsu wake', 'manufacturer': ['daihatsu'], 'class': ['unbulleted list'], 'layout': ['unbulleted list'], 'production_year': '', 'related': []}
+{'name': 'aston martin dbx', 'manufacturer': ['aston martin'], 'class': ['executive car', 'mid-size luxury', 'crossover suv'], 'layout': ['front-engine', 'four-wheel-drive'], 'production_year': 2020, 'related': ['aston martin vantage', '2018']}
+{'name': 'bentley exp 10 speed 6', 'manufacturer': ['bentley', 'bentley motors limited'], 'class': ['grand tourer', 's-segment'], 'layout': ['f4 layout'], 'production_year': 2015, 'related': []}

@@ -1,0 +1,9 @@
+{'name': 'joss jp1', 'manufacturer': ['joss developments'], 'class': ['sports car'], 'layout': ['rmr layout'], 'production_year': '', 'related': []}
+{'name': 'packard four hundred', 'manufacturer': ['packard'], 'class': [], 'layout': ['fr layout'], 'production_year': 1955, 'related': ['packard patrician', 'packard caribbean']}
+{'name': 'toyota ur engine', 'manufacturer': ['toyota motor corporation'], 'class': [], 'layout': [], 'production_year': 2006, 'related': []}
+{'name': 'packard patrician 1951-1952', 'manufacturer': ['packard'], 'class': [], 'layout': ['fr layout'], 'production_year': 1951, 'related': ['packard mayfair', 'packard 400']}
+{'name': 'dodge m80', 'manufacturer': ['dodge', 'chrysler'], 'class': ['concept car'], 'layout': ['fr layout'], 'production_year': 2002, 'related': []}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': ['unbulleted list', 'buick electra', 'buick estate', 'chevrolet kingswood', 'chevrolet townsman', 'oldsmobile custom cruiser', 'oldsmobile 98']}
+{'name': 'range rover classic', 'manufacturer': ['ubl', 'british leyland', '1969–1978', 'land rover ltd', '1978–1996'], 'class': ['sport utility vehicle', 'suv'], 'layout': [], 'production_year': 1969, 'related': ['land rover discovery']}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'zotye 2008', 'manufacturer': ['zotye international', 'zotye auto'], 'class': ['mini suv'], 'layout': [], 'production_year': 2005, 'related': ['daihatsu terios']}

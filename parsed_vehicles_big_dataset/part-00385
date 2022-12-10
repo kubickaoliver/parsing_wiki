@@ -1,0 +1,3 @@
+{'name': 'lamborghini estoque', 'manufacturer': ['automobili lamborghini s'], 'class': ['full-size car', 'full-size', 'luxury car', 'f-segment', 'concept car'], 'layout': ['front-engine design', 'front-engine', 'all wheel drive'], 'production_year': '', 'related': []}
+{'name': 'jaguar f-type', 'manufacturer': ['jaguar land rover'], 'class': ['grand tourer', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive', 'all-wheel-drive'], 'production_year': 2013, 'related': ['jaguar c-x16']}
+{'name': 'scottish aviation scamp', 'manufacturer': ['scottish aviation'], 'class': [], 'layout': ['rear-wheel drive'], 'production_year': 1965, 'related': []}

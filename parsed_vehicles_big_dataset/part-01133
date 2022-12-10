@@ -1,0 +1,3 @@
+{'name': 'tata avinya', 'manufacturer': ['tata electric passenger mobility limited'], 'class': ['5-seater electric suv'], 'layout': [], 'production_year': 2025, 'related': []}
+{'name': 'ussv rhino gx', 'manufacturer': ['us specialty vehicles'], 'class': ['sport utility vehicle', 'full-size suv'], 'layout': ['front-engine design', 'front engine', 'four-wheel drive'], 'production_year': 2015, 'related': []}
+{'name': 'trumpchi emkoo', 'manufacturer': ['gac group'], 'class': ['compact sport utility vehicle', 'compact', 'crossover suv', 'cuv', 'ref name=chinapev'], 'layout': [], 'production_year': 2022, 'related': []}

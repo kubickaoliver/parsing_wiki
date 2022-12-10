@@ -1,0 +1,3 @@
+{'name': 'bajaj qute', 'manufacturer': ['bajaj auto'], 'class': ['motorised quadricycle', 'quadricycle'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-engine', 'rear-wheel-drive'], 'production_year': 2013, 'related': []}
+{'name': 'pontiac eight', 'manufacturer': ['pontiac', 'automobile', 'pontiac', 'general motors'], 'class': ['full-size'], 'layout': ['fr layout', 'ref name=kimes1996', 'ref name=kowalke 1997'], 'production_year': 1933, 'related': ['cadillac series 61', 'buick century', 'buick special', 'oldsmobile series 70', 'chevrolet fleetline']}
+{'name': 'dc avanti', 'manufacturer': ['dc design', 'india'], 'class': ['sports car'], 'layout': ['mid-engine', 'rear wheel drive'], 'production_year': 2012, 'related': []}

@@ -1,0 +1,7 @@
+{'name': 'daihatsu taft', 'manufacturer': ['daihatsu'], 'class': ['kei car'], 'layout': ['unbulleted list'], 'production_year': 2020, 'related': ['unbulleted list']}
+{'name': 'hawtai shengdafei ii', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2015, 'related': []}
+{'name': 'junpai d80', 'manufacturer': ['faw group'], 'class': ['compact car', 'compact', 'crossover suv'], 'layout': ['ff layout'], 'production_year': 2018, 'related': []}
+{'name': 'oshan cosmos', 'manufacturer': ['changan automobile'], 'class': ['minivan', 'm-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2018, 'related': []}
+{'name': 'jetour x90', 'manufacturer': ['chery'], 'class': ['mid-size cuv', 'mid-size', 'crossover', 'automobile', 'crossover'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2019, 'related': ['jetour x95']}
+{'name': 'neta n01', 'manufacturer': ['hozon auto'], 'class': ['subcompact crossover'], 'layout': ['front-engine', 'front-wheel-drive layout'], 'production_year': 2018, 'related': []}
+{'name': 'seres sf5', 'manufacturer': ['seres', 'automobiles', 'seres'], 'class': ['compact suv', 'compact crossover suv'], 'layout': ['unbulleted list'], 'production_year': 2019, 'related': ['aito m5']}

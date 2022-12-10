@@ -1,0 +1,7 @@
+{'name': 'mitsuoka le-seyde', 'manufacturer': ['mitsuoka'], 'class': [], 'layout': ['fr layout'], 'production_year': 1990, 'related': []}
+{'name': 'honda crider', 'manufacturer': ['honda'], 'class': ['compact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2013, 'related': ['unbulleted list']}
+{'name': 'honda jade', 'manufacturer': ['honda'], 'class': ['compact mpv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2013, 'related': ['honda civic', 'ninth generation']}
+{'name': 'jaguar c-x17', 'manufacturer': ['jaguar land rover'], 'class': ['concept car'], 'layout': ['front-engine design', 'front engine', 'four-wheel drive'], 'production_year': 2013, 'related': ['jaguar xe', 'jaguar f-pace']}
+{'name': 'gaz-mm', 'manufacturer': ['unbulleted list', 'gaz', '1938-1947', 'uaz', '1947-1956'], 'class': ['truck'], 'layout': ['fr layout'], 'production_year': '', 'related': []}
+{'name': 'gm t platform', 'manufacturer': [], 'class': ['compact car', 'compact', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'transverse front-engine', 'front-wheel drive'], 'production_year': 1979, 'related': []}
+{'name': 'yutong city master', 'manufacturer': ['yutong'], 'class': ['bus manufacturing', 'complete bus'], 'layout': [], 'production_year': 2010, 'related': ['aec routemaster']}

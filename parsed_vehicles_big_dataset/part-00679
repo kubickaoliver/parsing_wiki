@@ -1,0 +1,2 @@
+{'name': 'timmis ford v8', 'manufacturer': ['timmis motor company'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1968, 'related': ['ford v-8']}
+{'name': 'laz-695', 'manufacturer': ['lviv bus factory', 'laz'], 'class': ['medium capacity bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 1956, 'related': ['laz-697', 'laz-699']}

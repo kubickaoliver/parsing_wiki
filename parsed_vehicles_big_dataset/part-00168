@@ -1,0 +1,3 @@
+{'name': 'sunshine special', 'manufacturer': ['lincoln motor company'], 'class': ['limousine'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'glasspar g2', 'manufacturer': ['glasspar'], 'class': ['sports car'], 'layout': [], 'production_year': 1950, 'related': []}
+{'name': 'chery qq', 'manufacturer': ['chery automobile', 'chery'], 'class': ['supermini car', 'supermini'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2003, 'related': ['chery qq6', 'chery qqme', 'chevrolet spark']}

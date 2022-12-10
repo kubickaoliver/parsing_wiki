@@ -1,0 +1,7 @@
+{'name': 'opel flextreme', 'manufacturer': ['opel'], 'class': ['compact car', 'small family car', 'c-segment'], 'layout': ['ff layout'], 'production_year': 2008, 'related': ['chevrolet volt', 'chevrolet volt', 'opel ampera']}
+{'name': 'international l series', 'manufacturer': ['international harvester'], 'class': ['wikitable'], 'layout': ['fr layout'], 'production_year': 1949, 'related': []}
+{'name': 'toyota iq', 'manufacturer': ['toyota'], 'class': ['city car'], 'layout': ['front-engine', 'front-wheel drive layout', 'front-engine', 'front-wheel drive'], 'production_year': '', 'related': []}
+{'name': 'ford falcon', 'manufacturer': ['ford australia'], 'class': ['full-size car', 'full-size'], 'layout': [], 'production_year': 1988, 'related': ['ford fairlane', 'australia', 'ford fairlane', 'ford fairlane', 'australia', 'ford ltd']}
+{'name': 'alvis three litre series iii', 'manufacturer': ['alvis cars'], 'class': [], 'layout': [], 'production_year': 1963, 'related': ['chassis continued to be sold to graber switzerland for graber', 's own bodies']}
+{'name': 'bentley continental gt', 'manufacturer': ['bentley'], 'class': [], 'layout': [], 'production_year': 2004, 'related': ['audi a8', 'bentley continental flying spur', '2005']}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': ['ff layout'], 'production_year': 1998, 'related': ['ford focus', 'north america']}

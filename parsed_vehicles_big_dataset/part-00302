@@ -1,0 +1,6 @@
+{'name': 'thomas saf-t-liner', 'manufacturer': ['thomas built buses', 'body and chassis'], 'class': ['type d', 'transit-style'], 'layout': ['front-engine 4x2', 'rear-engine 4x2', 'rear-engine 6x2'], 'production_year': 1978, 'related': []}
+{'name': 'purvis eureka', 'manufacturer': ['purvis cars'], 'class': ['sports car', 'kit car'], 'layout': ['rear-engine', 'rear-wheel drive layout'], 'production_year': 1974, 'related': ['nova', 'kit car', 'nova']}
+{'name': 'standard 9', 'manufacturer': ['standard motor company'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': 1914, 'related': []}
+{'name': 'ford falcon', 'manufacturer': ['ford australia'], 'class': ['full-size car', 'full-size'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1991, 'related': ['ford fairlane', 'australia', 'ford fairlane', 'ford fairlane', 'australia', 'ford ltd']}
+{'name': 'ferqui soroco', 'manufacturer': ['ferqui'], 'class': [], 'layout': [], 'production_year': 2000, 'related': []}
+{'name': 'tourette', 'manufacturer': ['progress supreme co ltd'], 'class': ['microcar'], 'layout': [], 'production_year': 1956, 'related': []}

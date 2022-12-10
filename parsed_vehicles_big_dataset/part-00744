@@ -1,0 +1,3 @@
+{'name': 'ford falcon', 'manufacturer': ['ford australia'], 'class': ['full-size car', 'full-size'], 'layout': ['fr layout'], 'production_year': 2014, 'related': []}
+{'name': 'chrysler valiant', 'manufacturer': ['chrysler australia'], 'class': [], 'layout': ['fr layout'], 'production_year': 1970, 'related': ['chrysler vip']}
+{'name': 'ford transit courier', 'manufacturer': ['ford otosan'], 'class': ['leisure activity vehicle'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2014, 'related': ['ford b-max', 'ford fiesta', 'seventh generation', '2008–present', 'ford fiesta', 'mk vi']}

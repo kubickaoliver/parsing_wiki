@@ -1,0 +1,3 @@
+{'name': 'toyota cresta', 'manufacturer': ['toyota'], 'class': ['compact executive car', 'mid-size car'], 'layout': ['front-engine design', 'front engine', 'rear-wheel drive', 'rwd'], 'production_year': 1980, 'related': ['unbulleted list']}
+{'name': 'anziel nova', 'manufacturer': ['anziel manufacturing'], 'class': ['mid-size car', 'mid-size', 'large family car'], 'layout': ['fr layout'], 'production_year': 1967, 'related': ['anadol a1', 'reliant', 'reliant fw5']}
+{'name': 'kia forte', 'manufacturer': ['kia'], 'class': ['compact car', 'c-segment'], 'layout': ['front-engine', 'front-wheel drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2008, 'related': ['plainlist']}

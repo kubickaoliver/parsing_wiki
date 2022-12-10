@@ -1,0 +1,8 @@
+{'name': 'chana cx70', 'manufacturer': ['changan automobile'], 'class': ['mid-size cuv', 'mid-size crossover'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2016, 'related': []}
+{'name': 'ram rebel trx', 'manufacturer': ['fca us llc', '2014-present'], 'class': ['full-size', 'pickup truck'], 'layout': ['front-engine design', 'front-engine', 'rear-wheel drive', 'four-wheel drive'], 'production_year': '', 'related': []}
+{'name': 'kia sportage', 'manufacturer': ['kia'], 'class': ['compact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2005, 'related': ['hyundai ix35', 'china', 'hyundai ix35']}
+{'name': 'kia kx7', 'manufacturer': ['kia'], 'class': ['mid-size crossover suv'], 'layout': ['ubl'], 'production_year': 2016, 'related': ['ubl']}
+{'name': 'jac binyue', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2008, 'related': []}
+{'name': 'tata nexon', 'manufacturer': ['tata motors'], 'class': ['subcompact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2017, 'related': ['unbulleted list']}
+{'name': 'lancia florida i', 'manufacturer': ['lancia'], 'class': [], 'layout': ['fr layout'], 'production_year': 1955, 'related': ['lancia aurelia']}
+{'name': 'bmw x5 m', 'manufacturer': ['bmw'], 'class': ['mid-size', 'luxury suv'], 'layout': ['f4 layout'], 'production_year': 2014, 'related': ['bmw x6 m']}

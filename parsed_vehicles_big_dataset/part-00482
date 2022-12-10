@@ -1,0 +1,2 @@
+{'name': 'suzuki karimun', 'manufacturer': ['suzuki'], 'class': ['city car'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 1999, 'related': []}
+{'name': 'byd f3', 'manufacturer': ['byd auto', 'byd'], 'class': ['compact car'], 'layout': [], 'production_year': 2005, 'related': ['ubl']}

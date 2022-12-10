@@ -1,0 +1,3 @@
+{'name': 'ford anglia', 'manufacturer': ['ford of britain', 'ford uk'], 'class': ['small family car', 'c-segment'], 'layout': ['fr layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1939, 'related': ['ford prefect']}
+{'name': 'toyota celica', 'manufacturer': ['toyota'], 'class': ['sports car'], 'layout': ['unbulleted list'], 'production_year': 1970, 'related': ['toyota carina']}
+{'name': 'nissan skyline gt-r', 'manufacturer': ['nissan'], 'class': ['sports car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': '', 'related': ['ubl']}

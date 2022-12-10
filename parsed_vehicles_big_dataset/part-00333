@@ -1,0 +1,3 @@
+{'name': 'rolls-royce ghost', 'manufacturer': ['rolls-royce motor cars'], 'class': ['full-size car', 'full-size', 'luxury car', 'f-segment'], 'layout': ['ubl', 'front-engine', 'rear-wheel-drive layout', 'first generation', 'front-engine', 'all-wheel-drive layout', 'second generation'], 'production_year': 2009, 'related': ['ubl']}
+{'name': 'vauxhall ten', 'manufacturer': ['vauxhall motors', 'vauxhall', 'general motors'], 'class': ['small family car', 'c-segment'], 'layout': ['front-engine design', 'front-engine', 'rear-wheel-drive'], 'production_year': 1937, 'related': ['ubl']}
+{'name': 'buddy', 'manufacturer': ['buddy electric', 'formerly known as pure mobility'], 'class': ['heavy quadricycle'], 'layout': [], 'production_year': 2005, 'related': []}

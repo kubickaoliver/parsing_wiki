@@ -1,0 +1,6 @@
+{'name': 'suzuki solio', 'manufacturer': ['suzuki'], 'class': ['mini mpv'], 'layout': ['unbulleted list'], 'production_year': 1997, 'related': ['suzuki wagon r', 'first', 'suzuki wagon r', 'first generation']}
+{'name': 'toyota corolla spacio', 'manufacturer': ['toyota'], 'class': ['compact mpv'], 'layout': ['unbulleted list'], 'production_year': 1997, 'related': ['toyota corolla', 'e110']}
+{'name': 'austin twelve engine', 'manufacturer': ['austin motor company', 'austin'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'mclaren m838t engine', 'manufacturer': ['mclaren automotive', 'mclaren', 'ricardo plc'], 'class': ['wikitable'], 'layout': [], 'production_year': 2011, 'related': []}
+{'name': 'honda odyssey', 'manufacturer': ['honda'], 'class': ['minivan'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1994, 'related': ['ubl', 'honda accord', 'cd3', 'honda accord', 'isuzu aska']}
+{'name': 'honda odyssey', 'manufacturer': ['honda'], 'class': ['minivan'], 'layout': ['front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive'], 'production_year': 1994, 'related': ['honda accord']}

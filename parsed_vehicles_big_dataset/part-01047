@@ -1,0 +1,4 @@
+{'name': 'sehol x7', 'manufacturer': ['sol', 'car marque', 'sol', 'jac motors'], 'class': ['mid-size crossover', 'mid-size', 'crossover sport utility vehicle', 'cuv'], 'layout': [], 'production_year': 2020, 'related': ['jac refine s7', 'sehol x8']}
+{'name': 'forthing t5 evo', 'manufacturer': ['dongfeng liuzhou motor', 'forthing'], 'class': ['compact car', 'compact', 'crossover sport utility vehicle', 'cuv'], 'layout': ['ff layout'], 'production_year': 2020, 'related': ['forthing t5']}
+{'name': 'maxus ev30', 'manufacturer': ['maxus'], 'class': ['light commercial vehicle'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2018, 'related': []}
+{'name': 'traum seek5', 'manufacturer': ['traum', 'marque', 'traum', 'jiangnan auto'], 'class': ['mid-size cuv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2018, 'related': ['ruixiang x5']}

@@ -1,0 +1,2 @@
+{'name': 'subaru forester', 'manufacturer': ['subaru'], 'class': ['compact crossover suv'], 'layout': ['front-engine', 'all-wheel drive'], 'production_year': 1997, 'related': ['subaru impreza']}
+{'name': 'trabant', 'manufacturer': ['hqm sachsenring gmbh', 'veb sachsenring'], 'class': [], 'layout': ['front-engine', 'front-wheel-drive layout', 'transverse front-engine', 'front-wheel-drive'], 'production_year': 1957, 'related': []}

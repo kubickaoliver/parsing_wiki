@@ -1,0 +1,5 @@
+{'name': 'bertone pirana', 'manufacturer': [], 'class': [], 'layout': ['fr layout'], 'production_year': 1967, 'related': ['jaguar e-type']}
+{'name': 'lamborghini urraco', 'manufacturer': ['lamborghini'], 'class': ['sports car'], 'layout': ['transverse engine', 'transverse', 'rear mid-engine', 'rear-wheel-drive layout', 'mid-engine', 'rear-wheel-drive'], 'production_year': 1972, 'related': ['lamborghini silhouette', 'lamborghini jalpa', 'lamborghini espada']}
+{'name': 'honda h engine', 'manufacturer': ['honda'], 'class': ['wikitable style=text-align: center', 'font-size:100% color: black'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'cadillac cien', 'manufacturer': ['cadillac', 'general motors'], 'class': ['sports car'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 2002, 'related': []}
+{'name': 'de tomaso mangusta', 'manufacturer': ['de tomaso'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 1967, 'related': []}

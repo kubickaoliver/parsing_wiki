@@ -1,0 +1,2 @@
+{'name': 'peugeot rcz', 'manufacturer': ['peugeot'], 'class': ['sports car'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2009, 'related': ['peugeot 308', 'peugeot 308']}
+{'name': 'cadillac ats-v', 'manufacturer': ['general motors'], 'class': ['compact executive car', 'd-segment'], 'layout': ['fr layout'], 'production_year': 2016, 'related': ['cadillac ats']}

@@ -1,0 +1,4 @@
+{'name': 'renault trucks t', 'manufacturer': ['renault trucks'], 'class': ['heavy truck'], 'layout': [], 'production_year': 2013, 'related': []}
+{'name': 'gazelle next', 'manufacturer': ['gaz', 'gorky automobile plant'], 'class': ['light commercial vehicle', 'm-segment'], 'layout': ['fr layout'], 'production_year': 2013, 'related': []}
+{'name': 'datsun ds', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1950, 'related': ['datsun 4146 pickup']}
+{'name': 'uaz simbir', 'manufacturer': ['uaz'], 'class': ['suv'], 'layout': ['fr layout'], 'production_year': '', 'related': []}

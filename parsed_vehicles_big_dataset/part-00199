@@ -1,0 +1,2 @@
+{'name': 'beaumont', 'manufacturer': ['general motors'], 'class': ['mid-size car'], 'layout': ['fr layout'], 'production_year': 1960, 'related': []}
+{'name': 'toyota mega cruiser', 'manufacturer': ['toyota'], 'class': ['full-size', 'suv'], 'layout': ['front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive'], 'production_year': 1995, 'related': []}

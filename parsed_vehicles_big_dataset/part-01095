@@ -1,0 +1,8 @@
+{'name': 'mclaren m630 engine', 'manufacturer': ['mclaren automotive', 'mclaren'], 'class': [], 'layout': [], 'production_year': 2021, 'related': []}
+{'name': 'soueast dx9', 'manufacturer': ['soueast motors'], 'class': ['mid-size suv', 'mid-size', 'suv'], 'layout': ['front-engine', 'front-wheel drive layout', 'front-engine', 'front-wheel drive'], 'production_year': 2022, 'related': []}
+{'name': 'ferrari 3z spider', 'manufacturer': ['ferrari'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'zytek zg348', 'manufacturer': ['flagicon', 'zytek'], 'class': [], 'layout': [], 'production_year': 2002, 'related': []}
+{'name': 'zytek zj458', 'manufacturer': ['flagicon', 'zytek'], 'class': [], 'layout': [], 'production_year': 2009, 'related': []}
+{'name': 'rolls royce spectre', 'manufacturer': ['rolls-royce motor cars', 'bmw'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'bmw ix3', 'manufacturer': ['bmw'], 'class': ['compact executive car', 'compact luxury', 'crossover suv'], 'layout': ['rear-engine', 'rear-wheel drive layout', 'rear-motor', 'rear-wheel drive'], 'production_year': 2020, 'related': ['bmw x3', 'g01', 'bmw x3', 'g01']}
+{'name': 'hongqi qm9', 'manufacturer': ['hongqi', 'marque', 'hongqi'], 'class': ['minivan', 'm-segment'], 'layout': [], 'production_year': 2022, 'related': []}

@@ -1,0 +1,4 @@
+{'name': 't200', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2004, 'related': []}
+{'name': 'tata venture', 'manufacturer': ['tata motors'], 'class': ['minivan', 'large mpv'], 'layout': ['rr layout'], 'production_year': 2010, 'related': ['tata super ace']}
+{'name': 'ford d series', 'manufacturer': ['ford uk'], 'class': [], 'layout': [], 'production_year': 1965, 'related': []}
+{'name': 'suzuki palette', 'manufacturer': ['suzuki'], 'class': ['kei car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive'], 'production_year': 2008, 'related': ['suzuki wagon r']}

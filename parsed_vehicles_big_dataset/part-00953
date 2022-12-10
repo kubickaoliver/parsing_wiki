@@ -1,0 +1,10 @@
+{'name': 'torsus praetorian', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'new flyer invero', 'manufacturer': ['new flyer'], 'class': ['transit bus'], 'layout': [], 'production_year': 2002, 'related': []}
+{'name': 'alpina b7', 'manufacturer': ['alpina', 'alpina burkard bovensiepen gmbh & co'], 'class': ['full-size', 'luxury car', 'f-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'front-engine', 'all-wheel-drive', 'xdrive'], 'production_year': 2009, 'related': ['bmw 7 series', 'f01', 'alpina b6', 'f12']}
+{'name': 'unimog 2010', 'manufacturer': ['daimler-benz ag'], 'class': [], 'layout': [], 'production_year': 1951, 'related': []}
+{'name': 'bisu t5', 'manufacturer': ['bisu auto'], 'class': ['mid-size cuv'], 'layout': ['ff layout'], 'production_year': 2016, 'related': []}
+{'name': 'bisu t3', 'manufacturer': ['bisu auto'], 'class': ['subcompact cuv'], 'layout': ['ff layout'], 'production_year': 2016, 'related': []}
+{'name': 'bisu m3', 'manufacturer': ['bisu auto'], 'class': ['multi purpose vehicle', 'mpv'], 'layout': ['ff layout'], 'production_year': 2016, 'related': []}
+{'name': 'jinbei f50', 'manufacturer': ['jinbei', 'marque'], 'class': ['minivan', 'mpv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2017, 'related': []}
+{'name': 'nissan kr engine', 'manufacturer': ['nissan'], 'class': [], 'layout': [], 'production_year': 2018, 'related': []}
+{'name': 'huansu h3', 'manufacturer': ['huansu'], 'class': ['multi purpose vehicle', 'mpv'], 'layout': ['ff layout'], 'production_year': 2015, 'related': []}

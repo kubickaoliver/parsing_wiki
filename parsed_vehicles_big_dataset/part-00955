@@ -1,0 +1,4 @@
+{'name': 'country flag', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'unimog 70200', 'manufacturer': ['illm', 'gebr', 'boehringer', 'boehringer', 'gebr', 'boehringer'], 'class': [], 'layout': [], 'production_year': 1948, 'related': []}
+{'name': 'unimog 421', 'manufacturer': ['daimler-benz'], 'class': [], 'layout': [], 'production_year': 1966, 'related': []}
+{'name': 'nio es6', 'manufacturer': ['nio', 'car company', 'nio'], 'class': ['mid-size suv'], 'layout': ['dual motor', 'four-wheel drive', '4wd'], 'production_year': 2019, 'related': ['nio ec6']}

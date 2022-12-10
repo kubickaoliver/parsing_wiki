@@ -1,0 +1,4 @@
+{'name': 'clio symbol', 'manufacturer': [], 'class': ['wikitable style=text-align:center', 'font-size:91%'], 'layout': [], 'production_year': 1999, 'related': ['renault clio', 'renault clio ii']}
+{'name': 'first generation', 'manufacturer': [], 'class': ['wikitable border=1'], 'layout': ['fr layout'], 'production_year': 1949, 'related': []}
+{'name': 'nissan vrh engine', 'manufacturer': ['nissan'], 'class': [], 'layout': [], 'production_year': 1988, 'related': []}
+{'name': 'dennis ds', 'manufacturer': ['dennis specialist vehicles', 'hestair dennis'], 'class': [], 'layout': [], 'production_year': 1979, 'related': ['dennis rs', 'ss series']}

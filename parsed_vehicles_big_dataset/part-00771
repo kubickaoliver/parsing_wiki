@@ -1,0 +1,3 @@
+{'name': 'daf f241 series', 'manufacturer': ['daf trucks'], 'class': ['heavy truck'], 'layout': [], 'production_year': 1973, 'related': ['ubl', 'daf f218 series', 'daf f220 series']}
+{'name': 'austin 30 hp', 'manufacturer': ['austin motor company', 'austin'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'кraz-5401', 'manufacturer': ['kraz'], 'class': ['truck'], 'layout': [], 'production_year': 2013, 'related': ['kraz h12']}

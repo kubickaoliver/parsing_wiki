@@ -1,0 +1,5 @@
+{'name': 'shanxi hangtian victory', 'manufacturer': ['guizhou hangtian chenggong automobile'], 'class': ['microvan'], 'layout': [], 'production_year': 2012, 'related': []}
+{'name': 'mazda2', 'manufacturer': ['mazda'], 'class': ['subcompact car', 'subcompact', 'supermini', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'all-wheel-drive'], 'production_year': 2002, 'related': ['unbulleted list']}
+{'name': 'dongfeng ev400', 'manufacturer': ['dongfeng automobile company', 'sunlong', '- guangxi yibian'], 'class': ['light commercial vehicle'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-engine', 'rear-wheel-drive'], 'production_year': 2018, 'related': []}
+{'name': 'hanteng v7', 'manufacturer': ['hanteng autos'], 'class': ['minivan', 'm-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2019, 'related': []}
+{'name': 'toyota fc bus', 'manufacturer': ['toyota'], 'class': ['transit bus'], 'layout': [], 'production_year': 2017, 'related': []}

@@ -1,0 +1,8 @@
+{'name': 'geely xingyue l', 'manufacturer': ['geely'], 'class': ['mid-size crossover suv'], 'layout': ['unbulleted list'], 'production_year': 2021, 'related': ['geely xingyue']}
+{'name': 'daihatsu rocky', 'manufacturer': ['daihatsu'], 'class': ['subcompact crossover suv'], 'layout': ['unbulleted list'], 'production_year': 2019, 'related': ['unbulleted list']}
+{'name': 'inferno exotic car', 'manufacturer': ['inferno automobili'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'jonway wuxing', 'manufacturer': ['jonway automobile'], 'class': [], 'layout': ['mid engine', 'rear-wheel drive'], 'production_year': 2012, 'related': []}
+{'name': 'lifan xingshun', 'manufacturer': ['lifan group'], 'class': ['microvan'], 'layout': [], 'production_year': 2011, 'related': []}
+{'name': 'sehol x4', 'manufacturer': ['jac motors'], 'class': ['compact crossover', 'compact cuv'], 'layout': [], 'production_year': 2020, 'related': ['jac refine s4']}
+{'name': 'toyota hybari', 'manufacturer': ['toyota', 'jr east', 'hitachi'], 'class': ['train'], 'layout': [], 'production_year': 2021, 'related': []}
+{'name': 'dacia bigster', 'manufacturer': ['automobile dacia', 'dacia'], 'class': ['concept car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front motor', 'front-wheel drive', 'front-engine', 'four-wheel-drive layout', 'four-wheel-drive'], 'production_year': 2021, 'related': []}

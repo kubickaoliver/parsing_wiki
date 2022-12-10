@@ -1,0 +1,3 @@
+{'name': 'gaz valdai', 'manufacturer': ['gaz', 'gorky automobile plant'], 'class': ['truck', 'medium truck'], 'layout': ['fr layout'], 'production_year': 2004, 'related': []}
+{'name': 'freightliner business class m2', 'manufacturer': ['daimler trucks north america', 'freightliner trucks', 'freightliner'], 'class': ['truck classification', 'class 5-8'], 'layout': ['4x2', '6x4', '4x4', '6x6'], 'production_year': 2002, 'related': ['freightliner c2', 'bus chassis']}
+{'name': 'dhmakerbus', 'manufacturer': ['beth compton', 'kim martin', 'and ryan hunt'], 'class': [], 'layout': [], 'production_year': '', 'related': []}

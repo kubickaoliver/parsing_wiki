@@ -1,0 +1,3 @@
+{'name': 'honda ev-n concept', 'manufacturer': ['honda'], 'class': ['subcompact car', 'a-segment'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'traum meet3', 'manufacturer': ['traum', 'marque', 'traum'], 'class': ['compact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2018, 'related': ['zotye sr7']}
+{'name': 'baic bj90', 'manufacturer': ['baic group'], 'class': ['sport utility vehicle', 'full-size suv', 'full-size', 'luxury vehicle', 'luxury suv', 'crossover', 'luxury suv'], 'layout': ['front-engine', 'four-wheel drive layout', 'front-engine', 'four-wheel drive'], 'production_year': 2016, 'related': ['mercedes-benz gl-class', 'x166']}

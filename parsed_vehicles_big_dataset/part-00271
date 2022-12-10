@@ -1,0 +1,4 @@
+{'name': 'murtaya', 'manufacturer': ['als sports cars'], 'class': ['roadster', 'automobile', 'roadster'], 'layout': ['front engine', 'all wheel drive', 'awd'], 'production_year': 2006, 'related': []}
+{'name': 'volvo 850', 'manufacturer': ['volvo cars'], 'class': ['compact executive car', 'd-segment'], 'layout': ['ubl', 'front-engine', 'front-wheel-drive layout', 'front engine', 'front-wheel drive', 'four-wheel drive'], 'production_year': 1991, 'related': []}
+{'name': 'perodua viva', 'manufacturer': ['perodua'], 'class': ['city car'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2007, 'related': ['daihatsu mira', 'l250 series', '2002', 'daihatsu mira', 'l250']}
+{'name': 'mercedes-benz m116 engine', 'manufacturer': ['mercedes-benz'], 'class': [], 'layout': [], 'production_year': 1969, 'related': []}

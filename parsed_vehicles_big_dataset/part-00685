@@ -1,0 +1,3 @@
+{'name': 'sisu k-50ss', 'manufacturer': ['sisu auto', 'oy suomen autoteollisuus ab'], 'class': [], 'layout': ['six-wheel drive', '6×6'], 'production_year': 1961, 'related': []}
+{'name': 'british leyland ecv3', 'manufacturer': ['british leyland'], 'class': [], 'layout': [], 'production_year': 1982, 'related': []}
+{'name': 'bmw 4 series', 'manufacturer': ['bmw'], 'class': ['compact executive car', 'd-segment'], 'layout': ['ubl'], 'production_year': 2013, 'related': ['unbulleted list', 'bmw 3 series', 'f30']}

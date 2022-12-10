@@ -1,0 +1,19 @@
+{'name': 'vauxhall victor', 'manufacturer': ['vauxhall motors', 'vauxhall', 'general motors'], 'class': [], 'layout': [], 'production_year': 1957, 'related': ['opel rekord series d', 'opel rekord', 'hindustan contessa']}
+{'name': 'toyota chaser', 'manufacturer': ['toyota'], 'class': ['unbulleted list'], 'layout': ['unbulleted list'], 'production_year': 1977, 'related': ['unbulleted list']}
+{'name': 'gmc motorhome', 'manufacturer': ['gmc', 'automobile', 'gmc truck and coach division', 'general motors'], 'class': ['recreational vehicle'], 'layout': ['front-engine', 'front-wheel-drive layout', 'longitudinally mounted front-engine and front-wheel drive', 'longitudinal front-engine', 'front-wheel drive'], 'production_year': 1972, 'related': []}
+{'name': 'toyota rz engine', 'manufacturer': ['toyota motor corporation'], 'class': [], 'layout': [], 'production_year': 1989, 'related': []}
+{'name': 'toyota mz engine', 'manufacturer': ['toyota motor corporation'], 'class': [], 'layout': [], 'production_year': 1993, 'related': []}
+{'name': 'toyota vz engine', 'manufacturer': ['toyota motor corporation'], 'class': [], 'layout': [], 'production_year': 1988, 'related': []}
+{'name': 'toyota uz engine', 'manufacturer': ['toyota motor corporation'], 'class': [], 'layout': [], 'production_year': 1989, 'related': []}
+{'name': 'toyota r engine', 'manufacturer': ['toyota'], 'class': ['wikitable'], 'layout': [], 'production_year': 1953, 'related': []}
+{'name': 'mg zs', 'manufacturer': ['mg cars', 'mg rover'], 'class': ['small family car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2001, 'related': ['ubl', 'honda domani', 'rover 45']}
+{'name': 'toyota k engine', 'manufacturer': ['toyota'], 'class': ['wikitable'], 'layout': [], 'production_year': 1966, 'related': []}
+{'name': 'bmw z1', 'manufacturer': ['bmw'], 'class': ['roadster', 'automobile', 'roadster'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': 1989, 'related': ['bmw 3 series', 'e30', 'bmw e30']}
+{'name': 'toyota rav4', 'manufacturer': ['toyota'], 'class': ['compact crossover suv'], 'layout': ['unbulleted list'], 'production_year': 1994, 'related': ['unbulleted list']}
+{'name': 'ford mel v8', 'manufacturer': ['ford motor company'], 'class': [], 'layout': [], 'production_year': 1958, 'related': []}
+{'name': 'jaguar xj220', 'manufacturer': ['jaguarsport', 'small', 'jaguar cars', 'jaguar', 'tom walkinshaw racing', 'twr', 'joint venture', 'small'], 'class': ['sports car', 's-segment'], 'layout': ['unbulleted list'], 'production_year': 1992, 'related': []}
+{'name': 'chevrolet cobalt', 'manufacturer': ['general motors'], 'class': ['compact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front engine', 'front wheel drive'], 'production_year': 2004, 'related': ['opel astra', 'opel astra h', 'chevrolet cobalt ss', 'chevrolet hhr', 'saturn ion', 'saturn ion', 'chevrolet equinox']}
+{'name': 'renault-nissan c platform', 'manufacturer': ['renault–nissan alliance'], 'class': ['compact car'], 'layout': ['ubl', 'front-engine', 'front-wheel-drive layout', 'front-engine', 'four-wheel-drive layout'], 'production_year': 2003, 'related': []}
+{'name': 'nissan ad', 'manufacturer': ['nissan'], 'class': ['subcompact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1982, 'related': ['nissan sunny', 'b11', 'nissan sunny', 'b11']}
+{'name': 'dixi 3', 'manufacturer': ['automobilwerk eisenach', 'fahrzeugfabrik eisenach', 'bmw', 'bayerische motoren werke ag', 'bmw'], 'class': [], 'layout': ['automobile layout', 'rear-wheel-drive layouts', 'fr layout'], 'production_year': 1927, 'related': ['austin 7']}
+{'name': 'austin sheerline', 'manufacturer': ['austin motor company', 'austin'], 'class': [], 'layout': [], 'production_year': 1947, 'related': ['austin princess']}

@@ -1,0 +1,2 @@
+{'name': 'scania omniline', 'manufacturer': ['scania ab', 'scania'], 'class': ['commercial vehicle'], 'layout': [], 'production_year': 2000, 'related': []}
+{'name': 'aston', 'manufacturer': ['aston martin', 'aston martin lagonda limited'], 'class': ['track day car'], 'layout': ['front mid-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive'], 'production_year': 2015, 'related': ['aston martin one-77', 'aston_martin_one-77', 'aston_martin_victor', 'aston martin victor']}

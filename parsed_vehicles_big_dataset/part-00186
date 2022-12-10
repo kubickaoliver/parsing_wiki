@@ -1,0 +1,5 @@
+{'name': 'maserati 200s', 'manufacturer': ['maserati'], 'class': ['racing car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1955, 'related': []}
+{'name': 'first generation', 'manufacturer': [], 'class': ['wikitable border=1 style=float:left', 'margin:0', '46em 0', '46em'], 'layout': ['front-engine', 'rear-wheel-drive'], 'production_year': 1964, 'related': ['hyundai dynasty']}
+{'name': 'mitsubishi dignity', 'manufacturer': ['unbulleted list'], 'class': ['full-size car', 'full-size', 'luxury car'], 'layout': ['unbulleted list'], 'production_year': '', 'related': ['mitsubishi proudia']}
+{'name': 'mitsubishi proudia', 'manufacturer': ['unbulleted list'], 'class': ['unbulleted list'], 'layout': ['unbulleted list'], 'production_year': '', 'related': ['mitsubishi dignity']}
+{'name': 'triumph super 7 and super 8', 'manufacturer': ['triumph motor company'], 'class': [], 'layout': [], 'production_year': 1927, 'related': []}

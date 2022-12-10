@@ -1,0 +1,3 @@
+{'name': 'lotus 15', 'manufacturer': ['lotus cars', 'lotus engineering ltd'], 'class': ['group 4', 'racing', 'group 4 sports car'], 'layout': ['front engine', 'rear wheel drive', '2-seater'], 'production_year': 1958, 'related': []}
+{'name': 'general motors medium gasoline engine', 'manufacturer': ['general motors'], 'class': ['wikitable'], 'layout': [], 'production_year': 2012, 'related': []}
+{'name': 'chevrolet trax', 'manufacturer': ['general motors'], 'class': ['subcompact crossover suv', 'b-segment'], 'layout': ['unbulleted list'], 'production_year': 2013, 'related': ['chevrolet aveo', 'chevrolet aveo', 'sonic', 'opel mokka', 'buick encore']}

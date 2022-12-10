@@ -1,0 +1,3 @@
+{'name': 'volvo 1050', 'manufacturer': ['volvo'], 'class': [], 'layout': [], 'production_year': 2004, 'related': []}
+{'name': 'volvo v70s first modell', 'manufacturer': ['volvo cars'], 'class': ['mid-size car', 'executive car'], 'layout': ['front-engine design', 'front engine', 'front-wheel drive', 'four-wheel drive'], 'production_year': 1997, 'related': []}
+{'name': 'mg ex-e', 'manufacturer': ['mg cars', 'austin rover group'], 'class': ['sports car'], 'layout': ['m4 layout'], 'production_year': 1985, 'related': []}

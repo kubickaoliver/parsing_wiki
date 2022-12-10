@@ -1,0 +1,2 @@
+{'name': 'hillman straight-eight', 'manufacturer': ['hillman', 'hillman motor car co ltd'], 'class': ['executive car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'ref name=tt45015'], 'production_year': '', 'related': []}
+{'name': 'perodua bezza', 'manufacturer': ['perodua'], 'class': ['city car', '!-- size-wise --', 'a-segment', '!-- segment-wise --'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel drive'], 'production_year': 2016, 'related': ['unbulleted list']}

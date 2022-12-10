@@ -1,0 +1,3 @@
+{'name': 'wuling jiachen', 'manufacturer': ['saic-gm-wuling'], 'class': ['compact mpv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2022, 'related': ['wuling asta']}
+{'name': 'wuling air ev', 'manufacturer': ['saic-gm-wuling'], 'class': ['microcar'], 'layout': ['rear-motor', 'rear-wheel-drive'], 'production_year': 2022, 'related': ['unbulleted list']}
+{'name': 'ford cortina', 'manufacturer': ['ford australia'], 'class': ['mid-size car', 'mid-size'], 'layout': [], 'production_year': 1962, 'related': []}

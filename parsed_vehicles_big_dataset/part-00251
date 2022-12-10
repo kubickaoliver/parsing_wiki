@@ -1,0 +1,6 @@
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2005, 'related': ['unbulleted list']}
+{'name': 'volvo v90', 'manufacturer': ['volvo cars'], 'class': ['executive car', 'e-segment'], 'layout': ['ubl', 'front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel drive', 'four-wheel drive'], 'production_year': 2016, 'related': ['volvo s90', 'volvo s90 ii']}
+{'name': 'jowett jupiter', 'manufacturer': ['jowett cars ltd'], 'class': ['sports car'], 'layout': [], 'production_year': 1950, 'related': []}
+{'name': 'uaz patriot', 'manufacturer': ['uaz'], 'class': ['mid-size car', 'mid-size', 'sport utility vehicle', 'suv'], 'layout': ['fr layout', 'four wheel drive', '4wd'], 'production_year': 2005, 'related': []}
+{'name': 'seat 132', 'manufacturer': ['seat'], 'class': ['large family car', 'd-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': 1973, 'related': ['fiat 132']}
+{'name': 'lotus 2-eleven', 'manufacturer': ['lotus cars'], 'class': [], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'transverse mid-engine', 'rear-wheel drive'], 'production_year': 2007, 'related': ['lotus elise', 'lotus exige']}

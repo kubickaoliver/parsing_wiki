@@ -1,0 +1,3 @@
+{'name': 'gm x platform', 'manufacturer': ['general motors'], 'class': ['compact car', 'compact'], 'layout': ['fr layout'], 'production_year': 1961, 'related': ['gm f platform', 'gm k platform', 'rwd', 'gm k platform', 'gm a platform', '1936', 'gm a platform', 'gm g platform', '1969', 'gm g platform']}
+{'name': 'gm x platform', 'manufacturer': ['general motors'], 'class': ['compact car', 'compact'], 'layout': ['front-engine design', 'front engine', 'front-wheel drive'], 'production_year': 1979, 'related': ['gm a platform', 'fwd']}
+{'name': 'bmw 3-series', 'manufacturer': ['bmw'], 'class': ['compact executive car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': 2011, 'related': ['bmw 3-series', 'bmw 4 series']}

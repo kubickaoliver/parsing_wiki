@@ -1,0 +1,4 @@
+{'name': 'gkd evolution', 'manufacturer': ['http:', 'www', 'gkdsportscars', 'com', 'gkd sports cars'], 'class': ['roadster', 'automobile', 'roadster', 'coupe'], 'layout': ['front engine', 'rear wheel drive', 'rwd'], 'production_year': 2006, 'related': []}
+{'name': 'carden', 'manufacturer': ['carden engineering'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1913, 'related': []}
+{'name': 'detroit cyclecar company', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'chrysler lebaron', 'manufacturer': ['chrysler corporation'], 'class': [], 'layout': [], 'production_year': 1977, 'related': []}

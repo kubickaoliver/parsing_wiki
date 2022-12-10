@@ -1,0 +1,2 @@
+{'name': 'alfa romeo romeo', 'manufacturer': ['alfa romeo'], 'class': [], 'layout': [], 'production_year': 1954, 'related': []}
+{'name': 'bentley mulsanne', 'manufacturer': ['bentley motors'], 'class': ['full-size', 'luxury car', 'f-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2010, 'related': []}

@@ -1,0 +1,2 @@
+{'name': 'hyundai kona n', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': ['subcompact crossover suv', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2021, 'related': []}
+{'name': 'aurus arsenal', 'manufacturer': ['aurus motors'], 'class': ['minivan'], 'layout': ['front-engine', 'four-wheel drive layout', 'longitudinal front-engine', 'four-wheel drive'], 'production_year': 2018, 'related': []}

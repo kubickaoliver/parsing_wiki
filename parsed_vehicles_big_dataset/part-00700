@@ -1,0 +1,5 @@
+{'name': 'bentley brooklands coupé', 'manufacturer': ['bentley motors'], 'class': ['grand tourer', 's-segment'], 'layout': [], 'production_year': 2008, 'related': ['bentley arnage', 'bentley azure', 'second generation', '2006–2009', 'bentley azure']}
+{'name': 'toyota k cvt transmission', 'manufacturer': ['aisin'], 'class': [], 'layout': [], 'production_year': 2000, 'related': []}
+{'name': 'gaz-2332', 'manufacturer': ['gaz', 'gaz or gorkovsky avtomobilny zavod'], 'class': ['light commercial vehicle', 'high roof light commercial vehicle'], 'layout': [], 'production_year': 2006, 'related': []}
+{'name': 'honda s660', 'manufacturer': ['honda'], 'class': ['kei car'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'transverse mid-engine', 'rear-wheel-drive'], 'production_year': 2015, 'related': ['unbulleted list']}
+{'name': '3hp 22', 'manufacturer': ['zf friedrichshafen'], 'class': ['3-speed', 'longitudinal engine', 'longitudinal', 'automatic transmission', 'automatic transmission'], 'layout': [], 'production_year': 1973, 'related': []}

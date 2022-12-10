@@ -1,0 +1,2 @@
+{'name': 'gaz-3308 sadko', 'manufacturer': ['gaz', 'gorky automobile plant'], 'class': ['medium truck'], 'layout': ['f4 layout'], 'production_year': 1997, 'related': []}
+{'name': 'datsun go', 'manufacturer': ['datsun', 'nissan'], 'class': ['unbulleted list'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': '', 'related': ['nissan micra', 'k13', 'nissan micra', 'march', 'k13']}

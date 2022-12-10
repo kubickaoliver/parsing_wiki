@@ -1,0 +1,2 @@
+{'name': 'mini', 'manufacturer': ['united kingdom:', 'plainlist'], 'class': ['city car', 'a-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'ff layout'], 'production_year': '', 'related': ['plainlist']}
+{'name': 'volkswagen beetle type 1', 'manufacturer': ['volkswagen'], 'class': ['compact car', 'economy car'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 1938, 'related': ['plainlist']}

@@ -1,0 +1,3 @@
+{'name': 'man nl202', 'manufacturer': ['man truck & bus', 'man nutzfahrzeuge ag'], 'class': ['bus manufacturing', 'integral bus'], 'layout': [], 'production_year': 1989, 'related': ['mercedes-benz o405n']}
+{'name': 'rover 200 series', 'manufacturer': ['austin rover group', 'rover group'], 'class': ['compact car', 'compact car'], 'layout': ['ff layout'], 'production_year': 1984, 'related': ['honda ballade']}
+{'name': 'neorion chicago', 'manufacturer': ['neorion'], 'class': [], 'layout': ['front-engine design', 'front engine', 'automobile layout', 'rear-wheel drive', 'four-wheel drive'], 'production_year': '', 'related': []}

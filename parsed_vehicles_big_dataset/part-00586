@@ -1,0 +1,4 @@
+{'name': 'bristol lh', 'manufacturer': ['bristol commercial vehicles'], 'class': ['wikitable'], 'layout': [], 'production_year': 1967, 'related': []}
+{'name': 'peugeot 4008', 'manufacturer': ['mitsubishi motors'], 'class': ['subcompact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive'], 'production_year': 2012, 'related': []}
+{'name': 'hyundai eon', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': ['city car', 'a-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2011, 'related': ['hyundai i10', 'kia picanto']}
+{'name': 'mahindra xuv500', 'manufacturer': ['mahindra & mahindra'], 'class': ['compact crossover suv'], 'layout': [], 'production_year': 2011, 'related': []}

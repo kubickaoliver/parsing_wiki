@@ -1,0 +1,5 @@
+{'name': 'rivian r1t', 'manufacturer': ['rivian'], 'class': ['upper mid-size', 'battery electric vehicle', 'electric', 'pickup truck'], 'layout': ['dual- and quad-motors', 'individual wheel drive'], 'production_year': 2021, 'related': ['rivian r1s']}
+{'name': 'junpai d60', 'manufacturer': ['faw group'], 'class': ['subcompact car', 'subcompact', 'crossover suv'], 'layout': ['ff layout'], 'production_year': 2014, 'related': []}
+{'name': 'lotus evija', 'manufacturer': ['lotus cars'], 'class': ['sports car', 's-segment'], 'layout': ['individual-wheel drive'], 'production_year': 2021, 'related': []}
+{'name': 'fengon 580', 'manufacturer': ['dfsk motor', 'fengon'], 'class': ['mid-size car', 'mid-size', 'crossover suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2016, 'related': []}
+{'name': 'pantera rx6', 'manufacturer': ['mjp racing team austria', 'mjp racing'], 'class': ['ubl', 'rallycross supercar', 'c-segment'], 'layout': ['front-engine', 'four-wheel-drive layout', 'f4 layout'], 'production_year': 2018, 'related': []}

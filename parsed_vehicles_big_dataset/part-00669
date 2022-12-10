@@ -1,0 +1,6 @@
+{'name': 'hyundai e4u', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': ['electric vehicle'], 'layout': ['tricycle', 'three wheels'], 'production_year': '', 'related': []}
+{'name': 'hyundai hb20', 'manufacturer': ['hyundai'], 'class': ['subcompact car', 'subcompact'], 'layout': [], 'production_year': 2012, 'related': ['chevrolet onix', 'kia picanto', 'toyota etios', 'volkswagen gol']}
+{'name': 'hino 600', 'manufacturer': ['hino motors', 'hino'], 'class': ['conventional truck'], 'layout': [], 'production_year': 2004, 'related': []}
+{'name': 'daewoo fx212 super cruiser', 'manufacturer': ['zyle daewoo commercial vehicle', 'daewoo'], 'class': ['coach', 'bus', 'highway coach'], 'layout': ['rear-engine design', 'rear-engine', 'rear-wheel-drive'], 'production_year': 2007, 'related': []}
+{'name': 'volvo fmx', 'manufacturer': ['volvo trucks', 'volvo trucks corporation'], 'class': ['heavy truck'], 'layout': [], 'production_year': 2010, 'related': ['volvo fm']}
+{'name': 'aston martin bertone jet 2+2', 'manufacturer': ['aston martin', 'aston martin lagonda limited', 'gruppo bertone'], 'class': ['grand tourer', 's-segment'], 'layout': ['front mid-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive'], 'production_year': 2013, 'related': ['aston martin rapide', 'aston martin db4 gt jet']}

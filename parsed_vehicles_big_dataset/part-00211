@@ -1,0 +1,3 @@
+{'name': 'p10 series', 'manufacturer': [], 'class': ['wikitable'], 'layout': ['fr layout'], 'production_year': 1961, 'related': []}
+{'name': 'lotus 20', 'manufacturer': ['team lotus'], 'class': ['formula junior'], 'layout': [], 'production_year': 1961, 'related': []}
+{'name': 'audi q3', 'manufacturer': ['audi ag'], 'class': ['subcompact luxury crossover suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive', 'quattro', 'four-wheel-drive system', 'quattro'], 'production_year': 2011, 'related': ['volkswagen tiguan', 'škoda yeti']}

@@ -1,0 +1,2 @@
+{'name': 'hyundai h350', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': ['light commercial vehicle', 'm-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2014, 'related': []}
+{'name': 'lagonda taraf', 'manufacturer': ['lagonda', 'aston martin'], 'class': ['full-size', 'luxury car', 'f-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2015, 'related': ['aston martin db9', 'aston martin rapide']}

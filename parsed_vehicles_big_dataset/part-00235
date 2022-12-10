@@ -1,0 +1,4 @@
+{'name': 'hyundai trago', 'manufacturer': ['hyundai motor company'], 'class': ['rear wheel drive vehicles'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'plaxton primo', 'manufacturer': ['plaxton'], 'class': [], 'layout': [], 'production_year': 2005, 'related': []}
+{'name': 'volkswagen type 14a', 'manufacturer': ['hebmüller', 'and sohn for', 'volkswagen'], 'class': [], 'layout': ['longitudinal engine', 'longitudinal', 'rear-engine design', 'rear engine'], 'production_year': 1949, 'related': ['volkswagen beetle']}
+{'name': 'mg n-type magnette', 'manufacturer': ['car', 'morris motors', 'morris'], 'class': ['sports car'], 'layout': [], 'production_year': 1934, 'related': []}

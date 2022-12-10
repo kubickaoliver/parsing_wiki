@@ -1,0 +1,5 @@
+{'name': 'irisbus arway', 'manufacturer': ['flag', 'italy', 'irisbus'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'iveco 393', 'manufacturer': ['flag', 'italy', 'iveco', 'flag', 'irisbus'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'bontino emc', 'manufacturer': [], 'class': ['pickup truck', 'compact pickups', 'compact pickup'], 'layout': [], 'production_year': 2009, 'related': []}
+{'name': 'aston martin atom', 'manufacturer': ['aston martin'], 'class': ['prototype grand tourer'], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': 1939, 'related': []}
+{'name': 'lexus hs', 'manufacturer': ['lexus', 'toyota'], 'class': ['compact executive car', 'd-segment'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2009, 'related': ['unbulleted list']}

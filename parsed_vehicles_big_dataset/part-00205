@@ -1,0 +1,5 @@
+{'name': 'renault nn', 'manufacturer': ['renault'], 'class': ['compact car', 'small family car', 'c-segment'], 'layout': ['fr layout'], 'production_year': 1924, 'related': []}
+{'name': 'renault vivastella', 'manufacturer': ['renault'], 'class': ['executive car', 'e-segment'], 'layout': ['fr layout'], 'production_year': 1929, 'related': ['renault viva grand sport', 'renault vivasport', 'renault suprastella', 'renault primastella']}
+{'name': 'renault voiturette', 'manufacturer': ['renault'], 'class': ['type a', 'supermini car', 'supermini', 'type c', 'small family car'], 'layout': [], 'production_year': 1898, 'related': []}
+{'name': 'mitsubishi minicab', 'manufacturer': ['unbulleted list', 'mitsubishi motors', '1966-2014', 'suzuki', '2014-present'], 'class': ['microvan', 'kei truck'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive'], 'production_year': 1966, 'related': ['mitsubishi town box']}
+{'name': 'honda n engine', 'manufacturer': ['honda'], 'class': [], 'layout': [], 'production_year': '', 'related': []}

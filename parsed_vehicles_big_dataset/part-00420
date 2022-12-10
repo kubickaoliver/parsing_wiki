@@ -1,0 +1,4 @@
+{'name': 'ford xt falcon', 'manufacturer': ['ford australia'], 'class': ['full-size car'], 'layout': [], 'production_year': 1968, 'related': ['ford fairlane', 'australia', 'ford zb fairlane']}
+{'name': 'ford xf falcon', 'manufacturer': ['ford australia'], 'class': ['full-size car', 'full-size'], 'layout': [], 'production_year': 1984, 'related': ['ford fairlane', 'australia', 'ford zl fairlane', 'ford fairlane', 'australia', 'ford fe ltd']}
+{'name': 'file:logo ih', 'manufacturer': ['international harvester', '1982–1986', 'navistar international', '1987–1994'], 'class': [], 'layout': [], 'production_year': 1982, 'related': []}
+{'name': 'suzuki kei', 'manufacturer': ['suzuki'], 'class': ['kei car'], 'layout': ['unbulleted list'], 'production_year': 1998, 'related': ['unbulleted list']}

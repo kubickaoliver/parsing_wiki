@@ -1,0 +1,9 @@
+{'name': 'toyota e engine', 'manufacturer': ['toyota'], 'class': [], 'layout': [], 'production_year': 1985, 'related': []}
+{'name': 'hyundai aero', 'manufacturer': ['hyundai motor company', 'mitsubishi motors'], 'class': ['bus manufacturing', 'complete bus'], 'layout': [], 'production_year': 1985, 'related': []}
+{'name': 'hyundai 8 to 25-ton truck', 'manufacturer': ['hyundai motor company', 'mitsubishi motors'], 'class': ['rear wheel drive vehicles'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'hyundai 4', 'manufacturer': ['hyundai motor company', 'mitsubishi motors'], 'class': ['rear wheel drive vehicles'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'hyundai rb', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': ['commercial vehicle'], 'layout': [], 'production_year': '', 'related': ['mitsubishi fuso aero bus', 'fuso ms series', 'mitsubishi fuso aero star', 'mp series']}
+{'name': 'hyundai fb', 'manufacturer': ['hyundai motor company'], 'class': ['rear wheel drive vehicles'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'kia bongo', 'manufacturer': ['kia'], 'class': ['light commercial vehicle'], 'layout': [], 'production_year': 1980, 'related': []}
+{'name': 'škoda 130', 'manufacturer': ['škoda auto', 'aznp'], 'class': ['small family car'], 'layout': ['rr layout'], 'production_year': 1984, 'related': ['škoda 120', 'škoda 105', 'škoda 120', 'škoda 120', 'škoda 125', 'škoda rapid', '1984', 'škoda rapid']}
+{'name': 'gordon-keeble', 'manufacturer': ['gordon-keeble'], 'class': ['grand tourer'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1964, 'related': []}

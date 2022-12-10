@@ -1,0 +1,3 @@
+{'name': 'lincoln zephyr', 'manufacturer': ['changan ford'], 'class': ['executive car', 'e-segment'], 'layout': ['transverse engine', 'transverse', 'front-engine', 'front-wheel-drive layout', 'ff layout'], 'production_year': 2022, 'related': ['ford evos', 'ford mondeo', 'china', 'ford mondeo']}
+{'name': 'ford mondeo', 'manufacturer': ['ford motor company', 'ford'], 'class': ['full-size car', 'e-segment'], 'layout': ['front-engine', 'front-wheel drive'], 'production_year': 2022, 'related': ['ford evos', 'lincoln zephyr', 'china', 'lincoln zephyr']}
+{'name': 'honda zr-v', 'manufacturer': ['honda'], 'class': ['compact crossover suv', 'c-segment'], 'layout': ['unbulleted list'], 'production_year': 2022, 'related': ['unbulleted list']}

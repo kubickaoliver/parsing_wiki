@@ -1,0 +1,3 @@
+{'name': 'arrol-aster 17', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1927, 'related': []}
+{'name': 'toyota origin', 'manufacturer': ['toyota'], 'class': ['mid-size car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2000, 'related': ['unbulleted list']}
+{'name': 'chevrolet aerovette concept', 'manufacturer': ['general motors'], 'class': ['sports car'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout'], 'production_year': '', 'related': ['chevrolet corvette']}

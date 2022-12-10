@@ -1,0 +1,2 @@
+{'name': 'riich m1', 'manufacturer': ['riich', 'chery'], 'class': ['city car', 'a-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2009, 'related': []}
+{'name': 'ashok leyland mitr', 'manufacturer': ['ashok leyland'], 'class': ['bus'], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': 2014, 'related': []}

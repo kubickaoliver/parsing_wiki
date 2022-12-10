@@ -1,0 +1,3 @@
+{'name': 'sabre sprint', 'manufacturer': ['sabre cars'], 'class': ['mini kit car'], 'layout': [], 'production_year': 1984, 'related': []}
+{'name': 'suzuki baleno', 'manufacturer': ['suzuki'], 'class': ['subcompact car', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2015, 'related': ['ubl']}
+{'name': 'bmw s58 engine', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2019, 'related': []}

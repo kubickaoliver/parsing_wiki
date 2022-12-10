@@ -1,0 +1,3 @@
+{'name': 'chevrolet spin', 'manufacturer': ['general motors'], 'class': ['mini mpv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2012, 'related': ['chevrolet cobalt', 'second generation', '2011', 'chevrolet cobalt']}
+{'name': 'mercedes-benz 170 s', 'manufacturer': ['mercedes-benz'], 'class': ['luxury vehicle', 'executive', 'mid-size luxury', 'executive car', 'e-segment'], 'layout': ['fr layout'], 'production_year': 1949, 'related': []}
+{'name': 'jaguar r-coupe', 'manufacturer': ['jaguar cars', 'jaguar'], 'class': [], 'layout': ['fr layout'], 'production_year': '', 'related': ['jaguar s-type', '1999', 'jaguar s-type']}

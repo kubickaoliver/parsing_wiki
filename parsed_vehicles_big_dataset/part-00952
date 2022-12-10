@@ -1,0 +1,7 @@
+{'name': 'alpina roadster s', 'manufacturer': ['alpina', 'alpina burkard bovensiepen gmbh & co'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2004, 'related': ['ubl']}
+{'name': 'changhe freedom m70', 'manufacturer': ['baic group'], 'class': ['multi purpose vehicle', 'm-segment'], 'layout': ['mid-engine design', 'mid-engine', 'rear wheel drive'], 'production_year': 2016, 'related': []}
+{'name': 'changhe beidouxing', 'manufacturer': ['baic', 'changhe'], 'class': ['mini mpv'], 'layout': [], 'production_year': 2004, 'related': ['suzuki solio', 'wide', 'suzuki wagon r+']}
+{'name': 'huansu s6', 'manufacturer': ['huansu-', 'baic group'], 'class': ['compact cuv'], 'layout': ['ff layout'], 'production_year': 2015, 'related': []}
+{'name': 'huansu s5', 'manufacturer': ['huansu-', 'baic group'], 'class': ['compact cuv'], 'layout': ['ff layout'], 'production_year': 2016, 'related': []}
+{'name': 'huansu s7', 'manufacturer': ['huansu-', 'baic group'], 'class': ['mid-size cuv'], 'layout': ['ff layout'], 'production_year': 2016, 'related': []}
+{'name': 'new flyer low floor', 'manufacturer': ['new flyer'], 'class': ['transit bus'], 'layout': [], 'production_year': 1991, 'related': []}

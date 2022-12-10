@@ -1,0 +1,8 @@
+{'name': 'dacia 1300', 'manufacturer': ['automobile dacia', 'dacia'], 'class': ['large family car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1969, 'related': ['renault 12']}
+{'name': 'fiat tipo 2b', 'manufacturer': ['fiat'], 'class': [], 'layout': ['fr layout'], 'production_year': 1912, 'related': []}
+{'name': 'honda mobilio', 'manufacturer': ['honda'], 'class': ['mini mpv'], 'layout': ['unbulleted list'], 'production_year': '', 'related': ['honda fit', 'first generation']}
+{'name': 'fiat 520', 'manufacturer': ['fiat'], 'class': ['luxury car'], 'layout': ['fr layout'], 'production_year': 1921, 'related': []}
+{'name': 'zil-135', 'manufacturer': ['ubl', 'zil', 'bryansk automobile plant', 'baz'], 'class': [], 'layout': [], 'production_year': 1959, 'related': []}
+{'name': 'nissan lafesta', 'manufacturer': ['nissan'], 'class': ['compact mpv'], 'layout': ['plainlist'], 'production_year': 2004, 'related': ['plainlist']}
+{'name': 'lotus 19', 'manufacturer': ['lotus cars'], 'class': ['sports car racing', 'group 4 sports car'], 'layout': [], 'production_year': 1960, 'related': []}
+{'name': 'holden caprice', 'manufacturer': ['holden', 'general motors'], 'class': ['full-size car', 'full-size'], 'layout': ['fr layout'], 'production_year': 1990, 'related': ['holden ute', 'holden vg ute', 'holden vn commodore', 'opel omega', 'omega', 'opel omega', 'opel senator', 'senator b', '1987–1993', 'opel senator']}

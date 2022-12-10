@@ -1,0 +1,3 @@
+{'name': 'freightliner business class', 'manufacturer': ['freightliner trucks'], 'class': ['truck classification', 'class 5-8'], 'layout': [], 'production_year': 1991, 'related': ['freightliner flc112', 'freightliner fs-65', 'mercedes-benz lkn']}
+{'name': 'genesis g80', 'manufacturer': ['genesis motor', 'hyundai motor company', 'hyundai'], 'class': ['executive car', 'e-segment'], 'layout': ['ubl', 'front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'front-engine', 'all-wheel-drive'], 'production_year': '', 'related': []}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2015, 'related': ['genesis g80', 'genesis g80', 'kia k9', 'kia k9']}

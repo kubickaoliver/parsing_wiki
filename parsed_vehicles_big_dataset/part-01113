@@ -1,0 +1,2 @@
+{'name': 'mazda navajo', 'manufacturer': ['ford motor company'], 'class': ['mid-size', 'suv'], 'layout': [], 'production_year': 1991, 'related': ['ford explorer', 'ford ranger', 'north american', 'mazda b-series', 'north american', 'ford aerostar']}
+{'name': 'saloon mecha dragon', 'manufacturer': ['great wall motor'], 'class': ['compact executive car', 'mid-size car', 'mid-size car', 'entry-level', 'luxury car', 'd-segment'], 'layout': ['quad-motor', 'all-wheel drive'], 'production_year': 2022, 'related': []}

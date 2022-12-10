@@ -1,0 +1,6 @@
+{'name': 'rover 10-12', 'manufacturer': ['rover', 'car', 'rover'], 'class': [], 'layout': ['front engine rear wheel drive'], 'production_year': 1905, 'related': []}
+{'name': 'file:nissan logo', 'manufacturer': ['nissan machinery'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'caterham seven academy car', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'peterbilt 379', 'manufacturer': ['peterbilt'], 'class': ['truck classification', 'class 8', 'class 8 truck'], 'layout': [], 'production_year': '', 'related': ['peterbilt 377', 'kenworth w900']}
+{'name': 'kenworth w900', 'manufacturer': ['kenworth', 'kenworth truck company'], 'class': ['truck classification', 'class 8', 'class 8 truck'], 'layout': ['4x2', '6x4', '6x2'], 'production_year': 1961, 'related': ['ubl', 'kenworth k100', 'kenworth t600', 'kenworth t600', 't400', '1988-1997', 'kenworth t400', 'kenworth t660', 'kenworth t600', 't800', '1987-present', 'kenworth t800']}
+{'name': 'honda fc sport', 'manufacturer': ['honda'], 'class': ['sports car'], 'layout': [], 'production_year': 2008, 'related': []}

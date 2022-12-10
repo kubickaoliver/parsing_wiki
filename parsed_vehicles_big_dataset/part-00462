@@ -1,0 +1,7 @@
+{'name': 'daihatsu gran max', 'manufacturer': ['daihatsu'], 'class': ['light commercial vehicle'], 'layout': ['unbulleted list'], 'production_year': 2007, 'related': ['daihatsu luxio']}
+{'name': 'chevrolet agile', 'manufacturer': ['general motors'], 'class': ['subcompact car', 'subcompact'], 'layout': [], 'production_year': 2009, 'related': ['chevrolet corsa', 'chevrolet montana']}
+{'name': 'holden ht', 'manufacturer': ['holden', 'general motors'], 'class': ['mid-size car', 'mid-size'], 'layout': ['fr layout'], 'production_year': 1969, 'related': []}
+{'name': 'holden hg', 'manufacturer': ['holden', 'general motors'], 'class': ['mid-size car', 'mid-size'], 'layout': ['fr layout'], 'production_year': 1970, 'related': []}
+{'name': 'holden ek', 'manufacturer': ['holden', 'general motors'], 'class': ['mid-size car', 'mid-size'], 'layout': ['fr layout'], 'production_year': 1961, 'related': []}
+{'name': 'holden hd', 'manufacturer': ['holden', 'general motors'], 'class': ['mid-size car', 'mid-size'], 'layout': ['fr layout'], 'production_year': 1965, 'related': []}
+{'name': 'holden hr', 'manufacturer': ['holden', 'general motors'], 'class': ['mid-size car', 'mid-size'], 'layout': ['fr layout'], 'production_year': 1966, 'related': []}

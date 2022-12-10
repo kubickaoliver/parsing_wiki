@@ -1,0 +1,6 @@
+{'name': 'gmc acadia', 'manufacturer': ['general motors'], 'class': ['full-size crossover suv', '2007–2017', 'mid-size crossover suv', '2017–present'], 'layout': ['ubl'], 'production_year': 2006, 'related': ['unbulleted list', 'buick enclave', 'buick enclave', 'chevrolet traverse', 'chevrolet traverse', 'saturn outlook']}
+{'name': 'alfa romeo montreal', 'manufacturer': ['alfa romeo'], 'class': ['sports car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1970, 'related': []}
+{'name': 'alfa romeo gta', 'manufacturer': ['alfa romeo'], 'class': ['sports car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1965, 'related': []}
+{'name': 'paramount ten', 'manufacturer': ['paramount cars ltd'], 'class': [], 'layout': [], 'production_year': 1950, 'related': []}
+{'name': 'jaguar xk140', 'manufacturer': ['jaguar cars'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1954, 'related': []}
+{'name': 'jaguar xk120', 'manufacturer': ['jaguar cars'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1948, 'related': ['jaguar c-type']}

@@ -1,0 +1,7 @@
+{'name': 'moskvitch 2142', 'manufacturer': ['moskvitch', 'moskvitch stock company'], 'class': ['mid-size', 'car'], 'layout': ['ff layout', 'longitudinal front-engine', 'front-wheel drive'], 'production_year': 1997, 'related': ['moskvitch 2141']}
+{'name': 'lancia sibilo', 'manufacturer': ['lancia'], 'class': [], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'transverse mid-engine', 'rear-wheel drive'], 'production_year': 1978, 'related': ['lancia stratos']}
+{'name': 'armstrong siddeley whitley', 'manufacturer': ['armstrong siddeley', 'motors'], 'class': ['executive'], 'layout': [], 'production_year': 1949, 'related': []}
+{'name': 'honda quint', 'manufacturer': ['honda motor company'], 'class': [], 'layout': [], 'production_year': 1980, 'related': ['honda civic', 'honda ballade']}
+{'name': 'amilcar cc', 'manufacturer': ['amilcar'], 'class': ['roadster'], 'layout': [], 'production_year': 1922, 'related': []}
+{'name': 'maserati indy', 'manufacturer': ['maserati'], 'class': ['grand tourer', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1969, 'related': []}
+{'name': 'jeep fj', 'manufacturer': ['ubl', 'willys', 'willys motors', 'kaiser-jeep', 'mahindra & mahindra', 'mahindra'], 'class': ['compact van'], 'layout': ['fr layout'], 'production_year': 1961, 'related': ['ubl', 'jeep dj', 'jeep cj']}

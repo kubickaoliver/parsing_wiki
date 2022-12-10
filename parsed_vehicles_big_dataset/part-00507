@@ -1,0 +1,3 @@
+{'name': 'nesselsdorfer wagenbau-fabriks-gesellschaft präsident', 'manufacturer': ['tatra', 'car', 'nesselsdorfer wagenbau-fabriks-gesellschaft a', 'today tatra'], 'class': [], 'layout': ['rr layout'], 'production_year': 1897, 'related': []}
+{'name': 'panoz abruzzi', 'manufacturer': ['panoz auto development'], 'class': ['grand tourer', 's-segment'], 'layout': ['fr layout'], 'production_year': 2011, 'related': []}
+{'name': 'ksu gazal-1', 'manufacturer': ['magna steyr', 'king saud university', 'ksu'], 'class': ['mid-size', 'sport utility vehicle', 'suv'], 'layout': ['front engine design', 'front engine', 'four-wheel drive'], 'production_year': 2010, 'related': ['mercedes-benz g-class']}

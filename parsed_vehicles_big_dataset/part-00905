@@ -1,0 +1,2 @@
+{'name': 'gaz-13 chaika', 'manufacturer': ['gaz'], 'class': ['full-size', 'luxury car'], 'layout': ['fr layout'], 'production_year': 1959, 'related': []}
+{'name': 'nissan terra', 'manufacturer': ['nissan'], 'class': ['mid-size suv'], 'layout': ['ubl'], 'production_year': 2018, 'related': ['nissan navara', 'd23', 'nissan navara', 'd23']}

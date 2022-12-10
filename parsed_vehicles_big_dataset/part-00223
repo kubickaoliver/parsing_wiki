@@ -1,0 +1,5 @@
+{'name': 'leyland daf 400', 'manufacturer': ['british leyland', 'ldv limited'], 'class': ['light commercial vehicle', 'm-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': 1984, 'related': ['ldv pilot']}
+{'name': 'toyota corolla verso', 'manufacturer': ['toyota'], 'class': ['compact mpv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2001, 'related': ['toyota avensis', 't250']}
+{'name': 'toyota ecom', 'manufacturer': ['toyota'], 'class': ['kei car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-motor', 'front-wheel-drive'], 'production_year': 1997, 'related': []}
+{'name': 'bristol 401', 'manufacturer': ['bristol cars', 'then', 'bristol aeroplane co'], 'class': ['sports sedan', 'convertible', 'car', 'convertible'], 'layout': ['fr layout'], 'production_year': 1948, 'related': []}
+{'name': 'bristol 403', 'manufacturer': ['bristol cars', 'then', 'bristol aeroplane co'], 'class': [], 'layout': ['fr layout'], 'production_year': 1953, 'related': []}

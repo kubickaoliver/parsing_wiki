@@ -1,0 +1,2 @@
+{'name': 'aston martin one-77', 'manufacturer': ['aston martin', 'aston martin lagonda limited'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2009, 'related': ['aston martin vulcan', 'aston martin victor']}
+{'name': 'alvis firebird', 'manufacturer': ['alvis cars', 'alvis'], 'class': ['sporting chassis', 'bodied to suit owner', 's requirements'], 'layout': [], 'production_year': 1935, 'related': []}

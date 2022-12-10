@@ -1,0 +1,7 @@
+{'name': 'volkswagen derby', 'manufacturer': ['volkswagen'], 'class': ['supermini', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1977, 'related': ['volkswagen polo']}
+{'name': 'renault monasix', 'manufacturer': ['renault'], 'class': ['compact car', 'small family car', 'c-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1927, 'related': ['renault monastella']}
+{'name': 'renault type y', 'manufacturer': ['renault'], 'class': ['medium family car'], 'layout': [], 'production_year': 1905, 'related': ['renault voiturette']}
+{'name': 'panda hydrogen', 'manufacturer': ['fiat'], 'class': ['city car'], 'layout': [], 'production_year': 2005, 'related': []}
+{'name': 'renault grand prix', 'manufacturer': ['renault'], 'class': ['race car'], 'layout': ['fr layout'], 'production_year': 1906, 'related': []}
+{'name': 'renault primaquatre', 'manufacturer': ['renault'], 'class': ['mid-size', 'large family car', 'd-segment'], 'layout': ['fr layout'], 'production_year': 1931, 'related': ['renault novaquatre', 'renault primastella']}
+{'name': 'austin 8', 'manufacturer': ['austin motor company', 'austin'], 'class': [], 'layout': [], 'production_year': 1939, 'related': []}

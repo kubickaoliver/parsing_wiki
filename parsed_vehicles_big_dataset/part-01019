@@ -1,0 +1,7 @@
+{'name': 'seat 20v20', 'manufacturer': ['seat', 'seat'], 'class': [], 'layout': ['four-wheel drive'], 'production_year': 2015, 'related': []}
+{'name': 'peugeot type 160', 'manufacturer': ['peugeot'], 'class': ['full-size car', 'fullsize', 'luxury car', 'luxury', 'f-segment'], 'layout': [], 'production_year': 1913, 'related': ['peugeot type 156', 'type 156']}
+{'name': 'fin komodo', 'manufacturer': ['pt fin komodo teknologi'], 'class': [], 'layout': [], 'production_year': 2006, 'related': []}
+{'name': 'soueast a5', 'manufacturer': [], 'class': ['compact sedan'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-wheel-drive'], 'production_year': 2018, 'related': []}
+{'name': 'genesis essentia', 'manufacturer': ['genesis motor', 'genesis', 'hyundai motor group', 'hyundai'], 'class': ['grand tourer', 's-segment'], 'layout': ['rear-wheel drive', 'rwd'], 'production_year': 2018, 'related': []}
+{'name': 'baojun rs-7', 'manufacturer': ['saic-gm-wuling'], 'class': ['mid-size crossover suv'], 'layout': [], 'production_year': 2020, 'related': ['baojun rc-6']}
+{'name': 'xiali n5', 'manufacturer': ['faw group', 'tianjin faw'], 'class': ['subcompact car', 'subcompact', 'sedan', 'automobile', 'sedan'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2009, 'related': []}

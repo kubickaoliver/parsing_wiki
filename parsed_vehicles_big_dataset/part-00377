@@ -1,0 +1,3 @@
+{'name': 'honda elysion', 'manufacturer': [], 'class': [], 'layout': ['unbulleted list'], 'production_year': 2004, 'related': ['jdm', 'honda odyssey', 'international', 'rb2', 'honda odyssey', 'third generation', 'honda accord', 'japan and europe seventh generation']}
+{'name': 'suzuki kizashi', 'manufacturer': ['suzuki'], 'class': ['mid-size car'], 'layout': ['front-engine design', 'front engine', 'front-wheel drive', 'four-wheel drive'], 'production_year': 2009, 'related': []}
+{'name': 'peugeot 207 s2000', 'manufacturer': ['peugeot', 'peugeot sport'], 'class': ['super 2000'], 'layout': ['front-engine', 'four-wheel drive'], 'production_year': 2007, 'related': []}

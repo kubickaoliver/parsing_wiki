@@ -1,0 +1,2 @@
+{'name': 'bmw 320', 'manufacturer': ['bmw'], 'class': ['mid-size car'], 'layout': ['automobile layout', 'rear-wheel-drive layouts', 'fr layout'], 'production_year': 1937, 'related': ['bmw 315', 'bmw 329', 'suspension', 'bmw 326', 'engine', 'chassis', 'ref name=norbye47']}
+{'name': 'ssangyong istana', 'manufacturer': ['ssangyong motor', 'ssangyong'], 'class': ['minivan'], 'layout': ['front-engine', 'front-wheel-drive layout', 'ff layout'], 'production_year': 1995, 'related': []}

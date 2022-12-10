@@ -1,0 +1,4 @@
+{'name': 'armstrong siddeley typhoon', 'manufacturer': ['armstrong siddeley', 'motors'], 'class': [], 'layout': [], 'production_year': 1946, 'related': []}
+{'name': 'eric-campbell', 'manufacturer': ['eric', 'campbell & co ltd', 'vulcan iron works'], 'class': [], 'layout': [], 'production_year': 1919, 'related': []}
+{'name': 'dodge copperhead', 'manufacturer': ['chrysler corporation'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1997, 'related': []}
+{'name': 'alvis speed 20', 'manufacturer': ['alvis car and engineering company', 'alvis', 'ref name=tt45960', 'the olympia show', 'the times', 'thursday', '22 oct 1931', 'issue 45960', 'ref'], 'class': ['mid-size car', 'mid-size'], 'layout': ['front-engine', 'rear-wheel-drive'], 'production_year': 1932, 'related': []}

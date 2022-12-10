@@ -1,0 +1,4 @@
+{'name': 'gunston cortina', 'manufacturer': ['basil green motors'], 'class': [], 'layout': [], 'production_year': 1967, 'related': []}
+{'name': 'tatra 49', 'manufacturer': ['tatra', 'company', 'tatra'], 'class': [], 'layout': [], 'production_year': 1929, 'related': []}
+{'name': 'buick excelle', 'manufacturer': ['saic-gm'], 'class': ['subompact car', 'compact', 'china', 'subcompact', 'global', 'b-segment'], 'layout': [], 'production_year': 2003, 'related': ['chevrolet onix', 'opel corsa', 'corsa f', '2019', 'opel corsa']}
+{'name': 'buick excelle gt', 'manufacturer': ['saic-gm'], 'class': ['compact car'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2009, 'related': ['ubl', 'buick gl6', 'buick verano', '2nd generation', 'chevrolet monza', 'china', 'roewe i5']}

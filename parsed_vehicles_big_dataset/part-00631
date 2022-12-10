@@ -1,0 +1,3 @@
+{'name': 'might-e truck', 'manufacturer': ['canadian electric vehicles'], 'class': ['low speed vehicle', 'neighborhood electric vehicle'], 'layout': ['rear-wheel drive'], 'production_year': 1996, 'related': []}
+{'name': 'family z engine', 'manufacturer': ['general motors'], 'class': ['wikitable'], 'layout': [], 'production_year': 2010, 'related': []}
+{'name': 'toyota 1w engine', 'manufacturer': ['hino motors'], 'class': [], 'layout': [], 'production_year': 1983, 'related': []}

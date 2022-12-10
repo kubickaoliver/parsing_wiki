@@ -1,0 +1,2 @@
+{'name': 'rover 6 hp', 'manufacturer': ['rover', 'car', 'rover'], 'class': [], 'layout': [], 'production_year': 1905, 'related': []}
+{'name': 'lada 111', 'manufacturer': ['lada'], 'class': ['compact car'], 'layout': ['front-engine', 'front-wheel drive layout', 'front-engine', 'front-wheel drive'], 'production_year': 1998, 'related': ['lada 110', 'lada 112']}

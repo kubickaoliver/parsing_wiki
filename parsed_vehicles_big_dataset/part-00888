@@ -1,0 +1,7 @@
+{'name': 'morris big six', 'manufacturer': ['morris motors', 'morris motors limited'], 'class': [], 'layout': [], 'production_year': 1935, 'related': []}
+{'name': 'vice presidential state car', 'manufacturer': ['audi'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'oldsmobile six', 'manufacturer': ['oldsmobile', 'general motors'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'fiat 1200', 'manufacturer': ['ubl', 'fiat automobiles', 'fiat', 'pininfarina'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1959, 'related': ['ubl', 'fiat 1200', 'fiat 1300 and 1500']}
+{'name': 'morris fourteen', 'manufacturer': ['morris motors', 'morris motors limited'], 'class': [], 'layout': [], 'production_year': 1936, 'related': []}
+{'name': 'ford fk', 'manufacturer': ['ford germany'], 'class': [], 'layout': [], 'production_year': 1951, 'related': []}
+{'name': 'chevrolet corvette collector edition', 'manufacturer': ['chevrolet', 'general motors'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive layout', 'fmr layout'], 'production_year': 2016, 'related': []}

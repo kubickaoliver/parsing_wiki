@@ -1,0 +1,4 @@
+{'name': 'morris fv', 'manufacturer': ['morris commercial cars', 'morris commercial', 'british motor corporation', 'bmc', 'british motor corporation'], 'class': ['truck', 'van'], 'layout': [], 'production_year': 1948, 'related': []}
+{'name': 'morris fe', 'manufacturer': ['british motor corporation', 'bmc', 'british motor corporation'], 'class': ['truck', 'van'], 'layout': [], 'production_year': 1955, 'related': []}
+{'name': 'healey silverstone', 'manufacturer': ['donald healey motor company'], 'class': ['sports car'], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': 1949, 'related': []}
+{'name': 'datsun mi-do', 'manufacturer': ['datsun', 'nissan motor company', 'nissan'], 'class': ['subcompact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2015, 'related': []}

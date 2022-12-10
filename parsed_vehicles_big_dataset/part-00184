@@ -1,0 +1,14 @@
+{'name': 'sohc', 'manufacturer': ['general motors'], 'class': ['wikitable'], 'layout': [], 'production_year': 1980, 'related': []}
+{'name': 'mercedes-benz clk lm straßenversion', 'manufacturer': ['mercedes-benz'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel drive layout', 'rear mid-engine', 'rear-wheel drive'], 'production_year': 1998, 'related': []}
+{'name': 'rodley 750', 'manufacturer': ['rodley automobile company'], 'class': ['microcar'], 'layout': [], 'production_year': 1954, 'related': []}
+{'name': 'rytecraft scootacar', 'manufacturer': ['british motorboat manufacturing company'], 'class': ['microcar'], 'layout': [], 'production_year': 1934, 'related': []}
+{'name': 'russon minicar', 'manufacturer': ['russon cars ltd'], 'class': ['microcar'], 'layout': [], 'production_year': 1951, 'related': []}
+{'name': 'daimler v8', 'manufacturer': ['daimler company', 'the daimler company limited'], 'class': [], 'layout': [], 'production_year': 1959, 'related': []}
+{'name': 'leyland eight', 'manufacturer': ['leyland motors'], 'class': ['grand tourer'], 'layout': [], 'production_year': 1920, 'related': []}
+{'name': 'bow-v-car', 'manufacturer': ['plycar company'], 'class': ['cyclecar'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 1922, 'related': []}
+{'name': 'rayton-fissore magnum', 'manufacturer': ['carrozzeria_fissore', 'rayton_fissore', 'rayton-fissore', 'laforza'], 'class': ['sport utility vehicle', 'suv'], 'layout': ['front-engine design', 'front engine', 'four-wheel drive'], 'production_year': 1985, 'related': []}
+{'name': 'daimler sp250', 'manufacturer': ['daimler company', 'the daimler company limited'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1959, 'related': []}
+{'name': 'daimler majestic major dq450', 'manufacturer': ['daimler company', 'the daimler company limited'], 'class': ['full-size', 'luxury car'], 'layout': [], 'production_year': 1960, 'related': ['daimler majestic', 'daimler majestic df316', '8-litre 6-cyl', 'daimler dr450', 'daimler limousine dr450']}
+{'name': 'mitsubishi lancer evolution x', 'manufacturer': ['mitsubishi motors'], 'class': ['sport compact', 'sports sedan'], 'layout': ['front-engine', 'all-wheel-drive layout', 'front-engine', 'all-wheel-drive', 'mitsubishi s-awc', 's-awc'], 'production_year': 2007, 'related': ['mitsubishi lancer', '2007', 'mitsubishi lancer', 'galant fortis']}
+{'name': 'mitsubishi fuso canter', 'manufacturer': ['mitsubishi motors corporation', '1963–2002', 'mitsubishi fuso truck and bus corporation', '2003–present'], 'class': ['truck', '5-8', '5t gvw'], 'layout': [], 'production_year': 1963, 'related': []}
+{'name': 'cadillac evoq', 'manufacturer': ['cadillac', 'general motors'], 'class': ['concept car'], 'layout': [], 'production_year': '', 'related': ['cadillac xlr']}

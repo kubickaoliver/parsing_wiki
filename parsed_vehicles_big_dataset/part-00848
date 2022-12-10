@@ -1,0 +1,4 @@
+{'name': 'honda cr-v', 'manufacturer': ['honda'], 'class': ['compact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive', 'front-engine', 'all-wheel-drive'], 'production_year': 2011, 'related': ['acura rdx', 'honda civic', 'ninth generation']}
+{'name': 'honda cr-v', 'manufacturer': ['honda'], 'class': ['compact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive'], 'production_year': 2006, 'related': ['unbulleted list']}
+{'name': 'renault ahx', 'manufacturer': ['renault'], 'class': [], 'layout': ['front-engine', 'rear-wheel drive layout', 'front-engine', 'rear-wheel drive'], 'production_year': 1941, 'related': []}
+{'name': 'panhard k 101', 'manufacturer': ['panhard'], 'class': [], 'layout': ['front-engine', 'rear-wheel drive layout', 'front-engine', 'rear-wheel drive'], 'production_year': 1937, 'related': []}

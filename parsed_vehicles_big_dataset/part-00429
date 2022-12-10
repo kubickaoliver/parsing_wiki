@@ -1,0 +1,5 @@
+{'name': 'tvr vixen', 'manufacturer': ['tvr'], 'class': ['sports car'], 'layout': [], 'production_year': 1967, 'related': ['tvr tuscan', '1967', 'tvr tuscan v8']}
+{'name': 'holden hj', 'manufacturer': ['holden', 'general motors'], 'class': [], 'layout': ['fr layout'], 'production_year': 1974, 'related': []}
+{'name': 'abarth simca 2000', 'manufacturer': ['abarth', 'and', 'simca'], 'class': [], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rr layout'], 'production_year': 1963, 'related': []}
+{'name': 'holden ej', 'manufacturer': ['holden', 'general motors'], 'class': ['mid-size car', 'mid-size'], 'layout': ['fr layout'], 'production_year': 1962, 'related': ['opel kapitän', 'ref name=uniqueej', 'http:', 'www', 'uniquecarsandparts', 'com', 'car_info_holden_ej', 'htm holden ej at www', 'uniquecarsandparts', 'com', 'ref']}
+{'name': 'ikco runna', 'manufacturer': ['iran khodro'], 'class': ['compact car', 'c-segment'], 'layout': ['ff layout'], 'production_year': 2010, 'related': []}

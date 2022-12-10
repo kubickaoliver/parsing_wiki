@@ -1,0 +1,5 @@
+{'name': 'xud engine', 'manufacturer': ['psa peugeot citroën', 'psa'], 'class': ['wikitable'], 'layout': [], 'production_year': 1982, 'related': []}
+{'name': 'cadillac le mans', 'manufacturer': ['cadillac', 'general motors'], 'class': ['luxury vehicle', 'luxury', 'roadster', 'automobile', 'roadster'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': '', 'related': ['cadillac series 62', 'cadillac eldorado', 'convertible']}
+{'name': 'jeep hurricane', 'manufacturer': ['jeep'], 'class': ['concept car'], 'layout': [], 'production_year': 2005, 'related': []}
+{'name': 'porsche 911 gt3', 'manufacturer': ['porsche'], 'class': ['sports car', 's-segment'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-engine', 'rear-wheel-drive'], 'production_year': 1999, 'related': ['porsche 911 gt2']}
+{'name': 'studebaker champ', 'manufacturer': ['studebaker'], 'class': [], 'layout': ['fr layout'], 'production_year': 1960, 'related': ['studebaker lark']}

@@ -1,0 +1,4 @@
+{'name': 'seat bolero 330 bt', 'manufacturer': ['seat', 'seat', 'stola', 'automotive company', 'stola'], 'class': ['compact executive car', 'd-segment'], 'layout': ['longitudinal engine', 'longitudinal', 'front-engine design', 'front engine', 'front-wheel drive'], 'production_year': 1998, 'related': []}
+{'name': 'toyota ex-7', 'manufacturer': ['toyota'], 'class': ['concept', 'sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'mid-engine', 'rear-wheel-drive'], 'production_year': 1970, 'related': ['toyota 7']}
+{'name': 'austin', 'manufacturer': ['morris commercial cars', 'morris commercial'], 'class': [], 'layout': [], 'production_year': 1967, 'related': []}
+{'name': 'nissan sakura', 'manufacturer': ['nmkv'], 'class': ['kei car'], 'layout': ['front-motor', 'front-wheel-drive'], 'production_year': 2022, 'related': ['mitsubishi ek', 'b33', 'nissan dayz', 'second generation', 'mitsubishi ek', 'fourth generation']}

@@ -1,0 +1,3 @@
+{'name': 'acura legend', 'manufacturer': ['honda'], 'class': ['mid-size', 'luxury car'], 'layout': [], 'production_year': 1986, 'related': []}
+{'name': 'toyota 70 series', 'manufacturer': ['toyota'], 'class': ['unbulleted list'], 'layout': [], 'production_year': 1984, 'related': ['toyota land cruiser prado']}
+{'name': 'mercedes-benz t80', 'manufacturer': ['mercedes-benz'], 'class': [], 'layout': [], 'production_year': 1939, 'related': ['mercedes', 'silver arrows', 'mercedes-benz w125 rekordwagen']}

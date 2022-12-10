@@ -1,0 +1,10 @@
+{'name': 'nissan terrano ii', 'manufacturer': ['nissan'], 'class': ['compact suv'], 'layout': ['front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive'], 'production_year': 1993, 'related': ['nissan terrano', 'wd21', 'nissan terrano', 'wd21']}
+{'name': 'alvis salamander', 'manufacturer': ['alvis car and engineering company', 'alvis'], 'class': [], 'layout': ['rear engine', 'six-wheel drive'], 'production_year': '', 'related': ['alvis saladin']}
+{'name': 'morgan plus 8', 'manufacturer': ['morgan motor company'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1968, 'related': ['morgan 4', 'morgan +4']}
+{'name': 'audi a1', 'manufacturer': ['audi', 'audi ag'], 'class': ['supermini', 'b-segment'], 'layout': [], 'production_year': 2010, 'related': ['volkswagen polo', 'mk5', 'seat ibiza', 'mk4', 'škoda fabia', 'audi s1']}
+{'name': 'alfa romeo giulietta', 'manufacturer': ['alfa romeo'], 'class': ['family car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1954, 'related': []}
+{'name': 'lotus 21', 'manufacturer': ['team lotus'], 'class': ['formula one'], 'layout': [], 'production_year': 1961, 'related': []}
+{'name': 'suzuki carry', 'manufacturer': ['suzuki'], 'class': ['kei truck', 'microvan', 'japan', 'light commercial vehicle', 'outside japan'], 'layout': ['fmr layout'], 'production_year': 1961, 'related': []}
+{'name': 'nissan crew', 'manufacturer': ['nissan'], 'class': ['mid-size car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1993, 'related': ['ubl', 'nissan cedric y31', 'nissan gloria y31']}
+{'name': 'nissan livina', 'manufacturer': ['unbulleted list'], 'class': ['unbulleted list'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2006, 'related': ['unbulleted list']}
+{'name': 'nissan p engine', 'manufacturer': ['nissan motors'], 'class': [], 'layout': [], 'production_year': 1959, 'related': []}

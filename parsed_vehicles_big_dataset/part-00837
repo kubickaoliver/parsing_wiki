@@ -1,0 +1,2 @@
+{'name': 'éclair', 'manufacturer': ['michelin'], 'class': ['sports car'], 'layout': [], 'production_year': 1895, 'related': []}
+{'name': 'humber 15', 'manufacturer': ['humber limited'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'ref name=tt42253'], 'production_year': 1919, 'related': []}

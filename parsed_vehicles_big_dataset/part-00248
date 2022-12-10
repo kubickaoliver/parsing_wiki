@@ -1,0 +1,7 @@
+{'name': 'triumph mayflower', 'manufacturer': ['standard motor company'], 'class': [], 'layout': [], 'production_year': 1949, 'related': []}
+{'name': 'union', 'manufacturer': ['union automobile company'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'ford falcon', 'manufacturer': ['ford australia'], 'class': ['full-size car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1996, 'related': ['ford fairlane', 'australia', 'ford ltd', 'ford fairlane', 'australia', 'ford fairlane']}
+{'name': 'ford falcon', 'manufacturer': ['ford australia'], 'class': ['full-size car'], 'layout': [], 'production_year': 1993, 'related': []}
+{'name': 'suzuki lapin', 'manufacturer': ['suzuki'], 'class': ['kei car'], 'layout': ['front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive'], 'production_year': 2002, 'related': ['suzuki alto', 'suzuki wagon r']}
+{'name': 'tornado intercept vehicle 2', 'manufacturer': [], 'class': ['second generation storm research vehicle'], 'layout': ['6x6', '2008', '6x4', '2009–present', '3 axles', '10 wheels'], 'production_year': '', 'related': []}
+{'name': 'alfa romeo giulia tz', 'manufacturer': ['alfa romeo'], 'class': ['unbulleted list'], 'layout': ['mid-engine design', 'fmr layout – front mid-engine', 'rear-wheel drive', 'front mid-engine', 'rear-wheel-drive'], 'production_year': 1963, 'related': ['alfa romeo canguro']}

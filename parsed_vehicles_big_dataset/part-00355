@@ -1,0 +1,3 @@
+{'name': 'suzuki mehran', 'manufacturer': ['pak suzuki motors'], 'class': ['kei car', 'hatchback'], 'layout': [], 'production_year': 1988, 'related': ['maruti 800', 'india']}
+{'name': 'daimler regency series', 'manufacturer': ['daimler company', 'the daimler company limited'], 'class': ['luxury'], 'layout': [], 'production_year': 1951, 'related': []}
+{'name': 'peugeot type 3', 'manufacturer': ['peugeot', 'des automobiles peugeot'], 'class': [], 'layout': ['rrr layout'], 'production_year': 1891, 'related': []}

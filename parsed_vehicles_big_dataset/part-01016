@@ -1,0 +1,3 @@
+{'name': 'maruti suzuki alto', 'manufacturer': ['maruti suzuki'], 'class': ['city car', 'a-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2000, 'related': ['suzuki alto', 'ha12', 'suzuki alto', 'ha12']}
+{'name': 'gm gem platform', 'manufacturer': ['general motors'], 'class': ['unbulleted list'], 'layout': ['transverse engine', 'transverse', 'front-engine', 'front-wheel-drive layout', 'front engine', 'front-wheel drive'], 'production_year': 2016, 'related': []}
+{'name': 'cadillac lyriq', 'manufacturer': ['general motors'], 'class': ['executive car', 'mid-size luxury', 'crossover suv'], 'layout': ['plainlist'], 'production_year': 2022, 'related': []}

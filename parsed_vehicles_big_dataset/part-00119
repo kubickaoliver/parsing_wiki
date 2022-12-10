@@ -1,0 +1,6 @@
+{'name': 'cummins c series', 'manufacturer': ['cummins'], 'class': [], 'layout': [], 'production_year': 1990, 'related': []}
+{'name': 'plymouth gtx', 'manufacturer': ['chrysler', 'chrysler corporation'], 'class': ['muscle car'], 'layout': ['fr layout'], 'production_year': 1966, 'related': ['dodge charger', 'b-body', 'dodge charger', 'plymouth belvedere', 'plymouth satellite']}
+{'name': '630 dohc', 'manufacturer': ['vm motori'], 'class': [], 'layout': [], 'production_year': 2011, 'related': []}
+{'name': 'beardmore mk7 paramount taxicab', 'manufacturer': ['beardmore motors'], 'class': [], 'layout': ['limousine'], 'production_year': '', 'related': []}
+{'name': 'tata sumo', 'manufacturer': ['tata motors'], 'class': ['mid-size suv'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'front engine', 'four-wheel-drive'], 'production_year': 1994, 'related': ['tata estate', 'tata sierra', 'tata telcoline', 'tata safari']}
+{'name': 'oldsmobile vista cruiser', 'manufacturer': ['oldsmobile'], 'class': ['mid-size'], 'layout': ['fr layout'], 'production_year': '', 'related': ['buick sport wagon']}

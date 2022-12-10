@@ -1,0 +1,5 @@
+{'name': 'armstrong siddeley lancaster', 'manufacturer': ['armstrong siddeley', 'motors'], 'class': [], 'layout': [], 'production_year': 1945, 'related': []}
+{'name': 'armstrong siddeley hurricane', 'manufacturer': ['armstrong siddeley', 'motors'], 'class': [], 'layout': [], 'production_year': 1946, 'related': []}
+{'name': 'eruf model a', 'manufacturer': ['ruf automobile'], 'class': [], 'layout': ['rear-engine', 'rear-wheel drive layout', 'rear-motor', 'rear-wheel drive'], 'production_year': 2008, 'related': ['porsche 911']}
+{'name': 'fiat bravo', 'manufacturer': ['fca italy', 'fiat group automobiles'], 'class': ['small family car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2007, 'related': ['fiat stilo', 'lancia delta', 'third generation', 'lancia delta', '2008']}
+{'name': 'audi a7', 'manufacturer': ['audi'], 'class': ['executive car', 'e-segment', 'coupe'], 'layout': ['ubl'], 'production_year': 2010, 'related': ['ubl']}

@@ -1,0 +1,7 @@
+{'name': 'glide', 'manufacturer': ['bartholomew company'], 'class': ['entry-level car'], 'layout': [], 'production_year': 1902, 'related': []}
+{'name': 'toyota ar engine', 'manufacturer': ['toyota motor corporation'], 'class': [], 'layout': ['unbulleted list'], 'production_year': 2008, 'related': []}
+{'name': 'holden v8 engine', 'manufacturer': ['flagicon', 'australia', 'holden', 'general motors'], 'class': [], 'layout': [], 'production_year': 1969, 'related': []}
+{'name': 'buick blackhawk', 'manufacturer': ['buick', 'general motors'], 'class': ['retro-style automobile', 'retro-style'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'jcb fastrac', 'manufacturer': ['jcb', 'company', 'jcb'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'palmerston', 'manufacturer': ['palmerston motor company'], 'class': ['light car'], 'layout': [], 'production_year': 1920, 'related': []}
+{'name': 'newton-bennett', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1912, 'related': []}

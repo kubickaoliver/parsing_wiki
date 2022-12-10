@@ -1,0 +1,3 @@
+{'name': 'fiat 124 spider', 'manufacturer': ['ubl', 'mazda', 'fca italy'], 'class': ['sports car', 'roadster', 'automobile', 'roadster', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive layout', 'fmr layout'], 'production_year': 2016, 'related': ['mazda mx-5']}
+{'name': 'daihatsu move conte', 'manufacturer': ['daihatsu'], 'class': ['kei car'], 'layout': ['unbulleted list'], 'production_year': '', 'related': ['unbulleted list']}
+{'name': 'yugo', 'manufacturer': ['zastava automobiles', 'zastava'], 'class': ['subcompact', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'ff layout'], 'production_year': 1980, 'related': ['ubl', 'fiat 128', 'fiat 127']}

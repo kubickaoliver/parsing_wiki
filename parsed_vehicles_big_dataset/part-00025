@@ -1,0 +1,4 @@
+{'name': 'lamborghini murciélago', 'manufacturer': ['lamborghini'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['longitudinal engine', 'longitudinal', 'mid-engine design', 'mid-engine', 'all wheel drive'], 'production_year': 2001, 'related': ['lamborghini reventón']}
+{'name': 'lamborghini diablo', 'manufacturer': ['lamborghini'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['longitudinal engine', 'longitudinal', 'mid-engine design', 'mid-engine', 'rear-wheel drive', 'all-wheel drive'], 'production_year': 1990, 'related': ['ubl']}
+{'name': 'reliant kitten', 'manufacturer': ['reliant'], 'class': [], 'layout': [], 'production_year': 1975, 'related': []}
+{'name': 'reliant fox', 'manufacturer': ['reliant'], 'class': [], 'layout': [], 'production_year': 1983, 'related': []}

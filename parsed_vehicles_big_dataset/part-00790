@@ -1,0 +1,5 @@
+{'name': 'bmw 7 series', 'manufacturer': ['bmw'], 'class': ['full-size', 'luxury car', 'f-segment'], 'layout': ['unbulleted list'], 'production_year': 2015, 'related': ['bmw 5 series', 'g30', 'bmw 6 series', 'g32']}
+{'name': '15-20 hp', 'manufacturer': ['alfa romeo'], 'class': [], 'layout': ['front-engine', 'rear-wheel drive layout', 'front-engine', 'rear-wheel drive'], 'production_year': 1914, 'related': []}
+{'name': 'scania omniexpress', 'manufacturer': ['scania ab', 'scania'], 'class': ['commercial vehicle'], 'layout': [], 'production_year': 2007, 'related': []}
+{'name': 'zil-4112r', 'manufacturer': ['zavod imeni likhacheva'], 'class': ['luxury car'], 'layout': ['fr layout'], 'production_year': 2006, 'related': []}
+{'name': 'stile', 'manufacturer': ['ashok leyland'], 'class': ['minivan'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2013, 'related': []}

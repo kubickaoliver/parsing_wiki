@@ -1,0 +1,3 @@
+{'name': 'first generation', 'manufacturer': [], 'class': ['wikitable style=text-align:center', 'font-size:90%'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2013, 'related': ['renault clio', 'renault clio iv', 'nissan juke', 'f15', 'nissan juke', 'f15']}
+{'name': 'tata pixel', 'manufacturer': ['tata motors'], 'class': ['city car', 'a-segment'], 'layout': ['rr layout'], 'production_year': '', 'related': []}
+{'name': 'chrysler valiant', 'manufacturer': ['chrysler australia'], 'class': [], 'layout': ['fr layout', 'ref name=tuckey'], 'production_year': 1962, 'related': []}

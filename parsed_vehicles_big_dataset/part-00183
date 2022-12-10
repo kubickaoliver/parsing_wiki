@@ -1,0 +1,5 @@
+{'name': 'rover l series', 'manufacturer': ['rover group', 'mg rover group', 'powertrain ltd'], 'class': [], 'layout': [], 'production_year': 1994, 'related': []}
+{'name': 'mitsubishi 4m4 engine', 'manufacturer': ['mitsubishi motors'], 'class': [], 'layout': [], 'production_year': 1994, 'related': []}
+{'name': 'chrysler 180', 'manufacturer': ['chrysler europe'], 'class': ['executive car', 'large car'], 'layout': ['fr layout'], 'production_year': 1970, 'related': ['chrysler centura']}
+{'name': '6l45&nbsp', 'manufacturer': ['general motors corporation', 'general&nbsp', 'motors'], 'class': ['6-speed', 'longitudinal engine', 'longitudinal', 'automatic transmission', 'automatic&nbsp', 'transmission'], 'layout': [], 'production_year': 2006, 'related': ['gm 6l80 transmission', 'gm&nbsp', '6l80&nbsp', 'transmission']}
+{'name': 'bmw 7 series', 'manufacturer': ['bmw'], 'class': ['full-size', 'luxury car', 'f-segment'], 'layout': ['unbulleted list', 'rear-wheel drive', 'all-wheel drive'], 'production_year': 2008, 'related': ['rolls-royce ghost']}

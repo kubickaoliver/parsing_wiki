@@ -1,0 +1,7 @@
+{'name': 'mitsubishi minica toppo', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1990, 'related': ['mitsubishi minica']}
+{'name': 'volkswagen polo mk1', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1975, 'related': []}
+{'name': 'first generation', 'manufacturer': [], 'class': ['wikitable style=text-align:left', 'font-size:90%'], 'layout': [], 'production_year': 2006, 'related': ['ubl']}
+{'name': 'evante', 'manufacturer': ['evante cars ltd', 'fleur de lys automobile manufacturing'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1983, 'related': []}
+{'name': 'fs lublin', 'manufacturer': ['fsc lublin automotive factory', 'fsc', 'daewoo motors', 'daewoo', 'wytwórnia silników wysokoprężnych andoria', 'andoria-mot', 'intrall', 'dzt tymińscy', 'dzt', 'fsc lublin automotive factory', 'honker', 'avia', 'belaz', 'unison', 'automotive', 'unison'], 'class': ['light commercial vehicle', 'm-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1993, 'related': []}
+{'name': 'gas-au-lec', 'manufacturer': ['corwin manufacturing company'], 'class': ['touring car'], 'layout': [], 'production_year': 1905, 'related': []}
+{'name': 'kent', 'manufacturer': ['colonial automobile company'], 'class': [], 'layout': [], 'production_year': 1900, 'related': []}

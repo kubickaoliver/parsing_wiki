@@ -1,0 +1,2 @@
+{'name': 'vauxhall 23-60', 'manufacturer': ['vauxhall motors', 'vauxhall'], 'class': ['medium'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'ref name=tt43146'], 'production_year': 1922, 'related': []}
+{'name': 'maserati ghibli', 'manufacturer': ['maserati'], 'class': ['executive car', 'e-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive', 'four-wheel-drive'], 'production_year': 2013, 'related': ['unbulleted list', 'maserati quattroporte', 'quattroporte vi', 'maserati quattroporte vi', 'maserati levante']}

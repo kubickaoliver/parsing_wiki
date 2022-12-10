@@ -1,0 +1,4 @@
+{'name': 'xiali n7', 'manufacturer': ['faw group', 'tianjin faw'], 'class': ['subcompact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2013, 'related': []}
+{'name': 'peugeot quasar', 'manufacturer': ['peugeot'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'four-wheel-drive layout', 'mid-engine', 'awd'], 'production_year': 1984, 'related': ['peugeot 205', '205 turbo 16', 't16', '205 t16']}
+{'name': 'hyundai prophecy', 'manufacturer': ['hyundai motor company'], 'class': ['concept car'], 'layout': [], 'production_year': 2020, 'related': []}
+{'name': 'buick xp2000', 'manufacturer': ['buick'], 'class': ['luxury car', 'luxury', 'full-size car', 'fullsize', 'f-segment'], 'layout': ['front-engine', 'rear-wheel drive layout', 'front-engine', 'rwd'], 'production_year': 1995, 'related': ['holden commodore', 'holden commodore']}

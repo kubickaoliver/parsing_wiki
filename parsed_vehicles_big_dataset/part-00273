@@ -1,0 +1,2 @@
+{'name': 'electrocar ec-1', 'manufacturer': ['moaz'], 'class': ['small electric vehicles'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'corvair monza gt', 'manufacturer': ['chevrolet', 'general motors'], 'class': ['sports car', 'experimental'], 'layout': ['rmr layout'], 'production_year': 1962, 'related': []}

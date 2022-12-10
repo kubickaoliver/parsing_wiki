@@ -1,0 +1,5 @@
+{'name': 'holden commodore', 'manufacturer': ['holden', 'general motors'], 'class': ['mid-size car', 'mid-size'], 'layout': [], 'production_year': 1984, 'related': ['opel rekord series e', 'opel rekord e', 'opel senator']}
+{'name': 'lti txii', 'manufacturer': ['london taxis international', 'lti'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2002, 'related': []}
+{'name': 'triumph dolomite', 'manufacturer': ['triumph motor company'], 'class': [], 'layout': ['front engine rear-wheel drive'], 'production_year': 1934, 'related': []}
+{'name': 'isuzu faster', 'manufacturer': ['isuzu'], 'class': ['pickup truck'], 'layout': ['front-engine', 'rear-wheel drive layout', 'front-engine', 'rear-wheel drive', 'front-engine', 'four-wheel drive layout', 'front-engine', 'four-wheel drive'], 'production_year': 1972, 'related': ['isuzu florian']}
+{'name': 'optare sigma', 'manufacturer': ['optare'], 'class': [], 'layout': [], 'production_year': 1994, 'related': ['optare spectra']}

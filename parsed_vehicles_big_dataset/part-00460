@@ -1,0 +1,3 @@
+{'name': 'hongqi hqe', 'manufacturer': ['hongqi', 'marque', 'hongqi'], 'class': ['luxury car'], 'layout': ['fr layout'], 'production_year': 2009, 'related': []}
+{'name': 'toyota camry', 'manufacturer': ['toyota'], 'class': ['mid-size car'], 'layout': ['front-engine', 'front-wheel drive layout', 'front-engine', 'front-wheel drive', 'front-engine', 'four-wheel drive layout', 'front-engine', 'four-wheel drive'], 'production_year': 2001, 'related': ['lexus es', 'xv30', 'toyota camry solara', 'xv30', 'toyota camry solara', 'xv30']}
+{'name': 'toyota sai', 'manufacturer': ['toyota'], 'class': ['mid-size car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2009, 'related': ['unbulleted list']}

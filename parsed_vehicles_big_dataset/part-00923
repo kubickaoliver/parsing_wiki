@@ -1,0 +1,6 @@
+{'name': 'savage rivale roadyacht gts', 'manufacturer': ['savage rivale'], 'class': ['grand tourer', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['front mid-engine', 'rear-wheel-drive layout', 'fmr layout'], 'production_year': 2009, 'related': []}
+{'name': 'changan cs55', 'manufacturer': ['changan automobile'], 'class': ['compact crossover', 'compact cuv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2017, 'related': ['changan cs75']}
+{'name': 'besturn x40', 'manufacturer': ['faw group', 'besturn'], 'class': ['subcompact car', 'subcompact', 'crossover sport utility vehicle', 'cuv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front engine', 'front-wheel drive'], 'production_year': 2016, 'related': ['senya r7']}
+{'name': 'changan benben', 'manufacturer': ['changan automobile'], 'class': ['city car', 'a-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2006, 'related': []}
+{'name': 'baic', 'manufacturer': ['baic motor'], 'class': [], 'layout': [], 'production_year': 2013, 'related': []}
+{'name': 'nobel 200', 'manufacturer': ['york noble industries ltd'], 'class': ['microcar'], 'layout': [], 'production_year': 1958, 'related': []}

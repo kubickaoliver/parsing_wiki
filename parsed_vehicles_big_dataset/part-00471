@@ -1,0 +1,5 @@
+{'name': 'perodua alza', 'manufacturer': ['perodua'], 'class': ['mini mpv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2009, 'related': ['daihatsu boon', 'm300', 'daihatsu boon', 'perodua myvi', 'm300', 'perodua myvi', 'm300']}
+{'name': 'jensen p66', 'manufacturer': ['jensen motors', 'jensen'], 'class': ['grand tourer'], 'layout': [], 'production_year': 1965, 'related': []}
+{'name': 'laferrari', 'manufacturer': ['ferrari', 'ferrari n'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': '', 'related': ['ferrari fxx-k', 'ferrari daytona sp3']}
+{'name': 'tatra 70', 'manufacturer': ['tatra', 'company', 'tatra'], 'class': ['luxury vehicle', 'luxury', 'full-size car'], 'layout': ['fr layout'], 'production_year': 1931, 'related': []}
+{'name': 'big', 'manufacturer': ['hyundai motor company'], 'class': [], 'layout': [], 'production_year': 2006, 'related': []}

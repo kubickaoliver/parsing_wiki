@@ -1,0 +1,2 @@
+{'name': 'renault maxity', 'manufacturer': ['nissan'], 'class': ['truck'], 'layout': [], 'production_year': 2007, 'related': ['nissan cabstar', 'nissan atlas']}
+{'name': 'chery a1', 'manufacturer': ['chery'], 'class': ['supermini'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2007, 'related': []}

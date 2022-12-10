@@ -1,0 +1,2 @@
+{'name': 'bmw ukl platform', 'manufacturer': ['bmw'], 'class': ['subcompact car', 'compact car'], 'layout': ['front-engine', 'front-wheel-drive', 'front-engine', 'all-wheel-drive'], 'production_year': 2014, 'related': []}
+{'name': 'scania two-series', 'manufacturer': ['ubl', 'scania ab', 'scania'], 'class': ['heavy truck'], 'layout': [], 'production_year': 1980, 'related': []}

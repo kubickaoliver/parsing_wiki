@@ -1,0 +1,14 @@
+{'name': 'moskvitch 401', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1954, 'related': []}
+{'name': 'moskvich 2138', 'manufacturer': ['azlk'], 'class': ['large family car'], 'layout': [], 'production_year': 1976, 'related': ['izh 2125']}
+{'name': 'moskvitch g1', 'manufacturer': ['moskvitch'], 'class': ['racing car'], 'layout': ['rr layout'], 'production_year': 1955, 'related': []}
+{'name': 'moskvitch g2', 'manufacturer': ['moskvitch'], 'class': ['sports car'], 'layout': ['rr layout'], 'production_year': 1956, 'related': []}
+{'name': 'moskvitch g3', 'manufacturer': ['moskvitch', 'moskvitch stock company'], 'class': ['racing car'], 'layout': ['fr layout'], 'production_year': 1961, 'related': ['moskvitch g1']}
+{'name': 'moskvitch g4', 'manufacturer': [], 'class': ['sports car'], 'layout': ['rr layout'], 'production_year': 1963, 'related': []}
+{'name': 'fiat argenta', 'manufacturer': ['fiat'], 'class': ['compact executive car', 'large family car', 'd-segment'], 'layout': ['fr layout'], 'production_year': 1981, 'related': []}
+{'name': 'mg j-type', 'manufacturer': ['car'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1932, 'related': []}
+{'name': 'bentley mark vi', 'manufacturer': ['bentley', 'bentley motors', '1931', 'limited', 'crewe cheshire'], 'class': ['full-size', 'luxury car'], 'layout': ['fr layout'], 'production_year': 1946, 'related': ['rolls-royce silver dawn']}
+{'name': 'bentley r type', 'manufacturer': ['bentley motors'], 'class': ['luxury vehicle', 'luxury car'], 'layout': ['front-engine design', 'front engine', 'rear-wheel drive'], 'production_year': 1952, 'related': ['rolls-royce silver dawn']}
+{'name': 'bentley s2', 'manufacturer': ['bentley', 'bentley motors', '1931', 'limited'], 'class': [], 'layout': [], 'production_year': 1959, 'related': ['rolls-royce silver cloud', 'rolls-royce silver cloud ii']}
+{'name': 'bentley turbo r', 'manufacturer': ['bentley'], 'class': [], 'layout': ['fr layout'], 'production_year': 1985, 'related': ['rolls-royce silver spirit']}
+{'name': 'bentley continental', 'manufacturer': ['bentley motors'], 'class': [], 'layout': ['fr layout'], 'production_year': 1952, 'related': []}
+{'name': 'rolls-royce silver spirit', 'manufacturer': ['rolls-royce motors'], 'class': ['full-size', 'luxury car'], 'layout': ['fr layout'], 'production_year': 1980, 'related': ['ubl', 'bentley eight', 'bentley mulsanne', '1980–1992', 'bentley mulsanne', 'bentley turbo r', 'bentley brooklands']}

@@ -1,0 +1,3 @@
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2011, 'related': ['haval h6 coupe']}
+{'name': 'peugeot 405 turbo 16', 'manufacturer': ['peugeot'], 'class': [], 'layout': [], 'production_year': 1988, 'related': []}
+{'name': 'bugatti eb 110', 'manufacturer': ['bugatti', 'bugatti automobili', 'bugatti automobili s'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['mid-engine', 'four-wheel drive layout', 'mid-engine', 'four-wheel drive'], 'production_year': 1991, 'related': ['dauer', 'dauer eb 110', 'edonis']}

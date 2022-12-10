@@ -1,0 +1,3 @@
+{'name': 'chrysler 300', 'manufacturer': ['chrysler corporation'], 'class': ['fullsize car', 'muscle car'], 'layout': ['front-engine', 'rear-wheel drive layout', 'fr layout'], 'production_year': 1962, 'related': ['imperial', 'automobile', 'imperial', 'chrysler new yorker', 'chrysler newport', 'chrysler saratoga']}
+{'name': 'ferqui solera', 'manufacturer': ['ferqui'], 'class': ['midicoach'], 'layout': [], 'production_year': 1997, 'related': []}
+{'name': 'armstrong', 'manufacturer': ['armstrong motor company'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1913, 'related': []}

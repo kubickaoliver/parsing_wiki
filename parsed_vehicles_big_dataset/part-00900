@@ -1,0 +1,4 @@
+{'name': 'lamborghini terzo millennio', 'manufacturer': ['unbulleted list'], 'class': ['hypercar', 'car classification', 'hypercar'], 'layout': ['quadruple-motor', 'all-wheel drive'], 'production_year': '', 'related': []}
+{'name': 'brilliance h220', 'manufacturer': ['brilliance auto'], 'class': ['subcompact car', 'subcompact', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2012, 'related': ['brilliance v3']}
+{'name': 'brilliance h320', 'manufacturer': ['brilliance auto'], 'class': ['compact car', 'compact', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2013, 'related': ['brilliance fsv', 'sedan', 'brilliance frv', 'hatchback']}
+{'name': 'mg gt', 'manufacturer': ['saic motor'], 'class': ['compact car', 'c-segment'], 'layout': [], 'production_year': 2014, 'related': ['mg 5', 'roewe 360']}

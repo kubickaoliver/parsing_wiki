@@ -1,0 +1,4 @@
+{'name': 'chevrolet groove', 'manufacturer': ['general motors'], 'class': ['subcompact car', 'subcompact'], 'layout': ['front-wheel drive', 'fwd'], 'production_year': '', 'related': ['chevrolet beat', 'chevrolet trax', 'daewoo kalos', 'daewoo matiz', 'gmc granite']}
+{'name': 'dauer 962 le mans', 'manufacturer': ['dauer sportwagen'], 'class': ['unbulleted list'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 1993, 'related': ['porsche 962']}
+{'name': 'infiniti g20', 'manufacturer': ['nissan motors', 'nissan'], 'class': ['compact car', 'compact', 'luxury car'], 'layout': [], 'production_year': 1991, 'related': []}
+{'name': 'wolseley hornet', 'manufacturer': ['wolseley motors', 'wolseley motors limited'], 'class': [], 'layout': [], 'production_year': 1930, 'related': []}

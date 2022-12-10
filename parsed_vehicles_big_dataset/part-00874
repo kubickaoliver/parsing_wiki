@@ -1,0 +1,3 @@
+{'name': 'luxgen u5', 'manufacturer': ['luxgen'], 'class': ['mini sport utility vehicle', 'subcompact crossover suv'], 'layout': ['ff layout', 'front engine', 'front wheel drive'], 'production_year': 2017, 'related': []}
+{'name': 'mg zs', 'manufacturer': ['saic motor'], 'class': ['subcompact crossover suv', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2017, 'related': ['roewe rx3']}
+{'name': 'caterpillar c27', 'manufacturer': ['caterpillar incorporated'], 'class': [], 'layout': [], 'production_year': 1983, 'related': []}

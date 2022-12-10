@@ -1,0 +1,3 @@
+{'name': 'thirteenth-generation ford f-series', 'manufacturer': ['ford motor company'], 'class': ['full-size', 'pickup truck'], 'layout': ['ubl'], 'production_year': 2014, 'related': ['ford atlas', 'concept', 'ford super duty', 'fourth generation', '2017–present', 'ford super duty', 'p558', 'ford raptor', 'from 2017']}
+{'name': 'ubl', 'manufacturer': ['hillman', 'hillman motor car co ltd'], 'class': ['executive car'], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': '', 'related': []}
+{'name': 'duesenberg model a', 'manufacturer': ['duesenberg'], 'class': ['luxury car'], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': 1921, 'related': ['duesenberg model x']}

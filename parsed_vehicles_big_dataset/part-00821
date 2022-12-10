@@ -1,0 +1,2 @@
+{'name': 'fiat tipo', 'manufacturer': ['fca italy'], 'class': ['compact car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2015, 'related': ['fiat 500l', 'fiat 500x', 'jeep renegade', 'jeep compass']}
+{'name': 'suzuki brezza', 'manufacturer': ['suzuki'], 'class': ['subcompact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2016, 'related': ['unbulleted list']}

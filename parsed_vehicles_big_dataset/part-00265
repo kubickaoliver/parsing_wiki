@@ -1,0 +1,5 @@
+{'name': 'bound', 'manufacturer': ['bound brothers'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1920, 'related': []}
+{'name': 'bpd', 'manufacturer': ['brown', 'paine and dowland ltd'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1913, 'related': []}
+{'name': 'bradwell', 'manufacturer': ['bradwell and co'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1914, 'related': []}
+{'name': 'toyota liteace', 'manufacturer': ['ubl'], 'class': ['ubl'], 'layout': ['ubl'], 'production_year': 1970, 'related': ['r10', 'toyota townace', 'r10']}
+{'name': 'aston martin dp214', 'manufacturer': ['aston martin', 'limited'], 'class': ['grand tourer'], 'layout': ['fr layout'], 'production_year': 1963, 'related': ['aston martin db4 gt zagato', 'aston martin db4']}

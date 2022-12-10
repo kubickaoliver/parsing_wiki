@@ -1,0 +1,3 @@
+{'name': 'subaru wrx', 'manufacturer': ['subaru'], 'class': ['sport compact', 'sport compact car'], 'layout': ['front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive'], 'production_year': 1992, 'related': ['ubl']}
+{'name': 'genesis gv80', 'manufacturer': ['genesis motor', 'hyundai motor company', 'hyundai'], 'class': ['executive car', 'mid-size luxury', 'crossover', 'automobile', 'crossover suv'], 'layout': ['unbulleted list'], 'production_year': 2020, 'related': ['genesis g80']}
+{'name': 'volkswagen mv taxi', 'manufacturer': ['volkswagen'], 'class': [], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2019, 'related': ['toyota jpn taxi']}

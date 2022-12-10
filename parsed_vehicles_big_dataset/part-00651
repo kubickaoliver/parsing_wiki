@@ -1,0 +1,5 @@
+{'name': 'mercedes-benz om640 engine', 'manufacturer': ['daimler ag'], 'class': [], 'layout': [], 'production_year': 2004, 'related': []}
+{'name': 'mercedes-benz om668 engine', 'manufacturer': ['daimler ag'], 'class': ['wikitable'], 'layout': [], 'production_year': 1997, 'related': []}
+{'name': 'bedford oy', 'manufacturer': ['bedford vehicles', 'bedford', 'general motors'], 'class': ['military vehicle'], 'layout': ['longitudinal engine', 'longitudinal', 'front-engine design', 'front engine', 'rear-wheel drive', '2x4'], 'production_year': 1939, 'related': []}
+{'name': 'alfa romeo caimano', 'manufacturer': ['alfa romeo'], 'class': ['concept car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1971, 'related': ['alfa romeo alfasud']}
+{'name': 'alfa romeo sportut', 'manufacturer': ['alfa romeo'], 'class': ['concept car'], 'layout': ['front-engine design', 'front-engine', 'all-wheel drive'], 'production_year': 1997, 'related': ['alfa romeo 145']}

@@ -1,0 +1,5 @@
+{'name': 'mitsubishi pajero junior', 'manufacturer': ['mitsubishi motors'], 'class': ['mini suv'], 'layout': ['front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive'], 'production_year': 1995, 'related': ['mitsubishi pajero mini']}
+{'name': 'mitsubishi pajero io', 'manufacturer': ['mitsubishi motors'], 'class': ['mini suv'], 'layout': ['ubl'], 'production_year': 1998, 'related': []}
+{'name': 'vixen', 'manufacturer': ['vixen motor company'], 'class': [], 'layout': [], 'production_year': 1986, 'related': []}
+{'name': 'bedford tj', 'manufacturer': ['bedford vehicles', 'awd trucks', 'hindustan motors', 'marshall aerospace and defence group'], 'class': ['medium-duty', 'truck'], 'layout': [], 'production_year': 1958, 'related': ['bedford ta']}
+{'name': 'plymouth x2s', 'manufacturer': ['diamond star motors', 'mitsubishi motors', 'daimlerchrysler'], 'class': ['sports car'], 'layout': [], 'production_year': '', 'related': []}

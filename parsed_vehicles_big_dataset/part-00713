@@ -1,0 +1,2 @@
+{'name': 'bmw 2 series', 'manufacturer': ['bmw'], 'class': ['luxury vehicle', 'premium compact', 'subcompact executive', 'minivan', 'mpv', 'm-segment'], 'layout': ['ubl'], 'production_year': 2014, 'related': ['ubl']}
+{'name': 'mclaren 650s', 'manufacturer': ['mclaren automotive'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['rear mid-engine', 'rear-wheel drive layout', 'rear mid-engine', 'rear-wheel drive'], 'production_year': 2014, 'related': ['mclaren 12c', 'mclaren p1']}

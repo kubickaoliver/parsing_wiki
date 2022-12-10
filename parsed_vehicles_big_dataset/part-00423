@@ -1,0 +1,3 @@
+{'name': 'tata prima', 'manufacturer': ['tata daewoo', 'tata commercial vehicle'], 'class': ['heavy truck'], 'layout': [], 'production_year': 2008, 'related': []}
+{'name': 'toyota corolla rumion', 'manufacturer': ['toyota'], 'class': ['compact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive', 'japan only'], 'production_year': 2007, 'related': ['toyota corolla', 'e150', 'toyota auris', 'e150', 'toyota auris', 'e150']}
+{'name': 'little tikes cozy coupe', 'manufacturer': ['little tikes'], 'class': ['toy car'], 'layout': [], 'production_year': '', 'related': []}

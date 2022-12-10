@@ -1,0 +1,7 @@
+{'name': 'artega gt', 'manufacturer': ['artega automobile', 'artega'], 'class': ['sports car', 's-segment'], 'layout': ['transverse engine', 'transverse', 'rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 2009, 'related': ['saleen s1', 'melkus', 'melkus rs 2000']}
+{'name': 'fap 2026', 'manufacturer': ['fabrika automobila priboj'], 'class': ['truck', '6×6 utility', 'transport truck'], 'layout': [], 'production_year': 1978, 'related': []}
+{'name': 'holden ss', 'manufacturer': ['holden', 'general motors'], 'class': ['full-size car', 'full-size'], 'layout': [], 'production_year': 1972, 'related': []}
+{'name': 'gale', 'manufacturer': ['western tool works'], 'class': ['entry-level car'], 'layout': [], 'production_year': 1905, 'related': []}
+{'name': 'black', 'manufacturer': ['black motor company'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'colt runabout', 'manufacturer': ['colt runabout company'], 'class': [], 'layout': [], 'production_year': 1907, 'related': []}
+{'name': 'gaz-21', 'manufacturer': [], 'class': ['executive car', 'e-segment'], 'layout': [], 'production_year': 1956, 'related': []}

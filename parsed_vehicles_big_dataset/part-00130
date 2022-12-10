@@ -1,0 +1,3 @@
+{'name': 'ford ltd crown victoria', 'manufacturer': ['ford motor company', 'ford'], 'class': ['full-size'], 'layout': [], 'production_year': 1979, 'related': ['mercury grand marquis', 'lincoln town car', 'lincoln continental mark vi', 'continental mark vi']}
+{'name': 'tata ace', 'manufacturer': ['tata motors'], 'class': ['mini truck'], 'layout': [], 'production_year': 2005, 'related': []}
+{'name': 'mako shark concepts', 'manufacturer': ['chevrolet', 'general motors'], 'class': ['sports car'], 'layout': [], 'production_year': 1962, 'related': ['chevrolet corvette', 'chevrolet corvette', 'mako shark ii']}

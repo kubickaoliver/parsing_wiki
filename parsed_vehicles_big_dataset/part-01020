@@ -1,0 +1,3 @@
+{'name': 'nio et7', 'manufacturer': ['nio', 'car company', 'nio'], 'class': ['full-size car', 'e-segment'], 'layout': ['dual-motor', 'all-wheel drive'], 'production_year': 2022, 'related': []}
+{'name': 'nio et5', 'manufacturer': ['nio', 'car company', 'nio'], 'class': ['compact executive car', 'mid-size car', 'mid-size car', 'entry-level', 'luxury car', 'd-segment'], 'layout': ['dual-motor', 'all-wheel drive'], 'production_year': 2022, 'related': []}
+{'name': 'gm r platform', 'manufacturer': [], 'class': [], 'layout': ['ff layout'], 'production_year': 1985, 'related': []}

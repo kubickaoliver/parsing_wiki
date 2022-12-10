@@ -1,0 +1,4 @@
+{'name': 'austin 7', 'manufacturer': ['austin motor company', 'austin'], 'class': ['economy car'], 'layout': [], 'production_year': 1923, 'related': []}
+{'name': 'first generation', 'manufacturer': [], 'class': ['wikitable align=left'], 'layout': [], 'production_year': 2005, 'related': ['perodua alza', 'm500']}
+{'name': 'amc matador', 'manufacturer': ['american motors corporation'], 'class': ['unbulleted list', 'mid-size car', 'mid-size', '1971–1973 and coupes', 'full-size car', 'full-size', '1974–1978 sedans and wagons', 'personal luxury car', 'personal luxury', 'oleg cassini and barcelona'], 'layout': ['front-engine', 'rear-wheel drive layout', 'fr layout'], 'production_year': 1970, 'related': ['amc ambassador']}
+{'name': 'citicar', 'manufacturer': ['sebring-vanguard'], 'class': ['electric vehicle', 'production', 'battery electric'], 'layout': [], 'production_year': 1974, 'related': []}

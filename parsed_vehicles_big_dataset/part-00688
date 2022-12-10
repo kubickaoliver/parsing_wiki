@@ -1,0 +1,2 @@
+{'name': 'aish-1', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1952, 'related': ['prince aftf truck']}
+{'name': 'galpin gtr1', 'manufacturer': ['galpin auto sports'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rmr layout'], 'production_year': 2013, 'related': ['ford gt']}

@@ -1,0 +1,8 @@
+{'name': 'nissan nails', 'manufacturer': ['nissan'], 'class': ['concept car'], 'layout': ['ff layout'], 'production_year': 2001, 'related': []}
+{'name': 'jac refine r3', 'manufacturer': ['jac motors'], 'class': [], 'layout': [], 'production_year': 2017, 'related': []}
+{'name': 'chana eulove', 'manufacturer': ['changan automobile'], 'class': ['compact mpv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2013, 'related': []}
+{'name': 'haima s5 i', 'manufacturer': ['haima automobile'], 'class': ['compact crossover suv', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2014, 'related': []}
+{'name': 'aston martin lagonda vignale', 'manufacturer': ['lagonda', 'lagonda', 'aston martin'], 'class': ['concept car'], 'layout': ['fr layout'], 'production_year': 1993, 'related': ['lincoln town car', 'second generation', 'fn36', '116', '1990–1997', 'lincoln town car']}
+{'name': 'haima m8', 'manufacturer': [], 'class': ['mid-size car', 'd-segment'], 'layout': [], 'production_year': 2013, 'related': []}
+{'name': 'haima freema', 'manufacturer': ['haima automobile', 'haima', 'faw group'], 'class': ['compact mpv'], 'layout': ['front-engine design', 'front engine', 'front-wheel drive'], 'production_year': 2004, 'related': ['mazda premacy', 'ford ixion']}
+{'name': 'aec roadtrain', 'manufacturer': ['leyland motors', 'leyland', 'associated equipment company', 'aec'], 'class': ['road train'], 'layout': ['ubl'], 'production_year': 1930, 'related': []}

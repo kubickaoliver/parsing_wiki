@@ -1,0 +1,11 @@
+{'name': 'bmw e1', 'manufacturer': ['bmw'], 'class': ['city car', 'a-segment'], 'layout': [], 'production_year': 1991, 'related': []}
+{'name': 'peugeot moovie', 'manufacturer': ['peugeot'], 'class': ['city car', 'a-segment'], 'layout': [], 'production_year': 2005, 'related': []}
+{'name': 'peugeot moonster', 'manufacturer': ['peugeot'], 'class': [], 'layout': [], 'production_year': 2001, 'related': []}
+{'name': 'gleagle gs-cc', 'manufacturer': ['geely auto'], 'class': ['sports car', 's-segment'], 'layout': [], 'production_year': 2011, 'related': []}
+{'name': 'mazda cx-50', 'manufacturer': ['mazda'], 'class': ['compact crossover suv'], 'layout': ['front-engine', 'all-wheel-drive'], 'production_year': 2022, 'related': ['unbulleted list']}
+{'name': 'mazda cx-60', 'manufacturer': ['mazda'], 'class': ['mid-size crossover suv'], 'layout': ['unbulleted list'], 'production_year': 2022, 'related': ['!--', 'unbulleted list']}
+{'name': 'ferrari', 'manufacturer': ['scuderia ferrari', 'ferrari'], 'class': ['wikitable sortable'], 'layout': [], 'production_year': 1996, 'related': []}
+{'name': 'bmw', 'manufacturer': ['flagicon', 'germany', 'bmw'], 'class': [], 'layout': [], 'production_year': 2000, 'related': []}
+{'name': 'toyota aygo x', 'manufacturer': ['toyota'], 'class': ['crossover city car', 'a-segment'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2022, 'related': ['toyota yaris', 'xp210']}
+{'name': 'cosworth', 'manufacturer': ['flagicon', 'ford motor company', 'ford', 'cosworth'], 'class': [], 'layout': [], 'production_year': 1999, 'related': []}
+{'name': 'aston martin', 'manufacturer': ['flagicon', 'aston martin'], 'class': [], 'layout': [], 'production_year': 1959, 'related': []}

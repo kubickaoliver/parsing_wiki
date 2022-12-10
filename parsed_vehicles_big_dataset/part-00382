@@ -1,0 +1,5 @@
+{'name': 'holden sst', 'manufacturer': ['holden', 'general motors'], 'class': [], 'layout': [], 'production_year': 2004, 'related': []}
+{'name': 'holden utester', 'manufacturer': ['holden', 'general motors'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'rincon', 'manufacturer': ['honda'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'international loadstar', 'manufacturer': ['international harvester', '1962-1978'], 'class': ['class 6-7'], 'layout': ['4x2', '4x4', '6x4', '6x6'], 'production_year': 1962, 'related': []}
+{'name': 'international s series', 'manufacturer': ['ubl', 'international harvester', '1978-1986', 'navistar international', '1986-2001'], 'class': ['truck classification', 'class 6', 'class 6-7', 'medium-duty truck'], 'layout': ['4x2', '6x4'], 'production_year': 1977, 'related': ['international s series', 'bus chassis', 'international s series schoolmaster', 'international 3800', 'powertrans t1250']}

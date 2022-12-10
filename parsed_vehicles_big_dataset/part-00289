@@ -1,0 +1,4 @@
+{'name': 'škoda octavia', 'manufacturer': ['škoda auto', 'aznp'], 'class': ['small family car'], 'layout': ['fr layout'], 'production_year': 1959, 'related': []}
+{'name': 'land rover series', 'manufacturer': ['ubl'], 'class': ['off-road vehicle'], 'layout': ['front engine', 'rear-wheel-drive layout', 'fr layout', 'all-wheel drive'], 'production_year': 1948, 'related': []}
+{'name': 'file:nissan logo', 'manufacturer': ['nissan'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'lone star', 'manufacturer': ['lone star motor truck and tractor association'], 'class': [], 'layout': [], 'production_year': 1919, 'related': []}

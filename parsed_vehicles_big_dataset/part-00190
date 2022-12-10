@@ -1,0 +1,9 @@
+{'name': 'file:renault logo', 'manufacturer': ['renault'], 'class': [], 'layout': [], 'production_year': 1996, 'related': []}
+{'name': 'renault f-type engine', 'manufacturer': ['renault'], 'class': ['wikitable style=text-align:center'], 'layout': [], 'production_year': 1982, 'related': []}
+{'name': 'renault cléon-alu engine', 'manufacturer': ['renault'], 'class': [], 'layout': [], 'production_year': 1960, 'related': []}
+{'name': 'energy engine', 'manufacturer': ['renault'], 'class': ['wikitable style=text-align:center'], 'layout': [], 'production_year': 1988, 'related': []}
+{'name': 'k-type engine', 'manufacturer': ['renault'], 'class': ['wikitable'], 'layout': [], 'production_year': 1995, 'related': []}
+{'name': 'file:renault logo', 'manufacturer': ['mercedes-benz', 'renault–nissan–mitsubishi alliance'], 'class': ['wikitable'], 'layout': [], 'production_year': 2011, 'related': []}
+{'name': 'sofim 8140 engine', 'manufacturer': ['sofim'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'facel vega facel ii', 'manufacturer': ['facel vega', 'paris'], 'class': ['grand tourer'], 'layout': ['fr layout'], 'production_year': 1962, 'related': []}
+{'name': 'ford customline', 'manufacturer': ['ford motor company', 'ford'], 'class': ['full-size'], 'layout': ['fr layout'], 'production_year': 1952, 'related': []}

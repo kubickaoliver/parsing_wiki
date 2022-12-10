@@ -1,0 +1,4 @@
+{'name': 'ford quadricycle', 'manufacturer': ['henry ford'], 'class': [], 'layout': [], 'production_year': 1896, 'related': []}
+{'name': 'mercer 35 raceabout', 'manufacturer': ['mercer'], 'class': ['sports car'], 'layout': ['front mid-engine', 'rear-wheel drive layout', 'fmr layout'], 'production_year': 1910, 'related': []}
+{'name': 'volkswagen group a0 platform', 'manufacturer': ['volkswagen group'], 'class': [], 'layout': ['unbulleted list'], 'production_year': 1974, 'related': []}
+{'name': 'nissan serena', 'manufacturer': ['nissan'], 'class': ['minivan'], 'layout': ['unbulleted list'], 'production_year': 1991, 'related': ['dongfeng yumsun', 'zna succe']}

@@ -1,0 +1,2 @@
+{'name': 'izh 2126 oda', 'manufacturer': ['izh'], 'class': ['compact car'], 'layout': ['front-engine design', 'front-engine', 'rear-wheel drive', 'four-wheel drive', 'izh-2116 4x4'], 'production_year': 1990, 'related': []}
+{'name': 'gaz-aaa', 'manufacturer': ['gaz'], 'class': ['truck'], 'layout': ['fr layout'], 'production_year': 1936, 'related': ['gaz-aa', 'gaz-a']}

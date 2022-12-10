@@ -1,0 +1,3 @@
+{'name': 'marcos tso', 'manufacturer': ['marcos', 'automobile', 'marcos'], 'class': ['sports car', 's-segment'], 'layout': [], 'production_year': 2004, 'related': []}
+{'name': 'ford falcon', 'manufacturer': ['ford australia'], 'class': ['full-size car'], 'layout': ['fr layout'], 'production_year': 2005, 'related': []}
+{'name': 'gm old look bus', 'manufacturer': ['yellow coach', '1940–1943', 'gmc', 'automobile', 'gmc truck and bus', '1944–1969'], 'class': ['transit bus'], 'layout': [], 'production_year': 1940, 'related': []}

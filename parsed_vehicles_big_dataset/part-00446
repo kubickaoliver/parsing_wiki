@@ -1,0 +1,3 @@
+{'name': 'international metro', 'manufacturer': ['international harvester'], 'class': ['light-duty van or coach', 'bus', 'class 1-3', 'medium-duty van or truck', 'class 4-6'], 'layout': ['automobile layout', 'rear-wheel-drive layouts', 'cab over'], 'production_year': 1938, 'related': ['d-series truck', 'international harvester scout', 'scout']}
+{'name': 'ac 3000me', 'manufacturer': ['ubl', 'ac cars', 'scotland', 'plc'], 'class': ['sports car'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'mr layout', 'with', 'transverse engine'], 'production_year': 1979, 'related': []}
+{'name': 'gd mk3', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1990, 'related': []}

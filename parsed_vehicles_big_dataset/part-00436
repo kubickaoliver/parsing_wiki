@@ -1,0 +1,4 @@
+{'name': 'peugeot 5008', 'manufacturer': ['peugeot', 'efn', 'name=manufacturer', 'ubl', 'psa group', '2009–2021', 'stellantis', '2021–present'], 'class': ['compact mpv', '2009–2016', 'compact crossover suv', '2017–present'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2009, 'related': ['peugeot 3008']}
+{'name': 'thomas saf-t-liner er', 'manufacturer': ['thomas built buses'], 'class': ['type d'], 'layout': ['rear-engine'], 'production_year': '', 'related': []}
+{'name': 'nissan tb engine', 'manufacturer': ['nissan machinery'], 'class': [], 'layout': [], 'production_year': 1987, 'related': []}
+{'name': 'subaru en engine', 'manufacturer': ['subaru'], 'class': ['wikitable sortable style=font-size:90%', 'text-align:center'], 'layout': [], 'production_year': 1989, 'related': []}

@@ -1,0 +1,3 @@
+{'name': 'zibar', 'manufacturer': ['ido offroad center ltd'], 'class': ['off-road vehicle'], 'layout': ['f4 layout'], 'production_year': 1989, 'related': []}
+{'name': 'lightyear 0', 'manufacturer': ['atlas technologies b', 'lightyear'], 'class': [], 'layout': ['wheel hub motor', 'four-wheel-drive'], 'production_year': 2022, 'related': []}
+{'name': 'ford nano engine', 'manufacturer': ['ford motor company'], 'class': [], 'layout': [], 'production_year': 2014, 'related': []}

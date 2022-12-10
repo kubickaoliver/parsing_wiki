@@ -1,0 +1,4 @@
+{'name': 'forthing sx6', 'manufacturer': ['forthing', 'dongfeng liuzhou motor'], 'class': ['midsize car', 'midsize', 'crossover sport utility vehicle', 'cuv'], 'layout': ['ff layout'], 'production_year': 2016, 'related': ['jingyi x6']}
+{'name': 'baojun 360', 'manufacturer': ['saic-gm-wuling'], 'class': ['compact mpv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2018, 'related': []}
+{'name': 'renault premium', 'manufacturer': ['renault trucks'], 'class': ['truck'], 'layout': [], 'production_year': 1996, 'related': ['volvo fm']}
+{'name': 'ford territory', 'manufacturer': ['jiangling motors', 'jmc', 'ford motor company', 'ford'], 'class': ['compact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2018, 'related': ['yusheng s330']}

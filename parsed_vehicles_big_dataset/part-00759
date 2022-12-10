@@ -1,0 +1,4 @@
+{'name': 'series l50', 'manufacturer': ['daihatsu'], 'class': ['van'], 'layout': ['front-engine design', 'front-engine', 'rear-wheel drive'], 'production_year': 1963, 'related': ['unbulleted list', 'daihatsu fellow', 'l37', 'daihatsu hijet', 'l35']}
+{'name': 'hyundai aslan', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': ['executive car', 'e-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'transverse front-engine', 'front-wheel-drive'], 'production_year': 2014, 'related': ['ubl']}
+{'name': 'ford fiesta mk1', 'manufacturer': ['ford of europe', 'ford europe'], 'class': ['supermini', 'b-segment'], 'layout': [], 'production_year': 1976, 'related': []}
+{'name': 'polaris slingshot', 'manufacturer': ['polaris inc', 'polaris industries'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': 2014, 'related': []}

@@ -1,0 +1,6 @@
+{'name': 'ikco dena', 'manufacturer': ['ikco'], 'class': ['family car'], 'layout': ['front-engine design', 'front engine', 'front-wheel drive'], 'production_year': 2015, 'related': ['peugeot 405', 'peugeot pars', 'ikco samand', 'samand', 'ikco samand soren', 'soren']}
+{'name': 'first generation', 'manufacturer': [], 'class': ['wikitable'], 'layout': [], 'production_year': 2012, 'related': ['nissan pathfinder', 'r52', 'nissan pathfinder', 'r52']}
+{'name': 'renault clio williams maxi', 'manufacturer': ['renault sport'], 'class': ['rally car'], 'layout': [], 'production_year': 1995, 'related': []}
+{'name': 'evcort', 'manufacturer': ['electric vehicle associates', 'soleq corp'], 'class': ['electric compact'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'mg5', 'manufacturer': ['saic motor'], 'class': ['compact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2012, 'related': ['roewe 350']}
+{'name': 'holden commodore', 'manufacturer': ['holden'], 'class': ['executive car', 'executive'], 'layout': ['front-engine', 'rear-wheel drive layout', 'front-engine', 'rear-wheel drive'], 'production_year': 2013, 'related': ['chevrolet camaro', 'fifth generation', 'chevrolet caprice', 'holden caprice', 'holden caprice']}

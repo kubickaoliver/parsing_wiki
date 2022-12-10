@@ -1,0 +1,3 @@
+{'name': 'bristol 411', 'manufacturer': ['bristol cars'], 'class': ['sports sedan', 'sports saloon'], 'layout': ['fr layout'], 'production_year': 1969, 'related': []}
+{'name': 'ford airstream concept', 'manufacturer': ['ford motor company', 'ford'], 'class': ['crossover', 'automobile', 'crossover utility vehicle'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'jaguar c-xf', 'manufacturer': ['jaguar cars'], 'class': ['full-size', 'luxury car'], 'layout': [], 'production_year': 2007, 'related': ['jaguar xf']}

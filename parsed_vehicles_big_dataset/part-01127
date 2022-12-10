@@ -1,0 +1,5 @@
+{'name': 'dacia 1310', 'manufacturer': ['automobile dacia', 'dacia'], 'class': ['small family car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1979, 'related': ['dacia 1300', 'dacia 1320', 'dacia 1325', 'dacia pick-up']}
+{'name': 'mazda suitcase car', 'manufacturer': ['mazda'], 'class': [], 'layout': [], 'production_year': 1991, 'related': []}
+{'name': 'lane motor vehicle company', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1900, 'related': []}
+{'name': 'farizon xingxiang v', 'manufacturer': ['farizon auto'], 'class': ['light commercial vehicle'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-engine', 'rear-wheel-drive'], 'production_year': 2022, 'related': []}
+{'name': 'jac ruiling', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2009, 'related': ['huanghai plutus', 'ref name=the big read- jac', 'ref']}

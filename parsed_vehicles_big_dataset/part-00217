@@ -1,0 +1,3 @@
+{'name': 'pickup truck', 'manufacturer': ['shp engineering'], 'class': ['pickup truck', 'auto racing', 'race car'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'fiat linea', 'manufacturer': ['fiat'], 'class': ['small family car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2007, 'related': ['fiat grande punto']}
+{'name': 'citroën type c 5hp', 'manufacturer': ['citroën'], 'class': [], 'layout': ['fr layout'], 'production_year': 1922, 'related': []}

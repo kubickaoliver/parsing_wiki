@@ -1,0 +1,6 @@
+{'name': 'volvo lv4', 'manufacturer': ['volvo trucks'], 'class': ['light truck'], 'layout': [], 'production_year': 1928, 'related': ['volvo öv 4']}
+{'name': 'volvo roundnose', 'manufacturer': ['volvo'], 'class': ['medium size truck'], 'layout': [], 'production_year': 1939, 'related': []}
+{'name': 'volvo brage', 'manufacturer': ['volvo'], 'class': ['medium size truck'], 'layout': [], 'production_year': 1954, 'related': []}
+{'name': 'alfa romeo 80a', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'lada xray', 'manufacturer': ['avtovaz'], 'class': ['crossover', 'automobile', 'crossover'], 'layout': ['front-engine', 'front-wheel drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2015, 'related': ['dacia sandero', 'lada largus', 'lada largus cross']}
+{'name': 'honda n-one', 'manufacturer': ['honda'], 'class': ['kei car'], 'layout': ['unbulleted list'], 'production_year': 2012, 'related': ['unbulleted list']}

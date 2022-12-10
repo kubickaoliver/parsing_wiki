@@ -1,0 +1,5 @@
+{'name': 'rover t series', 'manufacturer': ['rover group'], 'class': [], 'layout': [], 'production_year': 1992, 'related': []}
+{'name': 'toyota noah', 'manufacturer': ['toyota'], 'class': ['minivan'], 'layout': ['unbulleted list'], 'production_year': 2001, 'related': []}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': ['fr layout'], 'production_year': 1969, 'related': ['unbulleted list', 'chevrolet delray', 'sedan delivery', 'chevrolet biscayne', 'chevrolet bel air', 'chevrolet impala', 'chevrolet yeoman', 'chevrolet nomad']}
+{'name': 'hyundai porter', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': [], 'layout': ['fr layout', 'f4 layout'], 'production_year': 1977, 'related': ['kia bongo']}
+{'name': 'hyundai galloper', 'manufacturer': ['hyundai motor company', 'hyundai', 'mitsubishi motors'], 'class': ['full-size suv'], 'layout': ['front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive'], 'production_year': 1991, 'related': []}

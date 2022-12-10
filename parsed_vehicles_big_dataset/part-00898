@@ -1,0 +1,6 @@
+{'name': 'trumpchi ga5', 'manufacturer': ['gac group'], 'class': ['compact car', 'd-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2010, 'related': ['alfa romeo 166']}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2014, 'related': []}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2015, 'related': ['trumpchi ga3s']}
+{'name': 'trumpchi gs5', 'manufacturer': [], 'class': ['wikitable'], 'layout': [], 'production_year': 2011, 'related': ['alfa romeo 166', 'trumpchi ga5']}
+{'name': 'bestune b70', 'manufacturer': ['faw group'], 'class': ['mid-size car', 'large family car', 'd-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front engine', 'front-wheel drive'], 'production_year': 2006, 'related': []}
+{'name': 'apollo intensa emozione', 'manufacturer': ['unbulleted list'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 2019, 'related': ['ferrari laferrari']}

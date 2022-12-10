@@ -1,0 +1,7 @@
+{'name': 'rambler six and rambler v8', 'manufacturer': ['american motors corporation', 'amc'], 'class': [], 'layout': ['front-engine', 'rear-wheel drive layout', 'fr layout'], 'production_year': 1956, 'related': []}
+{'name': 'lotus elise gt1', 'manufacturer': ['lotus cars', 'lotus'], 'class': ['group gt1', 'gt1'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': '', 'related': ['lotus esprit gt1', 'lotus esprit', '1994', 'and derivatives', 'lotus esprit s4', 'lotus elise', 'series 1', 'lotus elise s1', 'lotus exige', 'series 1', 'lotus exige s1']}
+{'name': 'mitsubishi savrin', 'manufacturer': ['mitsubishi motors'], 'class': ['minivan'], 'layout': [], 'production_year': 2001, 'related': ['mitsubishi grandis']}
+{'name': 'buckingham 8', 'manufacturer': ['buckingham engineering company'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1913, 'related': []}
+{'name': 'buffum', 'manufacturer': ['buffum & co'], 'class': [], 'layout': [], 'production_year': 1901, 'related': []}
+{'name': 'chevrolet 210', 'manufacturer': ['chevrolet', 'general motors'], 'class': [], 'layout': ['fr layout'], 'production_year': 1953, 'related': ['chevrolet 150']}
+{'name': 'dennis dagger', 'manufacturer': ['dennis specialist vehicles'], 'class': ['large goods vehicle', 'vehicle category'], 'layout': [], 'production_year': 2002, 'related': ['dennis sabre']}

@@ -1,0 +1,5 @@
+{'name': 'mazzanti evantra', 'manufacturer': ['mazzanti automobili'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel drive layout', 'longitudal rear mid-engine', 'rear-wheel drive'], 'production_year': 2013, 'related': []}
+{'name': 'karosa lc 957', 'manufacturer': ['karosa'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'ford fiesta mk3', 'manufacturer': ['ford europe'], 'class': ['supermini', 'b-segment'], 'layout': [], 'production_year': 1989, 'related': ['ford ka', 'first generation', '1996–2008', 'ford ka', 'ford courier', 'europe', '1991–2002', 'ford courier']}
+{'name': 'ferrari 488', 'manufacturer': ['ferrari'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 2015, 'related': ['ferrari sf90 stradale']}
+{'name': 'ford model n', 'manufacturer': ['ford motor company', 'ford'], 'class': [], 'layout': [], 'production_year': 1906, 'related': []}

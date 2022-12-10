@@ -1,0 +1,4 @@
+{'name': 'leapmotor t03', 'manufacturer': ['leapmotor'], 'class': ['city car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front motor', 'front-wheel drive'], 'production_year': 2020, 'related': []}
+{'name': 'ford equator', 'manufacturer': ['ford motor company', 'ford'], 'class': ['mid-size crossover suv'], 'layout': ['front-engine', 'front-wheel-drive', 'ref', 'https:', 'www', 'ford', 'com', 'suvs', 'equator', 'ref'], 'production_year': 2021, 'related': []}
+{'name': 'orion v', 'manufacturer': ['orion bus industries', 'ontario', 'orion bus industries'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 1989, 'related': []}
+{'name': 'orion vi', 'manufacturer': ['orion bus industries'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'offset'], 'production_year': 1995, 'related': []}

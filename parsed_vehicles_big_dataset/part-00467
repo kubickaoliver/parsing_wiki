@@ -1,0 +1,3 @@
+{'name': 'elfin mr5', 'manufacturer': ['elfin cars'], 'class': ['formula 5000', 'ref name=elfin sports cars pdf'], 'layout': [], 'production_year': 1971, 'related': []}
+{'name': 'hce', 'manufacturer': ['hce cars', 'easycar company'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1912, 'related': []}
+{'name': 'honda accord', 'manufacturer': ['honda'], 'class': ['mid-size car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2002, 'related': ['acura tl', 'honda odyssey', 'north america', 'honda odyssey', 'honda pilot', 'acura cl']}

@@ -1,0 +1,4 @@
+{'name': 'rolls-royce 25', 'manufacturer': ['rolls-royce ltd'], 'class': [], 'layout': [], 'production_year': 1936, 'related': []}
+{'name': 'rolls-royce 15 hp', 'manufacturer': ['royce limited'], 'class': [], 'layout': [], 'production_year': 1905, 'related': []}
+{'name': 'vauxhall wyvern', 'manufacturer': ['vauxhall motors', 'vauxhall', 'general motors'], 'class': [], 'layout': [], 'production_year': 1948, 'related': ['vauxhall velox', 'vauxhall cresta']}
+{'name': 'h-m-vehicles free-way', 'manufacturer': ['h-m-vehicles inc'], 'class': ['microcar'], 'layout': ['rear mid-engine', 'rear-wheel drive layout', 'rmr layout'], 'production_year': 1979, 'related': ['d&a minikin', 'ref name=3wheelershmv']}

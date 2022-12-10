@@ -1,0 +1,2 @@
+{'name': 'blue bird tc', 'manufacturer': ['blue bird corporation'], 'class': ['type d', 'transit-style'], 'layout': ['front-engine 4x2', '1988-2003', 'rear-engine 4x2', '1991-1998'], 'production_year': 1987, 'related': ['blue bird cs', 'blue bird tc', '1000']}
+{'name': 'tvr tuscan v8', 'manufacturer': [], 'class': [], 'layout': ['fr layout'], 'production_year': 1967, 'related': []}

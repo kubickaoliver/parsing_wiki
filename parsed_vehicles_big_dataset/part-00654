@@ -1,0 +1,5 @@
+{'name': 'mercedes-benz  15', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'mercedes-benz  24', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'suzuki k12m', 'manufacturer': ['suzuki'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'mercedes-benz typ 10', 'manufacturer': ['daimler-benz', 'daimler-benz ag'], 'class': [], 'layout': ['fr layout'], 'production_year': 1929, 'related': []}
+{'name': 'land rover series', 'manufacturer': ['land rover'], 'class': ['off-road vehicle'], 'layout': ['front engine', 'rear-wheel-drive layout', 'fr layout', 'all-wheel drive'], 'production_year': 1948, 'related': []}

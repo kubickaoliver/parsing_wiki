@@ -1,0 +1,3 @@
+{'name': 'opel insignia', 'manufacturer': ['opel', 'efn', 'name=manufacturer', 'ubl', 'general motors', '2008–2017', 'psa group', '2017–2021', 'stellantis', '2021–present'], 'class': ['large family car', 'd-segment'], 'layout': ['front-engine', 'front-wheel-drive', 'front-engine', 'all-wheel-drive', 'all-wheel-drive'], 'production_year': 2008, 'related': ['chevrolet malibu']}
+{'name': 'hampton 12', 'manufacturer': ['hampton engineering company'], 'class': [], 'layout': [], 'production_year': 1912, 'related': []}
+{'name': 'peugeot rc', 'manufacturer': ['peugeot'], 'class': ['sports car'], 'layout': ['rmr layout', 'mid-engined', 'rear-wheel drive', 'm4 layout', 'mid-engined', 'four-wheel drive'], 'production_year': 2002, 'related': []}

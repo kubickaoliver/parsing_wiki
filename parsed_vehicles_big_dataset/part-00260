@@ -1,0 +1,5 @@
+{'name': 'ford mustang i', 'manufacturer': ['ford motor company', 'ford'], 'class': ['concept car'], 'layout': ['mid-engine layout'], 'production_year': '', 'related': []}
+{'name': 'dodge viper', 'manufacturer': ['dodge', 'efn', 'name=manufacturer'], 'class': ['sports car', 's-segment'], 'layout': ['longitudinal engine', 'longitudinally-mounted', 'front mid-engine', 'rear-wheel drive layout', 'front mid-engine', 'rear-wheel drive'], 'production_year': 1991, 'related': []}
+{'name': 'chevrolet trax concept', 'manufacturer': ['gm korea'], 'class': ['subcompact car', 'subcompact'], 'layout': ['front-engine design', 'front engine', 'front-wheel drive', 'four-wheel drive'], 'production_year': '', 'related': ['chevrolet beat', 'chevrolet groove', 'daewoo kalos', 'daewoo matiz']}
+{'name': 'alfa romeo disco volante', 'manufacturer': ['alfa romeo'], 'class': ['experimental', 'racing car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1952, 'related': []}
+{'name': 'vale special', 'manufacturer': ['vale engineering company'], 'class': [], 'layout': [], 'production_year': 1932, 'related': []}

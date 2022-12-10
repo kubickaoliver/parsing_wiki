@@ -1,0 +1,14 @@
+{'name': 'donkervoort s8', 'manufacturer': ['donkervoort'], 'class': ['sports car', 's-segment'], 'layout': [], 'production_year': 1984, 'related': []}
+{'name': 'donkervoort d10', 'manufacturer': ['donkervoort'], 'class': ['sports car', 's-segment'], 'layout': [], 'production_year': 1988, 'related': []}
+{'name': 'ford 406', 'manufacturer': ['ford motor company', 'ford'], 'class': [], 'layout': [], 'production_year': 1966, 'related': []}
+{'name': 'oldsmobile incas', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'hongqi ls7', 'manufacturer': ['hongqi', 'marque', 'hongqi'], 'class': ['full-size suv', 'full-size', 'luxury vehicle', 'luxury', 'suv'], 'layout': ['front-engine', 'four-wheel-drive'], 'production_year': 2022, 'related': []}
+{'name': 'iveco vision', 'manufacturer': ['iveco'], 'class': ['leisure activity vehicle', 'm-segment'], 'layout': [], 'production_year': 2014, 'related': []}
+{'name': 'land rover range rover', 'manufacturer': ['jaguar land rover'], 'class': ['full-size', 'luxury suv', 'luxury 4x4', '!-- british english generally uses the 4x4 term instead of suv --'], 'layout': ['front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive'], 'production_year': 2022, 'related': ['range rover sport', 'l461', 'range rover sport', 'l461']}
+{'name': 'globex ikarus 350', 'manufacturer': ['ikarus', 'hungarian company', 'ikarus', 'flag', 'hungary'], 'class': ['long distance', 'coach', 'bus', 'coach'], 'layout': [], 'production_year': '', 'related': ['ikarus 350']}
+{'name': 'volkswagen', 'manufacturer': ['volkswagen group'], 'class': [], 'layout': [], 'production_year': 2001, 'related': []}
+{'name': 'volkswagen', 'manufacturer': ['volkswagen group'], 'class': [], 'layout': [], 'production_year': 1988, 'related': []}
+{'name': 'hongqi ls5', 'manufacturer': ['hongqi', 'marque', 'hongqi'], 'class': ['sport utility vehicle', 'full-size suv', 'full-size', 'luxury vehicle', 'luxury suv', 'crossover', 'luxury suv'], 'layout': ['front-engine', 'four-wheel drive layout', 'front-engine', 'four-wheel drive'], 'production_year': 2015, 'related': []}
+{'name': 'haval cool dog', 'manufacturer': ['great wall motors'], 'class': ['compact suv', 'j-segment'], 'layout': [], 'production_year': 2022, 'related': ['haval big dog']}
+{'name': 'ora lightning cat', 'manufacturer': ['great wall motors'], 'class': ['compact car', 'c-segment'], 'layout': ['front-engine', 'four-wheel drive layout', 'front-engine', 'four-wheel drive'], 'production_year': 2022, 'related': []}
+{'name': 'ora punk cat', 'manufacturer': ['great wall motors'], 'class': ['compact car', 'c-segment'], 'layout': ['ubl'], 'production_year': 2022, 'related': []}

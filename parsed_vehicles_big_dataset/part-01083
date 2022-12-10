@@ -1,0 +1,3 @@
+{'name': 'mg one', 'manufacturer': ['saic motor'], 'class': ['compact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2021, 'related': []}
+{'name': 'dennis rapier', 'manufacturer': ['dennis specialist vehicles'], 'class': ['large goods vehicle', 'vehicle category'], 'layout': [], 'production_year': 1991, 'related': ['dennis sabre']}
+{'name': 'dennis df series', 'manufacturer': ['dennis specialist vehicles', 'hestair dennis'], 'class': [], 'layout': [], 'production_year': 1979, 'related': ['dennis rs', 'ss series']}

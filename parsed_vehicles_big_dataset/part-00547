@@ -1,0 +1,2 @@
+{'name': 'nissan junior', 'manufacturer': ['nissan'], 'class': [], 'layout': ['fr layout'], 'production_year': '', 'related': ['nissan caball']}
+{'name': 'mini paceman', 'manufacturer': ['bmw', 'mini', 'marque', 'mini'], 'class': ['subcompact luxury crossover suv'], 'layout': ['front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'all-wheel-drive'], 'production_year': 2012, 'related': ['mini countryman']}

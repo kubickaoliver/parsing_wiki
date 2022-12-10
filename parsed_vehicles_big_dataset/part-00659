@@ -1,0 +1,2 @@
+{'name': 'chevrolet onix', 'manufacturer': ['general motors'], 'class': ['subcompact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2013, 'related': []}
+{'name': 'hyundai hb20', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': ['subcompact car', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2012, 'related': ['kia rio', 'hyundai accent']}

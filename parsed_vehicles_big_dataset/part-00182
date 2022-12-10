@@ -1,0 +1,7 @@
+{'name': 'fpv f6', 'manufacturer': ['ford performance vehicles', 'fpv'], 'class': ['full-size car'], 'layout': [], 'production_year': 2004, 'related': []}
+{'name': 'westfield xi', 'manufacturer': ['westfield sportscars'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1982, 'related': []}
+{'name': 'renault talisman', 'manufacturer': ['renault'], 'class': ['mid-size car', 'large family car', 'd-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2015, 'related': ['renault espace']}
+{'name': 'mastretta mxa', 'manufacturer': ['mastretta'], 'class': ['mr layout', 'kit-car', 'coupé'], 'layout': [], 'production_year': 1994, 'related': ['volkswagen beetle']}
+{'name': 'x1 prototype', 'manufacturer': ['wrightspeed'], 'class': ['roadster'], 'layout': ['rmr layout', 'rear mid-motor', 'rear-wheel drive'], 'production_year': '', 'related': ['ariel atom', 'tzero']}
+{'name': 'mg l-type magna', 'manufacturer': ['car'], 'class': ['sports car'], 'layout': [], 'production_year': 1933, 'related': []}
+{'name': 'bmw 303', 'manufacturer': ['bmw'], 'class': ['compact car', 'small family car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive layout', 'fmr layout'], 'production_year': 1933, 'related': ['bmw 309', 'bmw 315', 'bmw 319', 'bmw 328']}

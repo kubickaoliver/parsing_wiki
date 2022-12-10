@@ -1,0 +1,4 @@
+{'name': 'bus force one', 'manufacturer': ['jdkfjd'], 'class': [], 'layout': [], 'production_year': 2011, 'related': []}
+{'name': 'alvis 10', 'manufacturer': ['alvis car and engineering company ltd', 'alvis'], 'class': [], 'layout': [], 'production_year': 1920, 'related': []}
+{'name': 'bmw 02 series', 'manufacturer': [], 'class': ['compact executive car', 'd-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': 1966, 'related': []}
+{'name': 'daihatsu ev1', 'manufacturer': ['daihatsu'], 'class': ['concept car'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-motor', 'rear-wheel-drive'], 'production_year': 1973, 'related': []}

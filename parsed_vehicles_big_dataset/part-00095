@@ -1,0 +1,14 @@
+{'name': 'opel olympia', 'manufacturer': ['opel', 'general motors'], 'class': ['small family car', 'c-segment'], 'layout': [], 'production_year': 1935, 'related': ['opel kadett b']}
+{'name': 'maserati 3200 gt', 'manufacturer': ['maserati'], 'class': ['grand tourer', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1998, 'related': []}
+{'name': 'volvo b7l', 'manufacturer': ['volvo buses', 'volvo'], 'class': ['bus', 'chassis'], 'layout': [], 'production_year': 1998, 'related': []}
+{'name': 'infiniti fx', 'manufacturer': ['infiniti', 'nissan'], 'class': ['executive car', 'mid-size luxury', 'crossover suv'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive'], 'production_year': '', 'related': ['infiniti g', 'infiniti g35', 'g37', 'infiniti m', 'infiniti ex', 'nissan 350z', 'nissan skyline']}
+{'name': 'mercedes-benz m115 engine', 'manufacturer': ['mercedes-benz'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'mercedes-benz m102 engine', 'manufacturer': ['mercedes-benz'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'mercedes-benz m110 engine', 'manufacturer': ['mercedes-benz'], 'class': [], 'layout': [], 'production_year': 1972, 'related': []}
+{'name': 'mercedes-benz m123', 'manufacturer': ['mercedes-benz'], 'class': [], 'layout': [], 'production_year': 1976, 'related': []}
+{'name': 'mercedes-benz om615', 'manufacturer': ['daimler-benz'], 'class': [], 'layout': [], 'production_year': 1968, 'related': []}
+{'name': 'mercedes-benz om616', 'manufacturer': ['daimler-benz', 'force motors'], 'class': [], 'layout': [], 'production_year': 1973, 'related': []}
+{'name': 'mercedes-benz om617 engine', 'manufacturer': ['daimler-benz'], 'class': [], 'layout': [], 'production_year': 1974, 'related': []}
+{'name': 'first generation', 'manufacturer': ['kia'], 'class': ['plainlist'], 'layout': ['plainlist'], 'production_year': 2002, 'related': ['plainlist']}
+{'name': 'first generation', 'manufacturer': [], 'class': ['wikitable'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'first generation', 'manufacturer': ['mitsubishi motors', 'mitsubishi motors corporation', 'hyundai motor company'], 'class': ['wikitable sortable collapsible'], 'layout': ['longitudinal engine', 'longitudinal', 'front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1999, 'related': ['ubl', 'mitsubishi proudia', 'mitsubishi dignity']}

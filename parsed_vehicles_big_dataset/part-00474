@@ -1,0 +1,3 @@
+{'name': 'toyota prius plug-in hybrid', 'manufacturer': ['toyota'], 'class': ['compact car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2012, 'related': ['unbulleted list']}
+{'name': 'dallison', 'manufacturer': ['dallison gearing and motor co ltd'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1913, 'related': []}
+{'name': 'troller pantanal', 'manufacturer': ['troller veículos especiais s', 'troller'], 'class': ['pickup truck'], 'layout': [], 'production_year': 2006, 'related': ['troller t4']}

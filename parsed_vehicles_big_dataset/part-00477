@@ -1,0 +1,6 @@
+{'name': 'tata aria', 'manufacturer': ['tata motors'], 'class': ['crossover', 'automobile', 'full-size crossover suv'], 'layout': [], 'production_year': 2010, 'related': ['tata xover']}
+{'name': 'tata magic', 'manufacturer': ['tata motors'], 'class': ['mpv'], 'layout': [], 'production_year': 2007, 'related': []}
+{'name': 'tata magic iris', 'manufacturer': ['tata motors'], 'class': ['microvan', 'minivan'], 'layout': ['rr layout'], 'production_year': 2010, 'related': []}
+{'name': 'toyota etios', 'manufacturer': ['toyota'], 'class': ['subcompact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': '', 'related': []}
+{'name': 'bmw p60b40 engine', 'manufacturer': ['bmw', 'bmw m gmbh'], 'class': ['v-8'], 'layout': [], 'production_year': 2001, 'related': []}
+{'name': 'bmw p60b40 engine', 'manufacturer': ['bmw m gmbh'], 'class': [], 'layout': [], 'production_year': 2001, 'related': []}

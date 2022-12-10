@@ -1,0 +1,6 @@
+{'name': 'file:perkins-logo', 'manufacturer': ['perkins engines'], 'class': [], 'layout': [], 'production_year': 1967, 'related': []}
+{'name': '5g-tronic', 'manufacturer': ['mercedes-benz group ag', 'chrysler group llc'], 'class': ['5-speed', 'longitudinal engine', 'longitudinal', 'automatic transmission'], 'layout': [], 'production_year': 1996, 'related': []}
+{'name': 'toyota celica gt-four', 'manufacturer': ['toyota'], 'class': ['ubl'], 'layout': ['front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive', 'all-trac', 'all-trac gt-four'], 'production_year': 1986, 'related': ['toyota celica']}
+{'name': 'daihatsu mira gino', 'manufacturer': ['daihatsu'], 'class': ['unbulleted list'], 'layout': ['unbulleted list'], 'production_year': 1999, 'related': ['daihatsu mira', 'l700', 'daihatsu mira', 'l700']}
+{'name': 'lotus 22', 'manufacturer': ['team lotus'], 'class': ['formula junior'], 'layout': [], 'production_year': 1962, 'related': []}
+{'name': 'daimler limousine dr450', 'manufacturer': ['daimler company', 'the daimler company limited'], 'class': ['full-size', 'luxury car'], 'layout': ['front-engine design', 'front-engine', 'rear-wheel-drive'], 'production_year': 1961, 'related': ['daimler majestic major', 'dq450', 'ref name=art']}

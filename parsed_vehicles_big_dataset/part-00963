@@ -1,0 +1,14 @@
+{'name': 'huansu h6', 'manufacturer': ['huansu'], 'class': ['multi purpose vehicle', 'mpv'], 'layout': ['front mid-engine', 'rear-wheel drive layout', 'mr layout'], 'production_year': 2016, 'related': []}
+{'name': 'goliath gv800', 'manufacturer': ['goliath', 'company', 'goliath'], 'class': [], 'layout': ['mr layout'], 'production_year': '', 'related': []}
+{'name': 'jinbei 750', 'manufacturer': ['jinbei', 'marque'], 'class': ['minivan', 'mpv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2015, 'related': []}
+{'name': 'higer paradise', 'manufacturer': ['higer bus'], 'class': [], 'layout': [], 'production_year': 2014, 'related': ['mercedes-benz sprinter', 'volkswagen crafter', 'lt3']}
+{'name': 'gutbrod superior', 'manufacturer': ['gutbrod'], 'class': ['sub compact'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'duple laser', 'manufacturer': ['duple coachbuilders', 'duple'], 'class': [], 'layout': [], 'production_year': 1983, 'related': ['duple calypso', 'duple caribbean']}
+{'name': 'chery q21', 'manufacturer': ['karry', 'chery'], 'class': ['compact mpv'], 'layout': ['front mid-engine', 'rear-wheel-drive layout'], 'production_year': 2009, 'related': []}
+{'name': 'gutbrod atlas 800', 'manufacturer': ['calw', 'division of', 'gutbrod', 'motorenbau g'], 'class': [], 'layout': ['rr layout'], 'production_year': 1950, 'related': []}
+{'name': 'dfsk k07', 'manufacturer': ['dfsk motor'], 'class': ['microvan'], 'layout': [], 'production_year': 2005, 'related': []}
+{'name': 'goliath gd750', 'manufacturer': ['hansa-lloyd', 'and', 'goliath', 'company', 'goliath-werke', 'borgward & tecklenburg'], 'class': [], 'layout': ['mr layout'], 'production_year': '', 'related': []}
+{'name': 'ferrari f8', 'manufacturer': ['ferrari'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 2019, 'related': ['ferrari sf90 stradale']}
+{'name': 'oshan cos1°', 'manufacturer': ['changan automobile'], 'class': ['executive car', 'mid-size luxury', 'crossover suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2018, 'related': []}
+{'name': 'ruixing s50', 'manufacturer': ['changan automobile'], 'class': ['multi-purpose vehicle', 'mpv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2016, 'related': []}
+{'name': 'goliath goli', 'manufacturer': ['hansa-lloyd', 'and', 'goliath', 'company', 'goliath-werke'], 'class': ['light truck'], 'layout': ['mr layout'], 'production_year': '', 'related': []}

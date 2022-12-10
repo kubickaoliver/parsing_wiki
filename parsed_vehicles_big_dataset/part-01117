@@ -1,0 +1,2 @@
+{'name': 'bmw 7 series', 'manufacturer': ['bmw'], 'class': ['full-size', 'luxury car', 'f-segment'], 'layout': ['unbulleted list'], 'production_year': 2022, 'related': []}
+{'name': 'zagato iso rivolta gtz', 'manufacturer': ['iso automoveicoli s', 'zagato'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive layout', 'front-mid engine', 'rear-wheel-drive'], 'production_year': 2021, 'related': []}

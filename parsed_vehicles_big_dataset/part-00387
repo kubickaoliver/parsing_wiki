@@ -1,0 +1,4 @@
+{'name': 'renault mt', 'manufacturer': ['renault'], 'class': ['sport compact', 's-segment'], 'layout': ['fr layout'], 'production_year': 1923, 'related': ['renault kj']}
+{'name': 'renault gs', 'manufacturer': ['renault'], 'class': ['mid-size', 'large family car', 'd-segment'], 'layout': ['fr layout'], 'production_year': 1920, 'related': ['renault ig']}
+{'name': 'toyota mark x zio', 'manufacturer': ['toyota'], 'class': ['mid-size car', 'mid-size', 'minivan', 'mpv'], 'layout': ['unbulleted list'], 'production_year': 2007, 'related': ['unbulleted list']}
+{'name': 'renault vivasix', 'manufacturer': ['renault'], 'class': ['full-size car'], 'layout': ['fr layout'], 'production_year': 1926, 'related': []}

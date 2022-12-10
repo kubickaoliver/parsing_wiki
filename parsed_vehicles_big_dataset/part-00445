@@ -1,0 +1,4 @@
+{'name': 'honda partner', 'manufacturer': ['honda'], 'class': ['light commercial vehicle'], 'layout': ['unbulleted list'], 'production_year': 1996, 'related': []}
+{'name': 'mahindra armada', 'manufacturer': ['mahindra and mahindra limited'], 'class': ['sport utility vehicle'], 'layout': [], 'production_year': 1993, 'related': []}
+{'name': 'jaguar xj', 'manufacturer': ['jaguar cars'], 'class': ['full-size', 'luxury car', 'f-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2002, 'related': ['jaguar xk', 'x150']}
+{'name': 'space exploration vehicle', 'manufacturer': ['nasa'], 'class': ['rover', 'space exploration', 'rover'], 'layout': [], 'production_year': '', 'related': []}

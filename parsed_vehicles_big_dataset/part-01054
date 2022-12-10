@@ -1,0 +1,3 @@
+{'name': 'mini john cooper works buggy', 'manufacturer': ['bmw'], 'class': ['rally raid'], 'layout': ['rear wheel drive'], 'production_year': 2018, 'related': []}
+{'name': 'toyota hilux dakar', 'manufacturer': ['toyota'], 'class': ['rally raid'], 'layout': ['four-wheel drive'], 'production_year': 2012, 'related': []}
+{'name': 'zagato maserati mostro', 'manufacturer': ['zagato'], 'class': [], 'layout': [], 'production_year': '', 'related': []}

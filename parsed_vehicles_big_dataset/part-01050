@@ -1,0 +1,5 @@
+{'name': 'oldsmobile light eight', 'manufacturer': ['oldsmobile', 'general motors'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'oldsmobile limited', 'manufacturer': ['general motors'], 'class': [], 'layout': [], 'production_year': 1910, 'related': []}
+{'name': 'oldsmobile model z', 'manufacturer': ['general motors'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'oldsmobile model x', 'manufacturer': ['oldsmobile'], 'class': [], 'layout': [], 'production_year': 1908, 'related': []}
+{'name': 'chinggis khaan bulgan', 'manufacturer': ['chinggis khaan motors'], 'class': ['sports car'], 'layout': ['rear mid-engine', 'four-wheel-drive layout'], 'production_year': 2021, 'related': ['lotus evora']}

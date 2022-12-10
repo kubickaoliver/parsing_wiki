@@ -1,0 +1,10 @@
+{'name': 'baojun rs-5', 'manufacturer': ['saic-gm-wuling'], 'class': ['compact crossover suv'], 'layout': [], 'production_year': 2018, 'related': ['unbulleted list']}
+{'name': 'lagonda 16', 'manufacturer': ['lagonda'], 'class': [], 'layout': [], 'production_year': 1926, 'related': []}
+{'name': 'foton mp-x', 'manufacturer': [], 'class': [], 'layout': ['front-engine design', 'front engine', 'rear-wheel drive'], 'production_year': 2011, 'related': []}
+{'name': 'foton saga', 'manufacturer': [], 'class': ['compact suv', 'pickup truck'], 'layout': [], 'production_year': 2003, 'related': []}
+{'name': 'winged express', 'manufacturer': [], 'class': ['altered', 'drag racing', 'altered'], 'layout': [], 'production_year': '', 'related': ['none']}
+{'name': 'jinbei s30', 'manufacturer': ['jinbei', 'marque'], 'class': ['subcompact', 'crossover suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive', 'four-wheel drive'], 'production_year': 2012, 'related': []}
+{'name': 'denza 500', 'manufacturer': [], 'class': [], 'layout': ['dual e-motor 4wd'], 'production_year': 2013, 'related': []}
+{'name': 'mg hs', 'manufacturer': ['saic motor'], 'class': ['compact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'all-wheel-drive'], 'production_year': 2018, 'related': ['roewe rx5']}
+{'name': 'landwind xiaoyao', 'manufacturer': ['landwind'], 'class': ['crossover utility vehicle', 'compact crossover'], 'layout': [], 'production_year': 2017, 'related': []}
+{'name': 'wuling hongguang s1', 'manufacturer': ['saic-gm-wuling'], 'class': ['unbulleted list'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': '', 'related': ['unbulleted list', 'wuling hongguang', 'first generation', '2010', 'wuling hongguang', 'first generation', 'wuling hongguang s3']}

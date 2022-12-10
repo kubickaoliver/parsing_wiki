@@ -1,0 +1,10 @@
+{'name': 'file:mitsubishi motors svg logo 2', 'manufacturer': ['mitsubishi motors'], 'class': [], 'layout': [], 'production_year': 1971, 'related': []}
+{'name': 'daimler majestic df316', 'manufacturer': ['daimler company', 'the daimler company limited'], 'class': ['luxury'], 'layout': [], 'production_year': 1958, 'related': ['unbulleted list', 'daimler majestic major', 'daimler majestic major dq450', 'df316 with bigger v8 engine', 'daimler dr450', 'daimler limousine dr450', 'lengthened dq450']}
+{'name': 'callaway c16', 'manufacturer': ['callaway cars'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 2007, 'related': ['chevrolet corvette c6']}
+{'name': 'ford model a', 'manufacturer': ['ford motor company', 'ford'], 'class': [], 'layout': [], 'production_year': 1903, 'related': []}
+{'name': 'ford model a', 'manufacturer': ['ford motor company'], 'class': ['full-size ford'], 'layout': ['fr layout'], 'production_year': 1927, 'related': ['ford model af', 'ford model aa']}
+{'name': 'ford model 48', 'manufacturer': ['ford motor company', 'ford'], 'class': ['full-size ford'], 'layout': ['fr layout'], 'production_year': 1935, 'related': []}
+{'name': 'volkswagen group d platform', 'manufacturer': ['volkswagen group'], 'class': [], 'layout': ['unbulleted list'], 'production_year': 1988, 'related': []}
+{'name': 'daimler conquest', 'manufacturer': ['daimler company', 'the daimler company limited'], 'class': ['executive car', 'e-segment'], 'layout': [], 'production_year': 1953, 'related': []}
+{'name': 'ford', 'manufacturer': ['ford motor company', 'ford'], 'class': ['full-size ford'], 'layout': ['fr layout'], 'production_year': 1937, 'related': []}
+{'name': 'opel admiral', 'manufacturer': ['opel', 'general motors'], 'class': ['executive car', 'e-segment'], 'layout': ['fr layout'], 'production_year': 1937, 'related': []}

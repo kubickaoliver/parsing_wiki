@@ -1,0 +1,2 @@
+{'name': 'toyota yaris cross', 'manufacturer': ['toyota'], 'class': ['subcompact crossover suv', 'b-segment'], 'layout': ['unbulleted list'], 'production_year': 2020, 'related': ['unbulleted list']}
+{'name': 'citroën type c 5hp', 'manufacturer': ['citroën'], 'class': [], 'layout': ['fr layout'], 'production_year': 1922, 'related': []}

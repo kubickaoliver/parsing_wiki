@@ -1,0 +1,5 @@
+{'name': 'era mini turbo', 'manufacturer': ['engineering research & application ltd'], 'class': ['city car'], 'layout': ['front-engine design', 'front-engine', 'front wheel drive', 'fwd'], 'production_year': 1989, 'related': []}
+{'name': 'proton putra', 'manufacturer': ['proton holdings', 'proton'], 'class': ['sport compact'], 'layout': [], 'production_year': 1996, 'related': []}
+{'name': 'maserati a6 1500', 'manufacturer': ['maserati'], 'class': [], 'layout': [], 'production_year': 1947, 'related': []}
+{'name': 'proton satria r3', 'manufacturer': ['proton holdings', 'proton'], 'class': ['hot hatch'], 'layout': [], 'production_year': 2004, 'related': ['mitsubishi mirage']}
+{'name': 'holden ute', 'manufacturer': ['holden'], 'class': [], 'layout': [], 'production_year': 2000, 'related': ['holden commodore', 'holden crewman', 'holden one tonner', 'hsv maloo']}

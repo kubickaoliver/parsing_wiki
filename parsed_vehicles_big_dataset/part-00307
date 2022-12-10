@@ -1,0 +1,5 @@
+{'name': 'mahindra scorpio getaway', 'manufacturer': ['mahindra & mahindra limited'], 'class': ['mid-size', 'pickup truck'], 'layout': ['unbulleted list'], 'production_year': 2006, 'related': ['unbulleted list']}
+{'name': 'mercedes-benz', 'manufacturer': ['daimler ag'], 'class': ['4-speed', 'longitudinal engine', 'longitudinal', 'automatic transmission'], 'layout': [], 'production_year': 1979, 'related': []}
+{'name': 'iveco daily', 'manufacturer': ['iveco'], 'class': ['light commercial vehicle', 'van', 'm-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel drive', 'front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel drive'], 'production_year': 1978, 'related': []}
+{'name': 'honda cr-z', 'manufacturer': ['honda'], 'class': ['sport compact'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2010, 'related': ['honda insight', 'honda fit hybrid']}
+{'name': 'iveco stralis', 'manufacturer': ['iveco'], 'class': ['truck'], 'layout': [], 'production_year': 2002, 'related': []}

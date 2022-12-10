@@ -1,0 +1,5 @@
+{'name': 'buick six', 'manufacturer': ['buick', 'general motors'], 'class': ['full-size car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive', 'ref name=kimes1996'], 'production_year': '', 'related': ['mclaughlin motor car company', 'mclaughlin-buick']}
+{'name': 'eleventh generation', 'manufacturer': [], 'class': ['wikitable'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2021, 'related': ['unbulleted list']}
+{'name': 'honda small hybrid sports concept', 'manufacturer': ['honda'], 'class': ['concept car'], 'layout': [], 'production_year': 2007, 'related': []}
+{'name': 'kama ruijie', 'manufacturer': [], 'class': ['van', 'pickup truck', 'pickup'], 'layout': ['front-engine', 'rear-wheel drive layout', 'longitudinal front-engine', 'rear-wheel drive'], 'production_year': 2019, 'related': []}
+{'name': 'texmaco perkasa', 'manufacturer': ['pt wahana perkasa auto jaya'], 'class': ['truck', 'and', 'bus'], 'layout': [], 'production_year': 1999, 'related': []}

@@ -1,0 +1,3 @@
+{'name': 'proton saga', 'manufacturer': ['proton holdings', 'proton'], 'class': ['subcompact car', 'a-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel drive'], 'production_year': 2016, 'related': []}
+{'name': '1ww', 'manufacturer': ['bmw & toyota'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'volvo xc40', 'manufacturer': ['volvo cars'], 'class': ['subcompact luxury crossover suv'], 'layout': ['ubl'], 'production_year': '', 'related': ['ubl']}

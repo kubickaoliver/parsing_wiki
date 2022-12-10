@@ -1,0 +1,5 @@
+{'name': 'toyota corolla cross', 'manufacturer': ['toyota'], 'class': ['compact crossover suv', 'c-segment'], 'layout': ['unbulleted list'], 'production_year': 2020, 'related': ['unbulleted list']}
+{'name': 'barkas v 901', 'manufacturer': ['barkas', 'van manufacturer', 'veb barkas-werke', 'hainichen', 'formerly known as ifa kraftfahrzeugwerk framo veb', 'hainichen', 'sachsen'], 'class': ['light commercial vehicle', 'm-segment'], 'layout': ['fr layout'], 'production_year': 1954, 'related': []}
+{'name': 'ferrari purosangue', 'manufacturer': ['ferrari'], 'class': ['executive car', 'mid-size luxury', 'crossover suv'], 'layout': ['mid-engine design', 'fm4', 'front mid-engine', 'all-wheel drive'], 'production_year': 2023, 'related': ['ferrari roma']}
+{'name': 'ford bronco sport', 'manufacturer': ['ford motor company', 'ford'], 'class': ['compact crossover suv'], 'layout': ['front-engine', 'all-wheel-drive'], 'production_year': 2020, 'related': ['ubl']}
+{'name': 'datsun type 13', 'manufacturer': ['datsun', 'nissan'], 'class': [], 'layout': ['fr layout'], 'production_year': 1934, 'related': []}

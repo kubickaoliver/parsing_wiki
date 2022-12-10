@@ -1,0 +1,7 @@
+{'name': 'file:nissan logo', 'manufacturer': ['nissan diesel'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'file:nissan logo', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'cadillac deville', 'manufacturer': ['cadillac'], 'class': ['luxury car', 'full-size luxury car'], 'layout': ['fr layout', '1959–1984', 'front-engine', 'front-wheel-drive layout', 'transverse front-engine', 'front-wheel drive', '1985–2005'], 'production_year': 1958, 'related': ['cadillac eldorado', 'cadillac sixty special', 'cadillac series 62', 'buick electra', 'oldsmobile 98']}
+{'name': 'deronda type f', 'manufacturer': ['deronda ltd', 'alternative cars ltd'], 'class': [], 'layout': [], 'production_year': 2004, 'related': []}
+{'name': 'mazda l engine', 'manufacturer': ['unbulleted list', 'mazda'], 'class': [], 'layout': [], 'production_year': 2001, 'related': []}
+{'name': 'jaguar xj', 'manufacturer': ['ubl', 'jaguar cars', '2009-2012', 'jaguar land rover', '2013-2019'], 'class': ['full-size', 'luxury car', 'f-segment'], 'layout': ['front-engine design', 'front-engine', 'rear-wheel-drive', 'all-wheel-drive'], 'production_year': 2009, 'related': []}
+{'name': 'morris j2', 'manufacturer': ['morris commercial cars', 'morris commercial'], 'class': ['van'], 'layout': [], 'production_year': 1956, 'related': []}

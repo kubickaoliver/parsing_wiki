@@ -1,0 +1,3 @@
+{'name': 'vignale gamine', 'manufacturer': ['vignale'], 'class': [], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-engine', 'rear-wheel-drive'], 'production_year': 1967, 'related': ['fiat 500']}
+{'name': 'freightliner c2', 'manufacturer': ['daimler truck north america'], 'class': ['type c', 'conventional'], 'layout': ['4×2'], 'production_year': 2004, 'related': ['freightliner business class m2']}
+{'name': 'nissan qd engine', 'manufacturer': ['nissan diesel'], 'class': [], 'layout': [], 'production_year': '', 'related': []}

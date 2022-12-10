@@ -1,0 +1,4 @@
+{'name': 'tvr m series', 'manufacturer': ['tvr'], 'class': ['sports car', 'roadster', 'automobile', 'roadster'], 'layout': ['front mid-engine', 'rear-wheel drive layout', 'fmr'], 'production_year': 1972, 'related': []}
+{'name': 'mahindra xylo', 'manufacturer': ['mahindra & mahindra limited'], 'class': ['compact mpv'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rwd'], 'production_year': 2009, 'related': ['unbulleted list']}
+{'name': 'toyota gaia', 'manufacturer': ['toyota'], 'class': ['compact mpv'], 'layout': ['unbulleted list'], 'production_year': 1998, 'related': ['unbulleted list']}
+{'name': 'holden hk', 'manufacturer': ['holden', 'general motors'], 'class': ['mid-size car', 'mid-size'], 'layout': ['fr layout'], 'production_year': 1968, 'related': []}

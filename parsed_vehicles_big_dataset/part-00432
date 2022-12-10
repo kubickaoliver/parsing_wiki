@@ -1,0 +1,11 @@
+{'name': 'volvo pv60', 'manufacturer': ['volvo cars'], 'class': ['luxury car'], 'layout': ['fr layout'], 'production_year': 1946, 'related': []}
+{'name': 'covini b24 turbocooler', 'manufacturer': ['covini engineering'], 'class': [], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rmr layout'], 'production_year': 1981, 'related': []}
+{'name': 'jensen pw', 'manufacturer': ['jensen motors'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1946, 'related': []}
+{'name': 'jensen h-type', 'manufacturer': ['jensen motors'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1938, 'related': []}
+{'name': 'jensen s-type', 'manufacturer': ['jensen motors'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1936, 'related': []}
+{'name': 'nissan hypermini', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1999, 'related': []}
+{'name': 'nissan pulsar exa', 'manufacturer': [], 'class': ['sports car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'transverse front-engine', 'front-wheel drive'], 'production_year': 1982, 'related': ['nissan sunny', 'b11', 'nissan sunny', 'b11', 'nissan pulsar', 'n12', 'nissan pulsar', 'n12']}
+{'name': 'thames 307e', 'manufacturer': ['ford of britain', 'ford uk'], 'class': [], 'layout': ['fr layout'], 'production_year': 1961, 'related': []}
+{'name': 'holden hx', 'manufacturer': ['holden', 'general motors'], 'class': ['full-size car', 'full-size'], 'layout': [], 'production_year': 1976, 'related': ['statesman hx']}
+{'name': 'holden hz', 'manufacturer': ['holden'], 'class': ['full-size car', 'full-size'], 'layout': [], 'production_year': 1977, 'related': ['statesman hz']}
+{'name': 'holden wb', 'manufacturer': ['holden', 'general motors'], 'class': ['full-size car', 'full-size'], 'layout': [], 'production_year': 1980, 'related': []}

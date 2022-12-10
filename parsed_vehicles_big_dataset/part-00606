@@ -1,0 +1,5 @@
+{'name': 'mercedes-benz citan', 'manufacturer': ['renault'], 'class': ['panel van', 'leisure activity vehicle', 'm-segment'], 'layout': ['front-engine design', 'front-engine', 'front-wheel-drive'], 'production_year': 2012, 'related': []}
+{'name': 'wolseley 18', 'manufacturer': ['wolseley motors', 'wolseley'], 'class': [], 'layout': ['fr layout'], 'production_year': 1938, 'related': []}
+{'name': 'd-400 series engine', 'manufacturer': ['outboard marine corporation', 'omc', 'lawn-boy'], 'class': [], 'layout': [], 'production_year': 1954, 'related': []}
+{'name': 'mahindra bolero', 'manufacturer': ['mahindra and mahindra limited'], 'class': ['mid-size suv'], 'layout': ['front-engine', 'rear-wheel-drive', 'front-engine', 'rwd', 'front-engine', 'four-wheel-drive layout', 'front engine', '4wd'], 'production_year': 2000, 'related': ['mahindra scorpio', 'mahindra xuv700']}
+{'name': 'sccs platform', 'manufacturer': ['fiat group', 'general motors'], 'class': ['subcompact car'], 'layout': ['front-engine design', 'front-engine', 'front-wheel drive', 'four-wheel drive'], 'production_year': 2005, 'related': []}

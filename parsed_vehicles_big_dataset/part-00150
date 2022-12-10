@@ -1,0 +1,4 @@
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1977, 'related': ['honda vamos']}
+{'name': 'dodge 50 series', 'manufacturer': ['chrysler europe', 'renault trucks'], 'class': ['unbulleted list', 'light commercial vehicle', 'm-segment', 'full-size van', 'large van'], 'layout': [], 'production_year': 1979, 'related': ['dodge_ram_van', 'original_b_series', 'dodge b series']}
+{'name': 'ford model aa', 'manufacturer': ['ford motor company', 'ford'], 'class': ['heavy commercial'], 'layout': [], 'production_year': 1927, 'related': ['ford model a', '1927-1931', 'ford model a', 'gaz-aa', 'gaz-mm', 'gaz-aaa']}
+{'name': 'alfa romeo 1750 berlina', 'manufacturer': ['alfa romeo'], 'class': ['executive car', 'e-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1968, 'related': ['alfa romeo giulia']}

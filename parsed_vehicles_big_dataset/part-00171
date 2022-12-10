@@ -1,0 +1,10 @@
+{'name': 'adam revo', 'manufacturer': ['adam motor company'], 'class': ['city car'], 'layout': [], 'production_year': 2005, 'related': []}
+{'name': 'peugeot 308', 'manufacturer': ['peugeot', 'efn', 'name=manufacturer', 'ubl', 'psa group', '2007–2021', 'stellantis', '2021–present'], 'class': ['compact car', 'small family car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'four-wheel-drive'], 'production_year': 2007, 'related': ['peugeot 307', 'peugeot 408', 'saloon', 'peugeot 408', 'peugeot 3008', 'peugeot 5008', 'peugeot rcz', 'peugeot partner', 'citroën c4', 'citroën c4 picasso', 'ds 4', 'citroën ds4', 'citroën berlingo']}
+{'name': '993', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1993, 'related': []}
+{'name': 'ford falcon', 'manufacturer': ['ford motor company', 'ford'], 'class': ['compact car', 'compact'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': 1959, 'related': ['mercury comet']}
+{'name': 'ford falcon', 'manufacturer': ['ford argentina'], 'class': ['compact car'], 'layout': [], 'production_year': 1962, 'related': []}
+{'name': 'mercedes-benz actros', 'manufacturer': ['mercedes-benz'], 'class': ['truck'], 'layout': [], 'production_year': 1996, 'related': []}
+{'name': 'mercedes-benz econic', 'manufacturer': ['mercedes-benz'], 'class': ['truck'], 'layout': [], 'production_year': 1998, 'related': []}
+{'name': 'mitsuoka orochi', 'manufacturer': ['mitsuoka'], 'class': ['sports car'], 'layout': ['mr layout'], 'production_year': 2006, 'related': []}
+{'name': 'rover 200 coupé', 'manufacturer': ['rover', 'car', 'rover'], 'class': ['sports car', 's-segment'], 'layout': ['ff layout'], 'production_year': 1992, 'related': []}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1953, 'related': []}

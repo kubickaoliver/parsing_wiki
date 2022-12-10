@@ -1,0 +1,4 @@
+{'name': 'chevrolet stylemaster', 'manufacturer': ['chevrolet', 'general motors'], 'class': [], 'layout': ['fr layout'], 'production_year': '', 'related': []}
+{'name': 'seat ibe', 'manufacturer': ['seat'], 'class': [], 'layout': [], 'production_year': 2010, 'related': []}
+{'name': 'lamborghini sesto elemento', 'manufacturer': ['lamborghini'], 'class': ['track day car'], 'layout': ['mid-engine', 'four-wheel-drive layout', 'mid-engine', 'all-wheel-drive'], 'production_year': 2010, 'related': ['audi r8', 'lamborghini gallardo']}
+{'name': 'ford comuta', 'manufacturer': ['ford motor company', 'ford'], 'class': ['microcar'], 'layout': [], 'production_year': '', 'related': []}

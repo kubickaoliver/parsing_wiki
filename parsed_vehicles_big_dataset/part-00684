@@ -1,0 +1,4 @@
+{'name': 'hyundai galloper', 'manufacturer': ['hyundai mobis', 'hyundai precision & ind', '1991-1999', 'hyundai motor company', '1999-2003'], 'class': ['sport utility vehicle'], 'layout': ['four-wheel drive'], 'production_year': 1991, 'related': ['mitsubishi pajero']}
+{'name': 'suzuki cv1', 'manufacturer': ['suzuki'], 'class': ['microcar'], 'layout': [], 'production_year': 1981, 'related': []}
+{'name': 'coronet', 'manufacturer': ['coronet cars ltd'], 'class': ['microcar'], 'layout': ['rr layout'], 'production_year': '', 'related': []}
+{'name': 'peugeot hoggar', 'manufacturer': ['groupe psa'], 'class': ['compact luxury pickup truck'], 'layout': ['front-engine', 'front-wheel-drive layout'], 'production_year': 2010, 'related': ['peugeot 206']}

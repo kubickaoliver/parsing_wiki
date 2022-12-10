@@ -1,0 +1,5 @@
+{'name': 'iveco eurocargo', 'manufacturer': ['iveco'], 'class': ['truck'], 'layout': [], 'production_year': 1991, 'related': []}
+{'name': 'apollo arrow', 'manufacturer': ['apollo automobil'], 'class': ['concept car'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 2016, 'related': []}
+{'name': 'hyundai intrado', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': ['concept car'], 'layout': [], 'production_year': 2014, 'related': []}
+{'name': 'kia stinger', 'manufacturer': ['kia'], 'class': ['mid-size car', 'd-segment'], 'layout': ['unbulleted list'], 'production_year': 2017, 'related': ['unbulleted list']}
+{'name': 'kia kx3', 'manufacturer': ['kia'], 'class': ['subcompact crossover suv'], 'layout': ['ubl'], 'production_year': 2015, 'related': ['hyundai creta', 'hyundai ix25']}

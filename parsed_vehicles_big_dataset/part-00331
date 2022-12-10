@@ -1,0 +1,4 @@
+{'name': 'bmw s63 engine', 'manufacturer': [], 'class': ['wikitable sortable style=text-align: center'], 'layout': [], 'production_year': 2009, 'related': []}
+{'name': 'audi s5', 'manufacturer': ['audi ag'], 'class': ['ubl'], 'layout': ['front-engine design', 'front engine', 'quattro', 'four wheel drive system', 'quattro', 'permanent', 'four-wheel drive'], 'production_year': 2007, 'related': ['audi a5']}
+{'name': 'fiat 525', 'manufacturer': ['fiat'], 'class': [], 'layout': ['fr layout'], 'production_year': 1928, 'related': []}
+{'name': 'daimler sovereign', 'manufacturer': ['jaguar cars'], 'class': ['full-size car', 'full-size', 'luxury vehicle', 'luxury car', 'f-segment'], 'layout': ['fr layout'], 'production_year': '', 'related': ['jaguar 420', 'jaguar xj6']}

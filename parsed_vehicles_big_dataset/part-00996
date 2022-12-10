@@ -1,0 +1,2 @@
+{'name': 'oshan x7', 'manufacturer': ['changan automobile'], 'class': ['mid-size car', 'mid-size', 'crossover suv', 'crossover suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2019, 'related': []}
+{'name': 'tesla cyberquad', 'manufacturer': ['tesla', 'inc'], 'class': ['all-terrain vehicle', 'atv'], 'layout': [], 'production_year': 2021, 'related': ['tesla cybertruck']}

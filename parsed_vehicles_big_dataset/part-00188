@@ -1,0 +1,4 @@
+{'name': 'fap 403 rhd', 'manufacturer': ['fabrika automobila priboj', 'fap'], 'class': ['coach bus'], 'layout': [], 'production_year': '', 'related': ['fap 404 rhd', '404 rhd']}
+{'name': 'nuffield oxford taxi', 'manufacturer': ['nuffield'], 'class': [], 'layout': ['limousine'], 'production_year': '', 'related': []}
+{'name': 'tofaş şahin', 'manufacturer': ['tofaş'], 'class': ['family car'], 'layout': ['fr layout'], 'production_year': 1981, 'related': []}
+{'name': 'rambler tarpon', 'manufacturer': ['american motors corporation', 'amc'], 'class': ['concept car'], 'layout': ['front-engine', 'rear-wheel drive layout', 'fr layout'], 'production_year': '', 'related': []}

@@ -1,0 +1,4 @@
+{'name': 'big al ii', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1963, 'related': ['all', 'funny car']}
+{'name': 'brutus', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'honda wr-v', 'manufacturer': ['honda'], 'class': ['subcompact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2017, 'related': ['unbulleted list']}
+{'name': 'ferrari 812 superfast', 'manufacturer': ['ferrari'], 'class': ['grand tourer', 's-segment'], 'layout': ['front mid-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive'], 'production_year': 2017, 'related': ['ferrari monza sp']}

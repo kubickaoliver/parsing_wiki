@@ -1,0 +1,3 @@
+{'name': 'toyota sora', 'manufacturer': ['toyota'], 'class': ['transit bus'], 'layout': [], 'production_year': 2018, 'related': []}
+{'name': 'audi e-tron gt', 'manufacturer': ['audi'], 'class': ['executive car', 'e-segment'], 'layout': ['dual-motor', 'all-wheel drive'], 'production_year': 2020, 'related': ['porsche taycan']}
+{'name': 'bentley exp 100 gt', 'manufacturer': ['bentley'], 'class': ['concept coupé gt', 'sports car'], 'layout': ['four-wheel drive'], 'production_year': 2019, 'related': []}

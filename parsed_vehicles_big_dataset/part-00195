@@ -1,0 +1,6 @@
+{'name': 'fiat 518', 'manufacturer': ['fiat automobiles', 'fiat'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1933, 'related': ['fiat 527', 'ardita 2500']}
+{'name': 'fiat 519', 'manufacturer': ['fiat'], 'class': [], 'layout': ['fr layout'], 'production_year': 1922, 'related': []}
+{'name': 'jcb dieselmax', 'manufacturer': ['visioneering'], 'class': ['land speed record', 'land speed record vehicle', 'diesel'], 'layout': ['dual-engine', '4-wheel drive'], 'production_year': '', 'related': []}
+{'name': 'amc cavalier', 'manufacturer': ['american motors', 'amc'], 'class': ['compact car'], 'layout': ['front-engine', 'rear-wheel drive layout', 'fr layout'], 'production_year': 1965, 'related': []}
+{'name': 'ford i4 dohc', 'manufacturer': ['ford motor company'], 'class': [], 'layout': [], 'production_year': 1989, 'related': []}
+{'name': 'tata novus', 'manufacturer': ['tata motors'], 'class': ['truck'], 'layout': [], 'production_year': 2005, 'related': []}

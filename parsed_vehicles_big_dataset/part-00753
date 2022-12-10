@@ -1,0 +1,2 @@
+{'name': 'jeffery quad', 'manufacturer': ['thomas b', 'jeffery company', 'nash motors', 'after 1916'], 'class': [], 'layout': ['front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive'], 'production_year': 1913, 'related': []}
+{'name': 'daimler de', 'manufacturer': ['daimler company'], 'class': ['luxury vehicle'], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': 1946, 'related': ['daimler dc', 'daimler dh']}

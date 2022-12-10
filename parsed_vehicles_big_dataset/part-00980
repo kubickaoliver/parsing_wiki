@@ -1,0 +1,2 @@
+{'name': 'mini electric', 'manufacturer': ['bmw i'], 'class': ['subcompact car', 'subcompact', 'supermini', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-motor', 'front-wheel-drive'], 'production_year': 2019, 'related': ['bmw i3']}
+{'name': 'land rover defender', 'manufacturer': ['jaguar land rover'], 'class': ['ubl'], 'layout': ['front-engine', 'four-wheel-drive'], 'production_year': 2019, 'related': []}

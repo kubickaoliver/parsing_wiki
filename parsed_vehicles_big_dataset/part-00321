@@ -1,0 +1,3 @@
+{'name': 'black', 'manufacturer': ['black manufacturing company'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'rolls-royce 30 hp', 'manufacturer': ['royce limited'], 'class': [], 'layout': [], 'production_year': 1905, 'related': []}
+{'name': 'suzuki equator', 'manufacturer': ['nissan'], 'class': ['mid-size', 'pickup truck'], 'layout': ['front-engine design', 'front engine', 'rear-wheel drive', 'four-wheel drive'], 'production_year': 2008, 'related': ['nissan frontier']}

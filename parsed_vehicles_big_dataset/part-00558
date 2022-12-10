@@ -1,0 +1,5 @@
+{'name': 'porsche c88', 'manufacturer': ['porsche', 'stola', 'automotive company', 'stola'], 'class': [], 'layout': [], 'production_year': 1994, 'related': []}
+{'name': 'opel corsa', 'manufacturer': ['opel', 'efn', 'name=manufacturer', 'ubl', 'general motors', '1982–2017', 'psa group', '2017–2021', 'stellantis', '2021–present'], 'class': ['supermini', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': '', 'related': []}
+{'name': 'brilliance bs2', 'manufacturer': ['brilliance auto'], 'class': ['compact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2008, 'related': []}
+{'name': 'great wall voleex c30', 'manufacturer': ['great wall motors'], 'class': ['subcompact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2010, 'related': []}
+{'name': 'triumph tr7 sprint', 'manufacturer': ['triumph motor company'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1977, 'related': ['triumph tr7']}

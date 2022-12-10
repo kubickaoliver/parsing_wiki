@@ -1,0 +1,3 @@
+{'name': 'isuzu reach', 'manufacturer': ['isuzu'], 'class': ['truck classification', 'medium duty', 'medium duty truck'], 'layout': [], 'production_year': 2011, 'related': []}
+{'name': 'mclaren 570s', 'manufacturer': ['mclaren automotive'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel drive layout', 'rear mid-engine', 'rear-wheel drive'], 'production_year': 2015, 'related': ['mclaren gt', 'mclaren 675lt', 'mclaren 600lt', 'mclaren p1']}
+{'name': 'fiat s76 record', 'manufacturer': ['fiat automobiles', 'fiat'], 'class': ['land speed record', 'land speed record vehicle'], 'layout': [], 'production_year': 1910, 'related': []}

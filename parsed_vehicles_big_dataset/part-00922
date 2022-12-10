@@ -1,0 +1,6 @@
+{'name': 'landwind x5', 'manufacturer': ['landwind'], 'class': ['compact suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'four-wheel-drive layout', 'four-wheel-drive'], 'production_year': 2012, 'related': []}
+{'name': 'landwind x8', 'manufacturer': ['landwind'], 'class': ['mid-size suv'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'rear-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'four-wheel-drive'], 'production_year': 2009, 'related': []}
+{'name': 'cowin x3', 'manufacturer': ['cowin auto'], 'class': ['compact car', 'compact', 'crossover sport utility vehicle', 'cuv'], 'layout': [], 'production_year': 2016, 'related': []}
+{'name': 'honda n-wgn', 'manufacturer': ['honda'], 'class': ['kei car'], 'layout': ['unbulleted list'], 'production_year': 2013, 'related': ['unbulleted list']}
+{'name': 'suzuki hustler', 'manufacturer': ['suzuki'], 'class': ['kei car'], 'layout': ['unbulleted list'], 'production_year': 2014, 'related': []}
+{'name': 'bestune b90', 'manufacturer': ['faw group', 'bestune'], 'class': ['mid-size car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front engine', 'front-wheel drive'], 'production_year': 2012, 'related': []}

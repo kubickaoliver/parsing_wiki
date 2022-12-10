@@ -1,0 +1,6 @@
+{'name': 'mg 14', 'manufacturer': ['mg cars'], 'class': ['sports car'], 'layout': [], 'production_year': 1924, 'related': []}
+{'name': 'saleen s7', 'manufacturer': ['saleen'], 'class': ['supercar'], 'layout': ['rmr layout', 'mid-engine', 'rear-wheel drive', 'ref name=concept-carz'], 'production_year': 2000, 'related': []}
+{'name': 'km131', 'manufacturer': ['kia motors'], 'class': [], 'layout': ['fr layout'], 'production_year': 1997, 'related': ['kia retona']}
+{'name': 'holden 48-215', 'manufacturer': ['holden'], 'class': ['mid-size car', 'mid-size'], 'layout': ['front-engine', 'rear-wheel drive layout', 'front-engine', 'rear-wheel drive'], 'production_year': 1948, 'related': []}
+{'name': 'mg 14', 'manufacturer': ['mg cars'], 'class': ['sports car'], 'layout': [], 'production_year': 1927, 'related': []}
+{'name': 'pmc worktruck', 'manufacturer': ['peterson motor company'], 'class': ['pickup_truck', 'full-size pickup truck'], 'layout': [], 'production_year': 2005, 'related': ['pmc ssuv']}

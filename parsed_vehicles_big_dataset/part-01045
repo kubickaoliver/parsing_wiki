@@ -1,0 +1,4 @@
+{'name': 'swm g05', 'manufacturer': ['swm', 'automobiles'], 'class': ['compact suv', 'compact crossover suv'], 'layout': [], 'production_year': 2019, 'related': ['swm x7']}
+{'name': 'xingtai xtq1020', 'manufacturer': ['xingtai 114 automobile factory'], 'class': ['pickup truck', 'pick-up'], 'layout': [], 'production_year': 1980, 'related': []}
+{'name': 'ex6 plus', 'manufacturer': ['weltmeister', 'marque', 'wm motor'], 'class': ['crossover', 'automobile', 'mid-size cuv'], 'layout': [], 'production_year': 2019, 'related': []}
+{'name': 'changan cm7', 'manufacturer': ['changan automobile'], 'class': ['microvan'], 'layout': ['front-engine', 'front-wheel drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2003, 'related': []}

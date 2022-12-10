@@ -1,0 +1,8 @@
+{'name': 'lotus t125', 'manufacturer': ['lotus cars'], 'class': ['open-wheel car', 'open-wheel', 'race car'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'seat 124 sport', 'manufacturer': ['seat'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': 1970, 'related': ['fiat 124 coupé']}
+{'name': 'ford b-max', 'manufacturer': ['ford of europe', 'ford europe'], 'class': ['mini mpv', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2012, 'related': ['ford fiesta', 'mk vi']}
+{'name': 'volkswagen chico', 'manufacturer': ['volkswagen'], 'class': ['concept car', 'concept car'], 'layout': [], 'production_year': 1992, 'related': []}
+{'name': 'ford ranger', 'manufacturer': ['ford motor company', 'ford'], 'class': ['pickup truck', 'mid-size pickup truck'], 'layout': ['front-engine', 'rear-wheel-drive', 'front-engine', 'four-wheel-drive', 'four-wheel-drive'], 'production_year': 2011, 'related': ['ford everest', 'ford everest', 'u375', 'mazda bt-50', 'mazda bt-50', 'troller t4']}
+{'name': 'ford taunus 17m', 'manufacturer': ['ford germany'], 'class': ['executive car', 'e-segment'], 'layout': [], 'production_year': 1960, 'related': []}
+{'name': 'jaguar xk8', 'manufacturer': ['jaguar cars'], 'class': ['grand tourer', 's-segment'], 'layout': ['front-engine', 'rear-wheel drive layout', 'front-engine', 'rear-wheel drive'], 'production_year': 1996, 'related': ['aston martin db7', 'jaguar xj', 'x308']}
+{'name': 'ford taunus 12m', 'manufacturer': ['ford germany'], 'class': ['large family car', 'd-segment'], 'layout': [], 'production_year': 1962, 'related': []}

@@ -1,0 +1,10 @@
+{'name': 'traum s70', 'manufacturer': ['traum', 'marque', 'traum', 'jiangnan auto'], 'class': ['mid-size cuv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2017, 'related': []}
+{'name': 'baolong pegasus', 'manufacturer': [], 'class': ['multi purpose vehicle', 'mpv', 'm-segment'], 'layout': ['front engine', 'rear-wheel-drive layout', 'front engine', 'all-wheel-drive'], 'production_year': 2001, 'related': ['mitsubishi delica', 'fourth', 'mitsubishi space gear', 'hyundai starex', 'dongfeng fengxing lingzhi']}
+{'name': 'jonway a380', 'manufacturer': [], 'class': ['wikitable'], 'layout': [], 'production_year': 2005, 'related': []}
+{'name': 'lifan lotto', 'manufacturer': ['lifan group'], 'class': ['compact mpv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2015, 'related': []}
+{'name': 'lifan maiwei', 'manufacturer': ['lifan motors', 'part of', 'lifan group'], 'class': ['compact car', 'compact', 'crossover', 'automobile', 'crossover suv'], 'layout': [], 'production_year': 2016, 'related': []}
+{'name': 'lifan x50', 'manufacturer': ['lifan motors', 'part of', 'lifan group'], 'class': ['subcompact car', 'subcompact', 'crossover', 'automobile', 'crossover suv'], 'layout': [], 'production_year': 2014, 'related': []}
+{'name': 'huanghai raytour', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2016, 'related': []}
+{'name': 'kawei w1', 'manufacturer': ['kawei auto'], 'class': ['compact suv'], 'layout': [], 'production_year': 2014, 'related': ['kawei k1']}
+{'name': 'huanghai landscape f1', 'manufacturer': ['sg automotive'], 'class': ['mid-size car', 'mid-size', 'crossover', 'automobile', 'crossover', 'suv'], 'layout': ['ubl'], 'production_year': 2008, 'related': []}
+{'name': 'huanghai plutus', 'manufacturer': ['sg automotive'], 'class': ['ubl'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel drive', 'four-wheel drive'], 'production_year': 2007, 'related': ['jac ruiling']}

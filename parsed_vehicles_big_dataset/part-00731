@@ -1,0 +1,3 @@
+{'name': 'tata bolt', 'manufacturer': ['tata motors'], 'class': ['supermini', 'b-segment'], 'layout': [], 'production_year': 2014, 'related': ['tata indica vista', 'tata zest']}
+{'name': 'tata zest', 'manufacturer': [], 'class': ['supermini', 'b-segment'], 'layout': ['front-engine', 'all-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2014, 'related': ['tata bolt']}
+{'name': 'ds 5ls', 'manufacturer': ['ds automobiles'], 'class': ['compact executive car', 'd-segment'], 'layout': ['front-engine', 'front-wheel-drive layout'], 'production_year': 2014, 'related': ['ds 4s']}

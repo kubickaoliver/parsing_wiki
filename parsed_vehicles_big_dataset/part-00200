@@ -1,0 +1,5 @@
+{'name': 'peugeot 908 rc', 'manufacturer': ['peugeot'], 'class': [], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'transverse rear mid-engine', 'rear wheel drive'], 'production_year': 2006, 'related': []}
+{'name': 'austin kimberley', 'manufacturer': ['leyland australia'], 'class': ['mid-size car'], 'layout': ['ff layout'], 'production_year': 1970, 'related': ['austin 1800']}
+{'name': 'mg r-type', 'manufacturer': ['car', 'morris motors'], 'class': ['competition car'], 'layout': ['fr layout'], 'production_year': 1935, 'related': []}
+{'name': 'mazda cx-5', 'manufacturer': ['mazda'], 'class': ['compact crossover suv'], 'layout': ['unbulleted list'], 'production_year': 2012, 'related': ['mazda cx-8']}
+{'name': 'honda civic gx', 'manufacturer': ['honda'], 'class': ['subcompact', '1998–2000', 'compact car', 'compact', '2001–2015'], 'layout': ['front-engine', 'front-wheel-drive layout', 'ff layout'], 'production_year': 1998, 'related': ['acura el', 'honda cr-v', 'honda integra', 'honda', 'acura integra', 'isuzu gemini', 'honda domani']}

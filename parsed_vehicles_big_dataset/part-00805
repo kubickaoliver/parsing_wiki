@@ -1,0 +1,2 @@
+{'name': 'standard fourteen', 'manufacturer': ['standard motor company'], 'class': [], 'layout': [], 'production_year': 1945, 'related': ['standard twelve']}
+{'name': 'tata tiago', 'manufacturer': ['tata motors'], 'class': ['city car', 'a-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2016, 'related': ['tata tigor', 'tata nexon']}

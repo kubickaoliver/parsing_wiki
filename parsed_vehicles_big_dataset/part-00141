@@ -1,0 +1,10 @@
+{'name': 'mercury meteor', 'manufacturer': ['mercury', 'automobile', 'mercury', 'ford motor company', 'ford'], 'class': ['full-size car', 'full-size', '1961', 'mid-size', '1962–1963'], 'layout': ['fr layout'], 'production_year': 1961, 'related': ['ford fairlane', 'americas', 'ford fairlane']}
+{'name': 'rambler american', 'manufacturer': ['american motors corporation', 'amc'], 'class': ['compact car', 'compact'], 'layout': ['fr layout'], 'production_year': 1958, 'related': ['ika-renault torino', 'ika torino', 'argentina']}
+{'name': 'ford duratec v6', 'manufacturer': ['ford motor company', 'ford'], 'class': [], 'layout': [], 'production_year': 1993, 'related': ['jaguar aj-v6 engine', 'jaguar aj-v6']}
+{'name': 'mazda mzr engine', 'manufacturer': ['mazda'], 'class': [], 'layout': [], 'production_year': 2001, 'related': []}
+{'name': 'ldv pilot', 'manufacturer': ['ldv limited'], 'class': ['van'], 'layout': [], 'production_year': 1974, 'related': ['ldv convoy']}
+{'name': 'lincoln mark', 'manufacturer': ['continental mark ii', 'continental', 'ford motor company', 'ford', '1956', 'lincoln motor company', 'lincoln', 'ford motor company', 'ford', 'july 1956–1998'], 'class': ['full-size car', 'full-size', 'personal luxury car'], 'layout': ['front-engine', 'rear-wheel drive layout', 'fr layout'], 'production_year': 1956, 'related': []}
+{'name': 'toyota l engine', 'manufacturer': ['toyota motor corporation'], 'class': [], 'layout': [], 'production_year': 1977, 'related': []}
+{'name': 'citroën xsara picasso', 'manufacturer': ['citroën'], 'class': ['compact mpv', 'm-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1999, 'related': ['citroën xsara', 'citroën c3 picasso', 'citroën c4 picasso']}
+{'name': 'dw engine', 'manufacturer': ['psa peugeot citroën'], 'class': ['wikitable'], 'layout': [], 'production_year': 1998, 'related': []}
+{'name': 'psa puretech engine', 'manufacturer': ['psa peugeot citroën'], 'class': ['wikitable'], 'layout': [], 'production_year': 2012, 'related': []}

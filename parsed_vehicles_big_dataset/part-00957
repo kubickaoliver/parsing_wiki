@@ -1,0 +1,10 @@
+{'name': 'man sg 220', 'manufacturer': ['man se'], 'class': ['transit bus'], 'layout': [], 'production_year': '', 'related': ['man sg 310']}
+{'name': 'cowin c3', 'manufacturer': ['cowin auto'], 'class': ['subcompact car', 'subcompact', 'b-segment'], 'layout': ['ff layout'], 'production_year': 2014, 'related': []}
+{'name': 'rely x5', 'manufacturer': ['chery'], 'class': ['compact suv', 'compact', 'crossover', 'automobile', 'crossover', 'ref', 'cite web', 'url=https:', 'www', 'autohome', 'com', '613', 'pvareaid=100125', 'title=奇瑞汽車-威麟x5', 'ref'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'four-wheel-drive'], 'production_year': 2010, 'related': []}
+{'name': 'karry k50', 'manufacturer': ['karry', 'chery'], 'class': ['compact mpv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2015, 'related': ['karry k60']}
+{'name': 'chery q22', 'manufacturer': ['karry', 'chery', 'chery holding'], 'class': ['ubl', 'compact mpv', 'minitruck'], 'layout': ['front mid-engine', 'rear-wheel-drive layout'], 'production_year': 2007, 'related': []}
+{'name': 'foton gratour im6', 'manufacturer': ['foton motor', 'foton'], 'class': ['multi purpose vehicle', 'mpv'], 'layout': ['ff layout'], 'production_year': 2017, 'related': []}
+{'name': 'yema spica', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2015, 'related': []}
+{'name': 'yema t70', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2015, 'related': ['yema t80']}
+{'name': 'yema t80', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2017, 'related': ['yema t70']}
+{'name': 'foton sauvana', 'manufacturer': ['foton motor'], 'class': ['mid-size suv'], 'layout': ['front-engine design', 'front-engine', 'rear-wheel drive', 'four-wheel drive'], 'production_year': 2014, 'related': []}

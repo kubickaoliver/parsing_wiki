@@ -1,0 +1,4 @@
+{'name': 'audi le mans quattro', 'manufacturer': ['audi', 'audi ag'], 'class': ['concept car'], 'layout': ['mid-engine design', 'mid engine', 'quattro', 'four wheel drive system', 'quattro permanent', 'all-wheel drive'], 'production_year': 2003, 'related': ['seat cupra gt']}
+{'name': 'lobini h1', 'manufacturer': ['lobini'], 'class': ['sports car'], 'layout': ['mr layout'], 'production_year': 2005, 'related': ['volkswagen golf', 'audi a3', 'volkswagen fox', 'seat leon', 'škoda octavia']}
+{'name': 'perry 8', 'manufacturer': ['perry motor company'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1912, 'related': []}
+{'name': 'toyopet sa', 'manufacturer': ['toyota'], 'class': ['large family car'], 'layout': ['front-engine', 'rear-wheel drive'], 'production_year': 1947, 'related': ['toyota sb', 'toyota sc']}

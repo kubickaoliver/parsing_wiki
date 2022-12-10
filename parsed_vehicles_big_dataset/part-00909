@@ -1,0 +1,3 @@
+{'name': 'robot identification number', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'byd song', 'manufacturer': ['byd auto', 'byd'], 'class': ['compact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2015, 'related': []}
+{'name': 'ginetta g32', 'manufacturer': ['ginetta cars'], 'class': [], 'layout': ['rear mid-engine', 'rear-wheel-drive layout'], 'production_year': 1989, 'related': []}

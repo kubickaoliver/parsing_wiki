@@ -1,0 +1,3 @@
+{'name': 'dodge m4s turbo interceptor ppg pace car', 'manufacturer': ['dodge', 'chrysler'], 'class': ['sports coupe'], 'layout': ['mid-engine', 'rear-wheel drive'], 'production_year': 1981, 'related': []}
+{'name': 'spania gta spano', 'manufacturer': ['spania gta'], 'class': ['sports car', 's-segment'], 'layout': ['rmr layout', 'rear-mid engine', 'rear-wheel-drive'], 'production_year': 2010, 'related': []}
+{'name': 'terrastar', 'manufacturer': ['navistar international', 'international trucks'], 'class': ['truck classification', 'class 5', 'class 5'], 'layout': [], 'production_year': 2010, 'related': ['ic bus ae-series', 'ic bus ac-series']}

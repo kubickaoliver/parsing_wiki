@@ -1,0 +1,3 @@
+{'name': 'mustang boss 429', 'manufacturer': ['ford motor company', 'ford'], 'class': ['muscle car', 'pony car'], 'layout': ['longitudinal engine', 'mounted', 'front-engine', 'rear-wheel-drive layout'], 'production_year': 1969, 'related': []}
+{'name': 'brilliance bs6', 'manufacturer': ['brilliance auto'], 'class': ['mid-size car', 'mid-size', 'sedan', 'automobile', 'sedan'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2000, 'related': []}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1997, 'related': ['mitsubishi delica', 'l400', 'mitsubishi delica', 'hyundai porter', 'refine m5', 'jac refine m5']}

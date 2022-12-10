@@ -1,0 +1,6 @@
+{'name': 'iveco massif', 'manufacturer': ['iveco'], 'class': ['off-road vehicle'], 'layout': ['front-engine design', 'front engine', 'rear-wheel drive', 'four-wheel drive'], 'production_year': 2007, 'related': ['land rover series', 'santana ps-10']}
+{'name': 'ferrari f430 challenge', 'manufacturer': ['ferrari'], 'class': ['racecar'], 'layout': ['rear mid-engine', 'rear-wheel drive layout', 'rear mid-engine', 'rear-wheel drive'], 'production_year': 2007, 'related': ['ferrari f430']}
+{'name': 'toyota corolla levin', 'manufacturer': ['toyota'], 'class': ['unbulleted list'], 'layout': ['unbulleted list'], 'production_year': 1972, 'related': []}
+{'name': 'carlette', 'manufacturer': ['holstein garage'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1913, 'related': []}
+{'name': 'cfb', 'manufacturer': ['cfb car syndicate ltd'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1920, 'related': []}
+{'name': 'economic', 'manufacturer': ['economic motors'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1919, 'related': []}

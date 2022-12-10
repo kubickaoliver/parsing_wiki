@@ -1,0 +1,4 @@
+{'name': 'honda civic type r', 'manufacturer': ['honda'], 'class': ['sport compact', 'sport compact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1997, 'related': ['honda civic']}
+{'name': 'prime ministerial limousine', 'manufacturer': ['bmw'], 'class': ['full-size', 'luxury car', 'f-segment'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'ford c11adf', 'manufacturer': ['ford motor company of canada', 'ford canada'], 'class': [], 'layout': [], 'production_year': 1941, 'related': []}
+{'name': 'ford falcon', 'manufacturer': ['ford australia'], 'class': ['full-size car'], 'layout': ['fr layout'], 'production_year': 1979, 'related': ['ford fairlane', 'australia', 'ford fairlane', 'ford fairlane', 'australia', 'ford ltd']}

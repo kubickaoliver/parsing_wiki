@@ -1,0 +1,4 @@
+{'name': 'ss20 cervo', 'manufacturer': [], 'class': ['wikitable style=width:70%'], 'layout': ['rr layout'], 'production_year': 1977, 'related': ['suzuki fronte', 'fronte 7-s', 'suzuki fronte 7-s']}
+{'name': 'jaguar xkss', 'manufacturer': ['jaguar cars'], 'class': ['sports car'], 'layout': [], 'production_year': 1957, 'related': ['jaguar d-type']}
+{'name': 'mack', 'manufacturer': ['mack trucks'], 'class': ['heavy', 'vehicles', 'heavy', 'truck'], 'layout': [], 'production_year': 1995, 'related': []}
+{'name': 'mack f series', 'manufacturer': ['mack trucks'], 'class': ['truck'], 'layout': [], 'production_year': 1962, 'related': []}

@@ -1,0 +1,3 @@
+{'name': 'scania citywide', 'manufacturer': ['scania ab', 'scania'], 'class': ['bus manufacturing', 'complete bus'], 'layout': ['longitudinal engine', 'longitudinal', 'transverse engine', 'transverse', 'rear-engine design'], 'production_year': 2011, 'related': []}
+{'name': 'volvo b9s', 'manufacturer': ['volvo buses'], 'class': ['commercial vehicle'], 'layout': [], 'production_year': 2002, 'related': ['volvo b360s']}
+{'name': 'saviem sm8', 'manufacturer': ['saviem'], 'class': ['medium truck'], 'layout': [], 'production_year': 1967, 'related': []}

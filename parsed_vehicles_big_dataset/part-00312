@@ -1,0 +1,3 @@
+{'name': 'hyundai i10', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': ['city car', 'a-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2007, 'related': ['kia picanto']}
+{'name': 'hyundai i20', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': ['supermini', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2008, 'related': ['plainlist']}
+{'name': 'chrysler royal', 'manufacturer': ['chrysler australia'], 'class': ['full-size car', 'full-size'], 'layout': [], 'production_year': 1957, 'related': []}

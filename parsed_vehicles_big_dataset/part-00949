@@ -1,0 +1,5 @@
+{'name': 'apollo', 'manufacturer': ['baidu', 'kinglong'], 'class': ['driverless vehicle'], 'layout': [], 'production_year': 2017, 'related': []}
+{'name': 'exodus', 'manufacturer': ['bill cushenbery'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'bjev ec3', 'manufacturer': ['baic group'], 'class': ['supermini', 'ref', 'cite web', 'url=https:', 'carnewschina', 'com', '2016', 'spy-shots-beijing-auto-working-on-electric-mini-car-for-china', 'title=spy shots: beijing auto working on electric mini car for china', 'first=joey', 'last=wang', 'date=june 20', '2016', 'website=carnewschina', 'com', 'ref'], 'layout': ['electric car'], 'production_year': 2016, 'related': []}
+{'name': 'ford f-max', 'manufacturer': ['ford otosan'], 'class': ['heavy truck'], 'layout': [], 'production_year': 2018, 'related': []}
+{'name': 'lamborghini veneno', 'manufacturer': ['lamborghini'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': [], 'production_year': 2013, 'related': ['lamborghini aventador']}

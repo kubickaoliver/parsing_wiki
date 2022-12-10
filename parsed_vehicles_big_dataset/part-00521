@@ -1,0 +1,3 @@
+{'name': 'chevrolet cruze', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'peugeot 20cup', 'manufacturer': ['peugeot'], 'class': ['concept car', 'concept', 'sports car', 's-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front engine', 'front-wheel drive'], 'production_year': 2005, 'related': []}
+{'name': 'toyota cd engine', 'manufacturer': ['toyota'], 'class': [], 'layout': [], 'production_year': '', 'related': []}

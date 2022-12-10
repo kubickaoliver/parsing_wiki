@@ -1,0 +1,4 @@
+{'name': 'kia granbird', 'manufacturer': ['kia'], 'class': ['commercial vehicle'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-engine', 'rear-wheel-drive'], 'production_year': 1994, 'related': []}
+{'name': 'international 3300', 'manufacturer': ['navistar international'], 'class': ['type c'], 'layout': ['conventional 4x2'], 'production_year': 2001, 'related': ['international durastar', 'international 3200']}
+{'name': 'lagonda 16', 'manufacturer': ['lagonda'], 'class': [], 'layout': [], 'production_year': 1932, 'related': []}
+{'name': 'land rover range rover', 'manufacturer': ['ubl'], 'class': ['luxury vehicle', 'luxury', 'sport utility vehicle', '4x4', '!-- british english generally uses the 4x4 term instead of suv --'], 'layout': ['front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive'], 'production_year': 1969, 'related': []}

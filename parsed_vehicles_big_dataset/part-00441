@@ -1,0 +1,3 @@
+{'name': 'ubl', 'manufacturer': ['tatra', 'company', 'tatra'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': 1926, 'related': []}
+{'name': 'toyota verso', 'manufacturer': ['toyota'], 'class': ['compact mpv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2009, 'related': ['toyota avensis', 't270']}
+{'name': 'woodill wildfire', 'manufacturer': ['woodill motors'], 'class': ['sports car'], 'layout': [], 'production_year': '', 'related': []}

@@ -1,0 +1,3 @@
+{'name': 'nio ec6', 'manufacturer': ['nio', 'car company', 'nio'], 'class': ['mid-size suv'], 'layout': ['dual motor', 'four-wheel drive', '4wd'], 'production_year': 2020, 'related': ['nio es6']}
+{'name': 'toyota gr yaris', 'manufacturer': ['toyota'], 'class': ['hot hatch', 'sport compact', 'b-segment'], 'layout': ['unbulleted list'], 'production_year': 2020, 'related': ['unbulleted list']}
+{'name': 'aptera solar ev', 'manufacturer': ['aptera motors'], 'class': ['ubl'], 'layout': ['2 or 3', 'wheel hub motor'], 'production_year': 2022, 'related': []}

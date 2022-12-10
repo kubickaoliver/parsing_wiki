@@ -1,0 +1,11 @@
+{'name': '4l80-e', 'manufacturer': ['general motors corporation', 'general motors'], 'class': ['4-speed', 'longitudinal engine', 'longitudinal', 'automatic transmission'], 'layout': [], 'production_year': 1991, 'related': []}
+{'name': '4t80-e', 'manufacturer': ['general motors corporation', 'general motors'], 'class': ['4-speed', 'transverse engine', 'transverse', 'automatic transmission'], 'layout': [], 'production_year': 1993, 'related': []}
+{'name': '4t40-e', 'manufacturer': ['general motors corporation', 'general motors'], 'class': ['4-speed', 'transverse engine', 'transverse', 'automatic transmission'], 'layout': [], 'production_year': 1995, 'related': []}
+{'name': '5l40-e', 'manufacturer': ['general motors corporation', 'general motors'], 'class': ['5-speed', 'longitudinal engine', 'longitudinal', 'automatic transmission'], 'layout': [], 'production_year': 1998, 'related': []}
+{'name': 'turbo-hydramatic 125', 'manufacturer': ['general motors corporation', 'general motors'], 'class': ['3-speed', 'transverse engine', 'transverse', 'automatic transmission'], 'layout': [], 'production_year': 1979, 'related': []}
+{'name': 'chrysler newport', 'manufacturer': ['chrysler', 'division', 'chrysler'], 'class': ['full-size car'], 'layout': ['fr layout'], 'production_year': 1940, 'related': ['chrysler imperial', '1940–1948', 'chrysler imperial crown']}
+{'name': 'fiat 508', 'manufacturer': ['fiat'], 'class': ['compact car', 'small family car', 'c-segment'], 'layout': ['fr layout'], 'production_year': 1932, 'related': []}
+{'name': 'toyota hz engine', 'manufacturer': ['toyota motor company'], 'class': [], 'layout': [], 'production_year': 1990, 'related': []}
+{'name': 'chrysler valiant charger', 'manufacturer': ['chrysler australia'], 'class': ['muscle car'], 'layout': ['fr layout'], 'production_year': 1971, 'related': ['chrysler valiant', 'dodge dart', 'plymouth valiant']}
+{'name': 'first generation', 'manufacturer': ['chevrolet', 'gmc', 'gmc truck & coach', '1966-1970 gmc'], 'class': ['wikitable'], 'layout': [], 'production_year': 1967, 'related': ['chevrolet c', 'chevrolet', 'gmc c', 'k medium duty', 'chevrolet bruin', 'gmc h6500', 'gmc 1966-1970']}
+{'name': 'porsche 907', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1967, 'related': []}

@@ -1,0 +1,3 @@
+{'name': 'toyota carina ii', 'manufacturer': ['toyota'], 'class': ['large family car'], 'layout': [], 'production_year': 1984, 'related': ['toyota corona']}
+{'name': 'honda rafaga', 'manufacturer': ['honda'], 'class': ['compact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1993, 'related': ['honda ascot', 'second generation', 'honda ascot', 'ce series']}
+{'name': 'honda torneo', 'manufacturer': ['honda'], 'class': ['mid-size car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1997, 'related': ['honda accord', 'sixth generation']}

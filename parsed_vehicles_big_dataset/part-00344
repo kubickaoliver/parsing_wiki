@@ -1,0 +1,3 @@
+{'name': 'grey engine', 'manufacturer': [], 'class': ['wikitable table align=right style=clear:right', 'mmargin-left: 1em'], 'layout': [], 'production_year': 1948, 'related': []}
+{'name': 'volkswagen polo g40', 'manufacturer': ['volkswagen', 'volkswagen passenger cars'], 'class': ['supermini'], 'layout': ['transverse engine', 'transverse', 'front-engine design', 'front engine', 'front-wheel drive'], 'production_year': 1987, 'related': []}
+{'name': 'toyota curren', 'manufacturer': ['toyota'], 'class': ['sport compact'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1994, 'related': ['toyota celica', 't200']}

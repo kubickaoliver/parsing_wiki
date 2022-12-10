@@ -1,0 +1,4 @@
+{'name': 'bmw 8 series', 'manufacturer': ['bmw'], 'class': ['grand tourer', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1990, 'related': []}
+{'name': 'fiat 28-40 hp', 'manufacturer': ['fiat'], 'class': ['grand prix motor racing'], 'layout': ['front-engine design'], 'production_year': 1906, 'related': []}
+{'name': 'commer fc', 'manufacturer': ['rootes group', 'chrysler europe', 'renault trucks'], 'class': [], 'layout': [], 'production_year': 1960, 'related': []}
+{'name': 'alpina b10 bi-turbo', 'manufacturer': ['alpina'], 'class': ['mid-size car', 'mid-size', 'executive car', 'e-segment'], 'layout': ['front-engine', 'rear-wheel-drive'], 'production_year': 1989, 'related': []}

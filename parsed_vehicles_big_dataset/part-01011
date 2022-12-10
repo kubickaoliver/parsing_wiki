@@ -1,0 +1,3 @@
+{'name': 'li auto one', 'manufacturer': ['li auto', 'li xiang'], 'class': ['luxury vehicle', 'luxury', 'mid-size', 'crossover suv'], 'layout': ['front-engine', 'four-wheel drive'], 'production_year': 2019, 'related': []}
+{'name': 'morgan plus four', 'manufacturer': ['morgan motor company'], 'class': ['sports car', 's-segment'], 'layout': ['fr layout'], 'production_year': 2020, 'related': []}
+{'name': 'maruti suzuki wagon r', 'manufacturer': ['suzuki'], 'class': ['city car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1999, 'related': ['suzuki wagon r', 'second', 'suzuki wagon r']}

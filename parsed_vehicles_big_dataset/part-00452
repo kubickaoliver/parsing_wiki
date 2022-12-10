@@ -1,0 +1,5 @@
+{'name': 'austin a40 countryman', 'manufacturer': ['austin motor company', 'austin', 'british motor corporation', 'bmc'], 'class': ['midsize car'], 'layout': [], 'production_year': 1948, 'related': []}
+{'name': 'austin loadstar', 'manufacturer': ['austin motor company', 'austin', 'british motor corporation', 'bmc'], 'class': [], 'layout': [], 'production_year': 1950, 'related': []}
+{'name': 'second generation', 'manufacturer': ['blue bird body company'], 'class': [], 'layout': ['front-engine 4x2', 'rear-engine 4x2'], 'production_year': '', 'related': ['blue bird wanderlodge']}
+{'name': 'alfa romeo spider', 'manufacturer': ['alfa romeo', '1966–1986', 'alfa', 'lancia', 'industriale', '1987–1991', 'fiat auto', '1991–1993'], 'class': ['sports car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1966, 'related': ['alfa romeo giulia', 'alfa romeo 105', '115 series coupés']}
+{'name': 'elfin type 3 clubman', 'manufacturer': ['elfin sports cars'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1998, 'related': []}

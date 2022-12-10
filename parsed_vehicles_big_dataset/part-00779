@@ -1,0 +1,3 @@
+{'name': 'rover 20', 'manufacturer': ['rover', 'car', 'rover', 'ref name=ta19070622'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'ref name=ta19070622'], 'production_year': 1907, 'related': []}
+{'name': 'škoda 15tr', 'manufacturer': ['škoda transportation'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'chevrolet camaro', 'manufacturer': ['chevrolet', 'general motors'], 'class': ['ubl', 'pony car', 'muscle car', 's-segment'], 'layout': ['front-engine', 'rear-wheel drive layout', 'front-engine', 'rear-wheel drive'], 'production_year': 2015, 'related': ['ubl', 'cadillac cts', 'cadillac ats', 'cadillac ct5', 'cadillac ct4']}

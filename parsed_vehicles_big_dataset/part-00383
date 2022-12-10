@@ -1,0 +1,6 @@
+{'name': 'broadway', 'manufacturer': ['broadway cyclecar co'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1913, 'related': []}
+{'name': 'cambro', 'manufacturer': ['central aircraft company'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1920, 'related': []}
+{'name': 'castle three', 'manufacturer': ['castle motor company'], 'class': ['cyclecar'], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': 1919, 'related': []}
+{'name': 'chevrolet orlando', 'manufacturer': ['general motors'], 'class': ['compact mpv'], 'layout': ['unbulleted list'], 'production_year': 2010, 'related': ['chevrolet cruze', 'first generation', 'j300', '2008', 'chevrolet cruze', 'j300', 'opel zafira tourer']}
+{'name': 'dodge phoenix', 'manufacturer': ['chrysler australia'], 'class': ['full-size car', 'full-size'], 'layout': ['fr layout'], 'production_year': 1960, 'related': ['dodge dart', 'dodge 440', 'plymouth fury']}
+{'name': 'ford f-series', 'manufacturer': ['ford motor company'], 'class': ['medium-duty', 'truck'], 'layout': ['front-engine', 'rear- or four-wheel drive'], 'production_year': 1948, 'related': []}

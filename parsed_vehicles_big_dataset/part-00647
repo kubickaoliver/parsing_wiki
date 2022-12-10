@@ -1,0 +1,2 @@
+{'name': 'chrysler vf valiant', 'manufacturer': ['chrysler australia'], 'class': [], 'layout': ['fr layout', 'ref name=tuckey'], 'production_year': 1969, 'related': ['chrysler vf vip']}
+{'name': 'k-1 attack roadster', 'manufacturer': ['k-1 engineering', 'now', 'b-racing'], 'class': ['sports car'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 2002, 'related': []}

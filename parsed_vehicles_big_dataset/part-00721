@@ -1,0 +1,3 @@
+{'name': 'lexus nx', 'manufacturer': ['lexus', 'toyota'], 'class': ['compact executive car', 'compact luxury', 'crossover suv'], 'layout': ['unbulleted list'], 'production_year': 2014, 'related': ['unbulleted list']}
+{'name': 'toyota corolla', 'manufacturer': ['toyota'], 'class': ['compact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': '', 'related': ['toyota auris', 'e180', 'toyota auris', 'e180']}
+{'name': 'ds 6', 'manufacturer': ['ds automobiles', 'citroën'], 'class': ['compact executive car', 'subcompact luxury', 'crossover suv'], 'layout': [], 'production_year': 2014, 'related': ['unbulleted list', 'citroën ds5']}

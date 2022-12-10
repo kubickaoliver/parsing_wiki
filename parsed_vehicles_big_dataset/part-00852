@@ -1,0 +1,2 @@
+{'name': 'gnome', 'manufacturer': ['gnome cars ltd', 'nomad cars ltd'], 'class': [], 'layout': ['rr layout'], 'production_year': '', 'related': []}
+{'name': 'daihatsu thor', 'manufacturer': ['daihatsu'], 'class': ['mini mpv', '!-- not a kei car since its engine is 996 cc in displacement', 'a kei car must have a maximum engine displacement of 660 cc'], 'layout': ['unbulleted list'], 'production_year': 2016, 'related': ['daihatsu boon', 'm700', 'daihatsu boon', 'm700']}

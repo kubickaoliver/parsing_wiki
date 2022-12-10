@@ -1,0 +1,4 @@
+{'name': 'renault dxi7', 'manufacturer': ['renault trucks', 'renault'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'tatra jamal evo iv', 'manufacturer': ['tatra', 'company', 'tatra'], 'class': ['truck racing', 'race truck'], 'layout': [], 'production_year': 2003, 'related': []}
+{'name': 'datsun type 11', 'manufacturer': ['datsun', 'nissan'], 'class': [], 'layout': ['fr layout'], 'production_year': 1932, 'related': []}
+{'name': 'chrysler ap5 valiant', 'manufacturer': ['chrysler australia'], 'class': [], 'layout': ['fr layout', 'ref name=tuckey'], 'production_year': 1963, 'related': ['plymouth valiant']}

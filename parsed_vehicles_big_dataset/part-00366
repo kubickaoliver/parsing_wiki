@@ -1,0 +1,10 @@
+{'name': 'ford falcon', 'manufacturer': ['ford australia'], 'class': ['full-size car', 'full-size'], 'layout': ['fr layout'], 'production_year': 2008, 'related': []}
+{'name': 'alvis three litre series iv', 'manufacturer': ['alvis cars'], 'class': [], 'layout': ['fr layout'], 'production_year': 1966, 'related': []}
+{'name': 'ford falcon', 'manufacturer': ['ford australia'], 'class': ['full-size car'], 'layout': [], 'production_year': 1982, 'related': []}
+{'name': 'game viewer vehicle', 'manufacturer': ['vehicle modification companies'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'de lorean dmc-12', 'manufacturer': ['de lorean motor company'], 'class': ['sports car'], 'layout': ['rr layout'], 'production_year': 1981, 'related': []}
+{'name': 'ford taurus', 'manufacturer': ['ford motor company', 'ford'], 'class': ['mid-size car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'ff layout'], 'production_year': 1985, 'related': ['mercury sable', 'ford taurus sho', 'lincoln continental']}
+{'name': 'ford taurus', 'manufacturer': ['ford motor company', 'ford'], 'class': ['mid-size car'], 'layout': ['ff layout'], 'production_year': 1991, 'related': ['mercury sable', 'lincoln continental', 'ford windstar']}
+{'name': 'daihatsu storia', 'manufacturer': ['daihatsu'], 'class': ['subcompact car'], 'layout': ['unbulleted list'], 'production_year': 1998, 'related': ['daihatsu yrv']}
+{'name': 'alvis tc 108g', 'manufacturer': ['alvis cars'], 'class': [], 'layout': [], 'production_year': 1956, 'related': []}
+{'name': 'mp lafer', 'manufacturer': ['lafer s'], 'class': [], 'layout': ['rr layout'], 'production_year': 1974, 'related': []}

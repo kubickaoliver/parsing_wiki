@@ -1,0 +1,3 @@
+{'name': 'chrysler valiant', 'manufacturer': ['chrysler australia'], 'class': [], 'layout': ['fr layout'], 'production_year': 1976, 'related': []}
+{'name': 'chrysler vk valiant', 'manufacturer': ['chrysler australia'], 'class': [], 'layout': ['fr layout', 'ref name=tuckey'], 'production_year': 1975, 'related': ['chrysler by chrysler']}
+{'name': 'polski fiat 621', 'manufacturer': ['państwowe zakłady inżynierii', 'pzinż'], 'class': ['medium truck'], 'layout': [], 'production_year': '', 'related': ['fiat 621']}

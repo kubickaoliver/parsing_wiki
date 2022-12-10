@@ -1,0 +1,4 @@
+{'name': 'senova x35', 'manufacturer': ['senova'], 'class': ['subcompact car', 'subcompact', 'crossover suv'], 'layout': ['ff layout'], 'production_year': 2016, 'related': []}
+{'name': 'senova x65', 'manufacturer': ['senova'], 'class': ['compact car', 'compact', 'crossover suv'], 'layout': ['ff layout'], 'production_year': 2014, 'related': ['weiwang s50', 'weiwang s60', 'borgward bx7']}
+{'name': '-- subaru suiren --', 'manufacturer': ['subaru'], 'class': [], 'layout': ['f4 layout'], 'production_year': 1993, 'related': ['subaru impreza']}
+{'name': 'porsche 992', 'manufacturer': ['porsche', 'porsche ag'], 'class': ['sports car', 's-segment'], 'layout': ['ubl'], 'production_year': 2019, 'related': []}

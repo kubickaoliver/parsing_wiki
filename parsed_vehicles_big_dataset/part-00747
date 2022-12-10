@@ -1,0 +1,3 @@
+{'name': 'vencer sarthe', 'manufacturer': ['vencer'], 'class': ['sports car', 's-segment'], 'layout': ['rmr layout'], 'production_year': '', 'related': []}
+{'name': 'skoda superb', 'manufacturer': [], 'class': ['large family car'], 'layout': ['front-engine', 'front-wheel drive layout'], 'production_year': 2015, 'related': []}
+{'name': 'bmw 5 series', 'manufacturer': ['bmw'], 'class': ['executive car'], 'layout': [], 'production_year': 2003, 'related': []}

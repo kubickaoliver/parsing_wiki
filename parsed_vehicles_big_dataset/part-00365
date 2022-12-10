@@ -1,0 +1,7 @@
+{'name': 'light twelve-four', 'manufacturer': ['austin motor company', 'austin'], 'class': [], 'layout': [], 'production_year': 1933, 'related': []}
+{'name': 'bedford ha', 'manufacturer': ['bedford vehicles', 'bedford', 'vauxhall motors'], 'class': ['light commercial vehicle'], 'layout': ['longitudinal engine', 'longitudinal', 'front engine', 'rear-wheel drive'], 'production_year': 1963, 'related': ['ubl', 'vauxhall viva', 'vauxhall viva', 'bedford beagle', 'btv', 'general motors btv']}
+{'name': 'tatra 57', 'manufacturer': ['tatra', 'company', 'závody tatra'], 'class': ['compact car'], 'layout': ['fr layout'], 'production_year': 1932, 'related': ['austro-tatra', 'austro-tatra 57 l']}
+{'name': 'tatra 75', 'manufacturer': ['tatra', 'company', 'tatra'], 'class': [], 'layout': ['fr layout'], 'production_year': 1933, 'related': []}
+{'name': 'britannia', 'manufacturer': ['britannia engineering co', 'ltd'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1913, 'related': []}
+{'name': 'warne 8', 'manufacturer': ['pearsall warne ltd'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1912, 'related': []}
+{'name': 'hillman 14 hp', 'manufacturer': ['hillman', 'hillman motor car co ltd', 'ref name=tt44090', 'the motor show', 'the times', 'monday', 'oct 12', '1925', 'issue 44090', 'ref'], 'class': ['mid-size', 'large family car', 'd-segment'], 'layout': ['front engine rear wheel drive', 'ref name=tt48368'], 'production_year': 1925, 'related': []}

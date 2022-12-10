@@ -1,0 +1,4 @@
+{'name': 'mclaren 12c', 'manufacturer': ['mclaren automotive'], 'class': ['sports car', 's-segment'], 'layout': ['longitudinal engine', 'longitudinal', 'rear mid-engine', 'rear-wheel drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 2011, 'related': ['mclaren 650s', 'mclaren p1']}
+{'name': 'willys americar', 'manufacturer': ['willys-overland motors'], 'class': ['compact car', 'compact'], 'layout': ['fr layout'], 'production_year': 1937, 'related': []}
+{'name': 'toyota nr engine', 'manufacturer': ['toyota'], 'class': [], 'layout': [], 'production_year': 2008, 'related': []}
+{'name': 'ford b series', 'manufacturer': ['ford motor company', 'ford'], 'class': ['truck classification', 'class 6', 'class 6', 'medium duty'], 'layout': ['4x2'], 'production_year': 1948, 'related': ['ford f-series', 'medium duty truck', 'ford f-series', 'medium duty']}

@@ -1,0 +1,3 @@
+{'name': 'mg 7', 'manufacturer': ['mg motor'], 'class': ['mid-size car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2007, 'related': ['ubl', 'mg zt', 'rover 75', 'roewe 750']}
+{'name': 'perodua rusa', 'manufacturer': ['perodua'], 'class': ['microvan'], 'layout': [], 'production_year': 1996, 'related': ['daihatsu zebra', 's90', 'daihatsu zebra', 's90']}
+{'name': 'toyota a1', 'manufacturer': ['toyota'], 'class': ['medium size family car'], 'layout': ['front-engine', 'rear-wheel drive layout', 'fr layout'], 'production_year': 1935, 'related': ['toyota g1']}

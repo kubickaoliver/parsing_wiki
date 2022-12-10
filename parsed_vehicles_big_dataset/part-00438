@@ -1,0 +1,4 @@
+{'name': 'zhong tai', 'manufacturer': ['new power'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'daimler db18', 'manufacturer': ['daimler company', 'the daimler company limited'], 'class': ['executive car', 'e-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': 1939, 'related': []}
+{'name': 'devon gtx', 'manufacturer': [], 'class': ['sports car', 's-segment'], 'layout': ['fr layout'], 'production_year': 2009, 'related': ['dodge viper', 'zb ii', 'dodge viper', 'bristol fighter', 'automobile', 'bristol fighter', 'chrysler firepower', 'alfa romeo giulia tz', 'tz3', 'alfa romeo zagato tz3']}
+{'name': 'nissan primera', 'manufacturer': ['nissan'], 'class': ['mid-size car', 'mid-size', 'large family car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1990, 'related': []}

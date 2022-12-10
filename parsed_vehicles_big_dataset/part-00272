@@ -1,0 +1,3 @@
+{'name': 'mg q-type', 'manufacturer': ['car'], 'class': ['racing car'], 'layout': [], 'production_year': 1934, 'related': []}
+{'name': 'daihatsu tanto', 'manufacturer': ['daihatsu'], 'class': ['kei car'], 'layout': ['unbulleted list'], 'production_year': 2003, 'related': ['daihatsu tanto exe']}
+{'name': 'daihatsu taft', 'manufacturer': ['daihatsu'], 'class': ['unbulleted list'], 'layout': ['front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive'], 'production_year': 1974, 'related': []}

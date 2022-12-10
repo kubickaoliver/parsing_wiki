@@ -1,0 +1,2 @@
+{'name': 'oscar', 'manufacturer': ['ole sommer'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': '', 'related': []}
+{'name': 'chevrolet silverado ev', 'manufacturer': ['general motors'], 'class': ['full-size car', 'full-size', 'pickup truck'], 'layout': ['unbulleted list'], 'production_year': 2023, 'related': ['gmc hummer ev']}

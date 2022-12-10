@@ -1,0 +1,4 @@
+{'name': 'morris marshal', 'manufacturer': ['british motor corporation', 'australia'], 'class': [], 'layout': [], 'production_year': 1957, 'related': []}
+{'name': 'tvr t350', 'manufacturer': ['tvr'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'rear-wheel drive layout', 'front-engine', 'rear-wheel drive'], 'production_year': 2002, 'related': ['tvr tamora']}
+{'name': 'chrysler cirrus', 'manufacturer': ['chrysler corporation', 'daimlerchrysler', 'chrysler llc'], 'class': ['mid-size'], 'layout': ['ff layout'], 'production_year': 1995, 'related': ['dodge stratus', 'plymouth breeze']}
+{'name': 'hulme f1', 'manufacturer': ['hulme supercars ltd'], 'class': ['sports car'], 'layout': [], 'production_year': 2020, 'related': []}

@@ -1,0 +1,3 @@
+{'name': 'tatra 2-603', 'manufacturer': ['tatra', 'car', 'tatra'], 'class': [], 'layout': [], 'production_year': 1962, 'related': []}
+{'name': 'vauxhall velox', 'manufacturer': ['vauxhall motors', 'vauxhall', 'general motors'], 'class': ['executive car'], 'layout': ['fr layout'], 'production_year': 1948, 'related': ['vauxhall wyvern', '1948–1957', 'vauxhall cresta', '1954–1972']}
+{'name': 'land rover range rover evoque', 'manufacturer': ['ubl', 'land rover ltd', '2011–2012', 'jaguar land rover', '2013–present'], 'class': ['luxury vehicle', 'premium compact', 'compact luxury', 'crossover', 'automobile', 'crossover suv'], 'layout': ['ubl'], 'production_year': 2011, 'related': ['ubl']}

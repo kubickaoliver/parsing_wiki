@@ -1,0 +1,7 @@
+{'name': 'austin sixteen', 'manufacturer': ['austin motor company', 'austin'], 'class': [], 'layout': [], 'production_year': 1945, 'related': []}
+{'name': 'renault wind', 'manufacturer': ['renault'], 'class': ['roadster', 'automobile', 'roadster', 's-segment'], 'layout': ['ff layout'], 'production_year': 2010, 'related': []}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1999, 'related': ['chevrolet venture', 'oldsmobile silhouette', 'pontiac montana', 'pontiac trans sport', 'opel sintra', 'opel', 'vauxhall sintra']}
+{'name': 'mercedes-benz 500 e', 'manufacturer': ['daimler ag', 'daimler-benz', 'and', 'porsche'], 'class': ['executive car'], 'layout': [], 'production_year': 1991, 'related': ['mercedes-benz w124']}
+{'name': 'chevrolet corvette', 'manufacturer': ['chevrolet', 'general motors'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['front mid-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive'], 'production_year': 2004, 'related': ['cadillac xlr']}
+{'name': 'chevrolet cobalt ss', 'manufacturer': ['chevrolet', 'general motors'], 'class': ['sport compact'], 'layout': ['ff layout'], 'production_year': '', 'related': ['plainlist']}
+{'name': 'mercury meta one', 'manufacturer': ['mercury', 'automobile', 'mercury', 'ford motor company', 'ford'], 'class': ['luxury', 'crossover suv'], 'layout': ['ff layout'], 'production_year': 2005, 'related': ['ford taurus x', 'ford freestyle']}

@@ -1,0 +1,3 @@
+{'name': 'tata evision', 'manufacturer': ['tata motors'], 'class': ['compact car', 'c-segment'], 'layout': ['front-engine', 'all-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2018, 'related': []}
+{'name': 'ferguson te20', 'manufacturer': ['ferguson company'], 'class': [], 'layout': [], 'production_year': 1946, 'related': []}
+{'name': 'cupra formentor', 'manufacturer': ['seat cupra', 'cupra', 'seat'], 'class': ['compact crossover suv', 'c-segment'], 'layout': ['front-engine', 'front-wheel drive', 'front-engine', 'four-wheel-drive layout', 'all-wheel drive'], 'production_year': 2020, 'related': ['seat león', 'mk4', 'seat león mk4']}

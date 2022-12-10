@@ -1,0 +1,5 @@
+{'name': 'chevrolet series c classic six', 'manufacturer': ['chevrolet'], 'class': ['full-size'], 'layout': ['fr layout'], 'production_year': 1911, 'related': ['little', 'automobile', 'the little automobile']}
+{'name': 'bmw 3 series', 'manufacturer': ['bmw'], 'class': ['compact executive car', 'd-segment'], 'layout': ['ubl'], 'production_year': 2011, 'related': ['ubl', 'bmw 4 series', 'f32']}
+{'name': 'great wall deer', 'manufacturer': ['great wall motors'], 'class': ['pickup truck'], 'layout': [], 'production_year': 1996, 'related': ['great wall safe']}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': ['front-engine design', 'front engine', 'rear-wheel drive'], 'production_year': 1952, 'related': []}
+{'name': 'chevrolet series 490', 'manufacturer': ['chevrolet motor company', 'pre-gm'], 'class': ['mid-size'], 'layout': ['fr layout'], 'production_year': 1915, 'related': ['chevrolet series d']}

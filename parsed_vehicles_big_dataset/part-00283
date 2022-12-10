@@ -1,0 +1,7 @@
+{'name': 'holden hq', 'manufacturer': ['holden', 'general motors'], 'class': [], 'layout': ['fr layout'], 'production_year': 1971, 'related': ['holden belmont', 'holden kingswood', 'holden premier', 'statesman hq', 'holden one tonner', 'holden ss', 'hq ss', 'holden ss', 'holden sandman']}
+{'name': 'triumph 20ts', 'manufacturer': ['triumph motor company', '1945'], 'class': ['sports car'], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': 1952, 'related': ['triumph tr2']}
+{'name': 'chevrolet corvette c6', 'manufacturer': ['chevrolet', 'general motors'], 'class': ['group gt1', 'gt1', 'lm gte', 'fia gt2'], 'layout': [], 'production_year': 2005, 'related': []}
+{'name': 'jensen 541', 'manufacturer': ['jensen motors', 'jensen'], 'class': ['grand tourer'], 'layout': [], 'production_year': 1954, 'related': []}
+{'name': 'umm alter 2000', 'manufacturer': ['umm', 'união metalo-mecânica', 'umm'], 'class': ['off road vehicle'], 'layout': ['fr layout', 'all wheel drive'], 'production_year': 2000, 'related': []}
+{'name': 'striker', 'manufacturer': ['oshkosh corporation'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'marshall capital', 'manufacturer': ['marshall bus'], 'class': [], 'layout': [], 'production_year': 1996, 'related': []}

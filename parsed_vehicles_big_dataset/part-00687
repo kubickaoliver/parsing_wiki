@@ -1,0 +1,5 @@
+{'name': 'chrysler cm valiant', 'manufacturer': ['chrysler australia', 'ref name=unique', 'http:', 'www', 'uniquecarsandparts', 'com', 'car_info_chrysler_valiant_cm', 'htm chrysler valiant cm', 'www', 'uniquecarsandparts', 'com', 'retrieved on 9 august 2013', 'ref', 'mitsubishi australia', 'ref name=unique'], 'class': [], 'layout': ['fr layout', 'ref name=tuckey_172'], 'production_year': 1978, 'related': []}
+{'name': 'allard m', 'manufacturer': ['allard motor company'], 'class': [], 'layout': [], 'production_year': 1947, 'related': ['allard p1']}
+{'name': 'allard m2', 'manufacturer': ['allard motor company'], 'class': [], 'layout': [], 'production_year': 1951, 'related': []}
+{'name': 'proton suprima s', 'manufacturer': ['proton holdings', 'proton'], 'class': ['compact car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel drive'], 'production_year': 2013, 'related': ['proton prevé']}
+{'name': 'peugeot 208 t16', 'manufacturer': ['peugeot', 'peugeot sport'], 'class': ['group r'], 'layout': ['4-wheel drive'], 'production_year': 2014, 'related': ['citroën ds3 wrc', 'citroën ds3 r5', 'citroën c3 r5']}

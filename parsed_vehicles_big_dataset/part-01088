@@ -1,0 +1,7 @@
+{'name': 'stoewer sedina', 'manufacturer': ['stoewer'], 'class': ['executive car'], 'layout': [], 'production_year': 1937, 'related': ['stoewer arkona']}
+{'name': 'stoewer 10 ps', 'manufacturer': ['stoewer'], 'class': ['car'], 'layout': [], 'production_year': 1901, 'related': []}
+{'name': 'stoewer arkona', 'manufacturer': ['stoewer'], 'class': ['executive car'], 'layout': [], 'production_year': 1937, 'related': ['stoewer sedina']}
+{'name': 'cyklonetka', 'manufacturer': [], 'class': ['three-wheeler', 'cyclecar'], 'layout': [], 'production_year': 1939, 'related': []}
+{'name': 'mack ac', 'manufacturer': ['mack trucks'], 'class': ['-ton', '-ton or 7', '-ton'], 'layout': [], 'production_year': 1916, 'related': []}
+{'name': 'großer stoewer motorwagen', 'manufacturer': ['stoewer'], 'class': ['car', 'passenger car'], 'layout': [], 'production_year': 1899, 'related': []}
+{'name': 'brilliance tun', 'manufacturer': [], 'class': ['city car', 'a-segment'], 'layout': ['ff layout'], 'production_year': 2014, 'related': []}

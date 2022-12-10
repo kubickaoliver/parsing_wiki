@@ -1,0 +1,4 @@
+{'name': '1wz', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'skywell d11', 'manufacturer': ['nanjing golden dragon bus'], 'class': [], 'layout': [], 'production_year': 2015, 'related': ['king long jockey', 'mercedes-benz sprinter', 'volkswagen crafter', 'lt3']}
+{'name': 'mg cyberster', 'manufacturer': ['saic motor', 'mg motor'], 'class': ['concept car'], 'layout': ['ubl'], 'production_year': '', 'related': []}
+{'name': 'wuling zhengtu', 'manufacturer': ['saic-gm-wuling'], 'class': ['pickup truck', 'mid-size pickup truck'], 'layout': ['front-engine', 'rear-wheel-drive'], 'production_year': 2021, 'related': []}

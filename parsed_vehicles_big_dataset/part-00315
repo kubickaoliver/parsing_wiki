@@ -1,0 +1,3 @@
+{'name': 'citroën rosalie', 'manufacturer': ['citroën'], 'class': ['executive car', 'e-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': 1932, 'related': []}
+{'name': 'lancia augusta', 'manufacturer': ['lancia'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1933, 'related': []}
+{'name': 'honda fcx clarity', 'manufacturer': ['honda'], 'class': ['mid-size'], 'layout': ['ff layout'], 'production_year': 2008, 'related': []}

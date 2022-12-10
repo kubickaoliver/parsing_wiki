@@ -1,0 +1,4 @@
+{'name': 'wey mocha', 'manufacturer': ['great wall motor'], 'class': ['executive car', 'mid-size luxury', 'crossover suv'], 'layout': ['front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'all-wheel-drive'], 'production_year': 2021, 'related': []}
+{'name': 'ford evos', 'manufacturer': ['ford motor company', 'ford'], 'class': ['mid-size crossover suv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2021, 'related': ['ford mondeo', 'fifth generation', 'lincoln zephyr', 'china']}
+{'name': 'wuling asta', 'manufacturer': ['saic-gm-wuling'], 'class': ['compact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2021, 'related': ['unbulleted list']}
+{'name': 'tornado intercept vehicle 2', 'manufacturer': [], 'class': ['second generation storm research vehicle'], 'layout': [], 'production_year': '', 'related': []}

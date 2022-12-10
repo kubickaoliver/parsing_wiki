@@ -1,0 +1,7 @@
+{'name': 'jensen 541r', 'manufacturer': ['jensen motors', 'jensen'], 'class': ['grand tourer'], 'layout': [], 'production_year': 1957, 'related': []}
+{'name': 'ford model 7w', 'manufacturer': ['ford of britain', 'ford uk'], 'class': [], 'layout': [], 'production_year': 1937, 'related': []}
+{'name': 'ford 300', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1963, 'related': []}
+{'name': 'fiat 500', 'manufacturer': ['fiat', 'efn', 'name=manufacturer', 'ubl', 'fiat group automobiles', '2007–2014', 'fiat chrysler automobiles', '2014–2021', 'stellantis', '2021–present'], 'class': ['city car', 'a-segment'], 'layout': ['front-engine', 'front-wheel drive layout', 'front-engine', 'front-wheel drive'], 'production_year': 2007, 'related': ['fiat panda', 'fiat uno', 'ford ka', 'lancia ypsilon']}
+{'name': 'bond minicar', 'manufacturer': ['sharp', 's commercials ltd'], 'class': ['microcar'], 'layout': ['ff layout'], 'production_year': 1949, 'related': []}
+{'name': 'austin twelve 1660 cc & 1861 cc', 'manufacturer': ['austin motor company', 'austin'], 'class': [], 'layout': [], 'production_year': 1921, 'related': []}
+{'name': 'first generation', 'manufacturer': ['chevrolet', 'general motors'], 'class': ['full-size'], 'layout': ['fr layout'], 'production_year': '', 'related': ['buick estate', 'chevrolet biscayne', 'chevrolet bel air', 'chevrolet impala', 'chevrolet brookwood', 'chevrolet parkwood', 'chevrolet nomad', 'chevrolet el camino', 'oldsmobile fiesta', 'pontiac safari']}

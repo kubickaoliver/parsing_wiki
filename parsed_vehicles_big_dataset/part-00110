@@ -1,0 +1,6 @@
+{'name': 'ford fairlane', 'manufacturer': ['ford motor company', 'ford'], 'class': ['full-size', '1955–1961', 'mid-size', '1962–1970'], 'layout': ['fr layout'], 'production_year': 1955, 'related': ['mercury monterey', '1955–1956', 'mercury monterey', 'ford mainline', 'ford customline', 'ford ranch wagon', 'ford country sedan', 'ford country squire', 'ford parklane', 'ford courier']}
+{'name': 'ford fairlane', 'manufacturer': ['ford australia'], 'class': ['full-size luxury car'], 'layout': [], 'production_year': 1959, 'related': ['ford falcon', 'australia']}
+{'name': 'triumph tr4a', 'manufacturer': ['triumph motor company'], 'class': ['sports car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front engine', 'rear wheel drive'], 'production_year': 1965, 'related': []}
+{'name': 'napier-bentley', 'manufacturer': [], 'class': [], 'layout': ['fr layout'], 'production_year': 1972, 'related': []}
+{'name': 'alexander dennis enviro400', 'manufacturer': ['alexander dennis'], 'class': [], 'layout': [], 'production_year': 2005, 'related': []}
+{'name': 'fiat 124 sport spider', 'manufacturer': ['fiat automobiles', 'fiat', '1966–1981', 'pininfarina', '1981–1985'], 'class': ['sports car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1966, 'related': ['fiat 124']}

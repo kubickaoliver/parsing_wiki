@@ -1,0 +1,3 @@
+{'name': 'zagato iso rivolta gtz', 'manufacturer': ['iso automoveicoli s', 'zagato'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive layout', 'front-mid engine', 'rear-wheel-drive'], 'production_year': 2021, 'related': ['chevrolet corvette', 'z06', 'chevrolet corvette c7 z06']}
+{'name': 'zunder 1500', 'manufacturer': ['industrias del transporte automotor'], 'class': ['compact car'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 1960, 'related': ['plainlist']}
+{'name': 'hyundai i-oniq', 'manufacturer': ['hyundai motor corporation'], 'class': [], 'layout': [], 'production_year': '', 'related': []}

@@ -1,0 +1,8 @@
+{'name': 'daf xf', 'manufacturer': ['daf trucks', 'daf'], 'class': ['large goods vehicle'], 'layout': [], 'production_year': 1997, 'related': ['daf cf']}
+{'name': 'scania four-series', 'manufacturer': ['scania ab', 'scania'], 'class': ['heavy truck'], 'layout': [], 'production_year': 1995, 'related': []}
+{'name': 'toyota pz engine', 'manufacturer': ['toyota motor company'], 'class': [], 'layout': [], 'production_year': 1990, 'related': []}
+{'name': 'toyota nd engine', 'manufacturer': ['toyota'], 'class': [], 'layout': [], 'production_year': 2002, 'related': []}
+{'name': 'toyota n engine', 'manufacturer': ['toyota motor corporation'], 'class': [], 'layout': [], 'production_year': 1986, 'related': []}
+{'name': 'dkw monza', 'manufacturer': ['dkw'], 'class': ['sports car', 's-segment'], 'layout': ['longitudinal engine', 'longitudinal', 'front-engine', 'front-wheel-drive'], 'production_year': 1956, 'related': ['auto union 1000 sp']}
+{'name': 'ford freestyle', 'manufacturer': ['ford motor company', 'ford'], 'class': ['full-size car', 'full-size', 'crossover suv'], 'layout': ['front-engine', 'front-wheel drive layout', 'front-engine', 'front-wheel drive', 'front-engine', 'four-wheel drive layout', 'four-wheel drive'], 'production_year': 2005, 'related': ['ford taurus', 'ford five hundred', 'taurus', 'mercury sable', 'mercury montego', 'sable']}
+{'name': 'honker', 'manufacturer': ['fsr', '1988-1996', 'fabryka samochodów ciężarowych', 'daewoo motor polska', '1996-2001', 'andoria-mot', '2002-2003', 'intrall', '2003-2007', 'fs honker', '2009-2016', 'dzt tymińscy'], 'class': ['off-road vehicle'], 'layout': ['4x4'], 'production_year': 1988, 'related': []}

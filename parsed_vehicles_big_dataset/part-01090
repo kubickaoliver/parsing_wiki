@@ -1,0 +1,7 @@
+{'name': 'kia provo', 'manufacturer': ['kia'], 'class': ['subcompact car', 'b-segment'], 'layout': ['front-engine', 'four-wheel drive layout', 'front-engine', 'four-wheel drive'], 'production_year': 2013, 'related': []}
+{'name': 'kia naimo', 'manufacturer': ['kia'], 'class': ['subcompact suv', 'b-segment'], 'layout': [], 'production_year': 2011, 'related': []}
+{'name': 'kia imagine', 'manufacturer': ['kia motors'], 'class': ['compact suv', 'c-segment'], 'layout': [], 'production_year': 2019, 'related': []}
+{'name': 'fiat fcc adventure', 'manufacturer': ['fiat', 'fiat brazil'], 'class': ['compact suv', 'c-segment'], 'layout': ['front-engine', 'front-wheel drive layout', 'front-engine', 'front-wheel drive'], 'production_year': 2006, 'related': ['fiat stilo']}
+{'name': 'kia cub', 'manufacturer': ['kia motors'], 'class': ['subcompact car', 'b-segment'], 'layout': ['front-engine', 'four-wheel drive layout', 'front-engine', 'four-wheel drive'], 'production_year': 2013, 'related': []}
+{'name': 'changli zyx nemeca freeman', 'manufacturer': ['changzhou changli vehicle factory'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'chevrolet tru 140s', 'manufacturer': ['chevrolet'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'front-wheel drive layout', 'front-engine', 'front-wheel drive'], 'production_year': 2012, 'related': ['chevrolet cruze', 'first generation', 'j300', '2008', 'chevrolet cruze', 'chevrolet volt', 'first generation', '2010–2015', 'chevrolet volt', 'opel astra j']}

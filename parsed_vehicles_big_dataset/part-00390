@@ -1,0 +1,4 @@
+{'name': 'allis-chalmers one-ninety xt', 'manufacturer': ['allis-chalmers'], 'class': [], 'layout': [], 'production_year': 1964, 'related': []}
+{'name': 'mahindra major', 'manufacturer': ['mahindra & mahindra'], 'class': ['compact suv'], 'layout': ['front engine', 'two-wheel drive', 'four-wheel drive'], 'production_year': 2000, 'related': []}
+{'name': 'melling wildcat', 'manufacturer': ['al melling', 'melling wildcat', 'al melling sports cars'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': 2008, 'related': ['tvr griffith', 'first generation', '1991-2002', 'tvr griffith', 'first generation']}
+{'name': 'sportster', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}

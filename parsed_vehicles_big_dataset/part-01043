@@ -1,0 +1,5 @@
+{'name': 'king long kaige', 'manufacturer': [], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2013, 'related': ['higer h5c', 'toyota hiace']}
+{'name': 'king long jockey', 'manufacturer': ['king long'], 'class': [], 'layout': [], 'production_year': 2014, 'related': ['skywell d11', 'mercedes-benz sprinter', 'volkswagen crafter', 'lt3']}
+{'name': 'king long jinwei', 'manufacturer': [], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'four-wheel drive'], 'production_year': 1995, 'related': []}
+{'name': 'honda avancier', 'manufacturer': ['honda'], 'class': ['mid-size crossover suv'], 'layout': ['unbulleted list'], 'production_year': 2016, 'related': ['honda accord']}
+{'name': 'terradyne', 'manufacturer': ['gmc', 'automobile', 'gmc', 'general motors'], 'class': ['compact suv', 'compact', 'crossover', 'automobile', 'crossover suv'], 'layout': ['front-engine design', 'front engine', 'rear-wheel drive'], 'production_year': 2008, 'related': []}

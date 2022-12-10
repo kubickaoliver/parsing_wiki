@@ -1,0 +1,13 @@
+{'name': 'maserati v-12 engine', 'manufacturer': ['flagicon', 'italy', 'maserati'], 'class': [], 'layout': [], 'production_year': 1951, 'related': []}
+{'name': 'auto union', 'manufacturer': ['flagicon', 'germany', 'auto union'], 'class': [], 'layout': [], 'production_year': 1934, 'related': []}
+{'name': 'isuzu amaterasu', 'manufacturer': ['isuzu'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel drive'], 'production_year': 2020, 'related': ['iveco stralis']}
+{'name': 'porsche', 'manufacturer': ['flagicon', 'germany', 'flagicon', 'italy', 'porsche', 'cisitalia'], 'class': [], 'layout': [], 'production_year': 1946, 'related': []}
+{'name': 'porsche', 'manufacturer': ['flagicon', 'germany', 'porsche'], 'class': [], 'layout': [], 'production_year': 1969, 'related': []}
+{'name': 'honda', 'manufacturer': ['honda', 'judd', 'engine', 'judd'], 'class': [], 'layout': [], 'production_year': 1985, 'related': []}
+{'name': 'raesor s50t', 'manufacturer': ['changan automobile'], 'class': ['multi-purpose vehicle', 'mpv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2018, 'related': []}
+{'name': 'caparo vehicle technologies', 'manufacturer': ['team menard', 'menard', 'nissan'], 'class': [], 'layout': [], 'production_year': 2006, 'related': []}
+{'name': 'pininfarina teorama', 'manufacturer': ['pininfarina'], 'class': [], 'layout': ['electric', 'skateboard', 'automotive platform', 'skateboard chassis'], 'production_year': '', 'related': []}
+{'name': 'aston martin', 'manufacturer': ['aston martin'], 'class': [], 'layout': [], 'production_year': 1999, 'related': []}
+{'name': 'aston martin', 'manufacturer': ['aston martin'], 'class': [], 'layout': [], 'production_year': 1969, 'related': []}
+{'name': 'rezvani tank', 'manufacturer': ['rezvani motors'], 'class': ['mid-size suv'], 'layout': ['unbulleted list'], 'production_year': 2017, 'related': []}
+{'name': 'bmw i vision circular', 'manufacturer': ['bmw'], 'class': ['concept car'], 'layout': [], 'production_year': 2021, 'related': []}

@@ -1,0 +1,3 @@
+{'name': 'austin freeway', 'manufacturer': ['bmc australia'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': 1962, 'related': []}
+{'name': 'toyota vd engine', 'manufacturer': ['toyota'], 'class': [], 'layout': [], 'production_year': 2007, 'related': []}
+{'name': 'dkw schnellaster', 'manufacturer': ['dkw', 'auto union'], 'class': ['light commercial vehicle'], 'layout': ['front-engine', 'front-wheel-drive layout', 'fwd layout'], 'production_year': 1949, 'related': []}

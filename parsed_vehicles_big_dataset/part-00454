@@ -1,0 +1,4 @@
+{'name': 'willys hurricane engine', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'inspiration', 'manufacturer': ['british steam car challenge'], 'class': ['land speed record', 'land speed record', 'steam'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'vauxhall 25', 'manufacturer': ['vauxhall motors', 'vauxhall'], 'class': [], 'layout': ['fr layout'], 'production_year': 1912, 'related': []}
+{'name': 'vauxhall 27', 'manufacturer': ['vauxhall motors', 'vauxhall'], 'class': [], 'layout': ['fr layout'], 'production_year': 1910, 'related': []}

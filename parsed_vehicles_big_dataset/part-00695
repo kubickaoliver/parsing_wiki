@@ -1,0 +1,3 @@
+{'name': 'brubaker box', 'manufacturer': ['automecca', 'brubaker', 'various'], 'class': ['kit car', 'minivan'], 'layout': ['longitudinal engine', 'longitudinal', 'rear-engine design', 'rear engine', 'rear-wheel drive'], 'production_year': '', 'related': []}
+{'name': 'mercedes-benz 320a', 'manufacturer': ['mercedes-benz'], 'class': ['sports car'], 'layout': ['front mid-engine', 'rear-wheel drive layout', 'fmr layout'], 'production_year': 1938, 'related': []}
+{'name': 'jaguar r-d6', 'manufacturer': ['jaguar cars'], 'class': ['compact executive car', 'd-segment'], 'layout': ['front-engine design', 'front-engine', 'rear-wheel-drive'], 'production_year': 2003, 'related': ['jaguar x-type']}

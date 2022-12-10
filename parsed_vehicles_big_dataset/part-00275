@@ -1,0 +1,5 @@
+{'name': 'jaguar xjr-11', 'manufacturer': ['jaguar', 'car', 'jaguar cars'], 'class': ['racing car'], 'layout': ['rmr layout'], 'production_year': 1989, 'related': []}
+{'name': 'smz cyclecar', 'manufacturer': ['seaz'], 'class': ['city car', 'a-segment'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-engine', 'rear-wheel-drive'], 'production_year': 1958, 'related': []}
+{'name': 'lorraine', 'manufacturer': ['lorraine motors corporation'], 'class': [], 'layout': [], 'production_year': 1920, 'related': []}
+{'name': 'zil-130', 'manufacturer': ['zil', 'zil'], 'class': ['truck'], 'layout': [], 'production_year': 1962, 'related': ['zil-131', 'amur-531350']}
+{'name': 'chevrolet traverse', 'manufacturer': ['general motors'], 'class': ['full-size crossover suv'], 'layout': ['ubl'], 'production_year': 2008, 'related': ['buick enclave', 'gmc acadia', 'saturn outlook']}

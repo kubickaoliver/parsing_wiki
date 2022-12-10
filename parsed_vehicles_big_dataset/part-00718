@@ -1,0 +1,4 @@
+{'name': 'renault vivasport', 'manufacturer': ['renault'], 'class': ['compact executive car'], 'layout': ['fr layout'], 'production_year': 1933, 'related': ['renault primastella', 'renault vivastella']}
+{'name': 'gaz-3307', 'manufacturer': ['gaz', 'gorky automobile plant'], 'class': ['medium', 'truck'], 'layout': ['fr layout'], 'production_year': 1989, 'related': []}
+{'name': 'bmw b48', 'manufacturer': ['bmw'], 'class': ['wikitable sortable style=text-align: center'], 'layout': [], 'production_year': 2014, 'related': []}
+{'name': 'indian powerplus engine', 'manufacturer': ['hendee manufacturing company'], 'class': [], 'layout': [], 'production_year': 1916, 'related': []}

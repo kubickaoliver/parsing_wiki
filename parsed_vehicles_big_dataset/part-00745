@@ -1,0 +1,3 @@
+{'name': 'rolls-royce wraith', 'manufacturer': ['rolls-royce motor cars'], 'class': ['full-size luxury car', 'f-segment', 'grand tourer', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': 2013, 'related': ['ubl']}
+{'name': 'subaru legacy', 'manufacturer': ['subaru', 'subaru corporation'], 'class': ['wikitable'], 'layout': ['f4 layout', 'front-engine', 'all-wheel-drive'], 'production_year': 2014, 'related': ['subaru tribeca', 'subaru exiga', 'subaru levorg']}
+{'name': 'wuling sunshine i', 'manufacturer': ['saic-gm-wuling automobile'], 'class': ['microvan'], 'layout': [], 'production_year': 2002, 'related': []}

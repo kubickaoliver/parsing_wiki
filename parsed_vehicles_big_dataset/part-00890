@@ -1,0 +1,4 @@
+{'name': 'ferrari portofino', 'manufacturer': ['ferrari'], 'class': ['grand tourer', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar'], 'layout': ['front mid-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive'], 'production_year': 2017, 'related': ['ferrari roma']}
+{'name': 'mazda cx-4', 'manufacturer': ['mazda', 'faw group', 'faw'], 'class': ['compact crossover suv'], 'layout': ['plainlist'], 'production_year': 2016, 'related': ['mazda3', 'mazda3', 'mazda cx-5']}
+{'name': 'mercedes-benz e-class', 'manufacturer': ['beijing benz'], 'class': ['mid-size', 'luxury car', 'executive car'], 'layout': ['fr layout'], 'production_year': 2016, 'related': []}
+{'name': 'bmw 6 series', 'manufacturer': ['bmw'], 'class': ['executive car', 'e-segment'], 'layout': ['fr layout', 'f4 layout', 'xdrive'], 'production_year': 2017, 'related': ['bmw 5 series', 'g30']}

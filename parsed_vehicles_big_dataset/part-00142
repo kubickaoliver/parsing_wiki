@@ -1,0 +1,13 @@
+{'name': 'jensen cv8', 'manufacturer': ['jensen motors', 'jensen'], 'class': ['grand tourer'], 'layout': ['front-engine', 'rear-wheel-drive'], 'production_year': 1962, 'related': ['engine and transmission', '1962', 'chrysler 300 letter series', '1962 300h', 'chrysler 300h']}
+{'name': 'jeep tornado', 'manufacturer': ['ubl', 'kaiser-jeep', 'industrias kaiser argentina', 'ika', 'renault argentina'], 'class': [], 'layout': [], 'production_year': 1962, 'related': []}
+{'name': 'file:groupe psa logo', 'manufacturer': ['française de mécanique'], 'class': ['wikitable style=text-align:center', 'font-size:90%'], 'layout': [], 'production_year': 1974, 'related': []}
+{'name': 'mercedes-benz mb90-mb180', 'manufacturer': ['ubl'], 'class': ['light commercial vehicle', 'm-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'ff layout'], 'production_year': 1980, 'related': []}
+{'name': 'mg p-type', 'manufacturer': ['car'], 'class': ['sports car'], 'layout': [], 'production_year': 1934, 'related': []}
+{'name': 'reliant sabre', 'manufacturer': ['reliant'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1961, 'related': []}
+{'name': 'bedford beagle', 'manufacturer': ['bedford vehicles'], 'class': ['campervan'], 'layout': ['longitudinal engine', 'longitudinal', 'front engine', 'rear-wheel drive'], 'production_year': 1964, 'related': ['bedford ha']}
+{'name': 'file:groupe psa logo', 'manufacturer': ['psa peugeot citroën', 'psa'], 'class': ['wikitable'], 'layout': [], 'production_year': 1982, 'related': []}
+{'name': 'isuzu panther', 'manufacturer': ['isuzu'], 'class': ['unbulleted list'], 'layout': ['unbulleted list'], 'production_year': 1991, 'related': ['unbulleted list']}
+{'name': 'ec engine', 'manufacturer': ['psa peugeot citroën'], 'class': ['wikitable'], 'layout': [], 'production_year': 1986, 'related': []}
+{'name': 'lincoln mkx', 'manufacturer': ['the lincoln motor company', 'lincoln'], 'class': ['mid-size', 'luxury car', 'luxury', 'crossover suv'], 'layout': ['front-engine design', 'front engine', 'front-wheel drive', 'four-wheel drive'], 'production_year': 2006, 'related': ['ford edge']}
+{'name': 'psa prince engine', 'manufacturer': ['psa peugeot citroën', 'and', 'bmw'], 'class': ['wikitable sortable style=text-align: center'], 'layout': [], 'production_year': 2006, 'related': []}
+{'name': 'zdj', 'manufacturer': ['française de mécanique'], 'class': ['wikitable'], 'layout': [], 'production_year': 1977, 'related': []}

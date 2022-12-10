@@ -1,0 +1,11 @@
+{'name': 'gaz-21 volga', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1956, 'related': ['gaz-22', 'gaz-23']}
+{'name': 'proton saga', 'manufacturer': ['proton holdings', 'proton'], 'class': ['b-segment'], 'layout': ['ff layout'], 'production_year': 1985, 'related': []}
+{'name': 'toyota fj cruiser', 'manufacturer': ['toyota'], 'class': ['mid-size suv'], 'layout': ['unbulleted list'], 'production_year': 2006, 'related': ['unbulleted list']}
+{'name': 'opel gt', 'manufacturer': ['general motors'], 'class': ['sports car'], 'layout': ['mid-engine design', 'fmr layout – front mid-engine', 'rear-wheel drive', 'front mid-engined', 'rear-wheel drive'], 'production_year': 1968, 'related': ['pontiac solstice']}
+{'name': 'nash-healey', 'manufacturer': ['nash motors'], 'class': ['sports car'], 'layout': ['front-engine', 'rear-wheel drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1951, 'related': ['alvis-healey']}
+{'name': 'jaguar sport xjr-15', 'manufacturer': ['jaguarsport', 'a subsidiary of', 'jaguar cars', 'jaguar', 'operated by', 'tom walkinshaw racing', 'twr'], 'class': ['unbulleted list'], 'layout': [], 'production_year': 1990, 'related': ['unbulleted list']}
+{'name': 'volvo c70', 'manufacturer': ['ubl', 'volvo cars', 'pininfarina', 'pininfarina sverige ab'], 'class': ['sports car'], 'layout': ['ff layout'], 'production_year': 1996, 'related': []}
+{'name': 'citroën acadiane', 'manufacturer': ['citroën'], 'class': ['leisure activity vehicle', 'm-segment'], 'layout': ['ff layout'], 'production_year': 1977, 'related': ['citroën dyane']}
+{'name': 'citroën c15', 'manufacturer': ['citroën'], 'class': ['leisure activity vehicle', 'm-segment'], 'layout': ['ff layout'], 'production_year': 1984, 'related': ['citroën visa']}
+{'name': 'citroën m35', 'manufacturer': ['citroën'], 'class': ['supermini'], 'layout': ['ff layout'], 'production_year': 1969, 'related': ['citroën ami', 'ami 8']}
+{'name': 'cadillac bls', 'manufacturer': ['saab automobile', 'saab', 'general motors'], 'class': ['compact executive car', 'd-segment'], 'layout': ['ff layout'], 'production_year': 2005, 'related': []}

@@ -1,0 +1,4 @@
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2010, 'related': ['peugeot 308', 'dongfeng fengshen l60']}
+{'name': 'ferqui toro', 'manufacturer': ['ferqui'], 'class': ['minibus', 'minicoach'], 'layout': [], 'production_year': 2005, 'related': []}
+{'name': 'lamborghini reventón', 'manufacturer': ['lamborghini'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['mid-engine design', 'mid-engine', 'all wheel drive'], 'production_year': 2007, 'related': []}
+{'name': 'dacia sandero', 'manufacturer': ['automobile dacia', 'dacia', 'renault'], 'class': ['subcompact car', 'supermini', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2008, 'related': ['dacia logan', 'dacia duster', 'renault clio', 'renault clio iii']}

@@ -1,0 +1,5 @@
+{'name': 'lotus eleven', 'manufacturer': ['lotus cars'], 'class': ['sports car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1956, 'related': []}
+{'name': 'chery v5', 'manufacturer': ['chery'], 'class': ['compact mpv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2006, 'related': ['chery eastar']}
+{'name': 'morris six series ms', 'manufacturer': ['morris motors', 'morris', 'british motor corporation', 'bmc'], 'class': ['mid-size car', 'mid-size'], 'layout': ['fr layout'], 'production_year': 1948, 'related': []}
+{'name': 'subaru sambar', 'manufacturer': ['subaru'], 'class': ['kei truck'], 'layout': ['rr layout'], 'production_year': 1961, 'related': ['subaru 360']}
+{'name': 'tvr cerbera speed 12', 'manufacturer': ['tvr'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1996, 'related': ['tvr cerbera']}

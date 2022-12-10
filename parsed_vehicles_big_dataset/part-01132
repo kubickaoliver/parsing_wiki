@@ -1,0 +1,6 @@
+{'name': 'renntech e7', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1998, 'related': ['mercedes-benz e-class', 'w210']}
+{'name': 'hsv vl ss group a sv', 'manufacturer': ['holden', 'general motors', 'holden special vehicles'], 'class': ['full-size car', 'full-size'], 'layout': [], 'production_year': 1987, 'related': ['holden commodore', 'holden commodore vl']}
+{'name': 'jeep avenger', 'manufacturer': ['jeep', 'stellantis'], 'class': ['subcompact crossover suv', 'b-segment'], 'layout': ['unbulleted list'], 'production_year': 2023, 'related': ['unbulleted list']}
+{'name': 'wuling xingchi', 'manufacturer': ['saic-gm-wuling'], 'class': ['subcompact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2022, 'related': ['unbulleted list']}
+{'name': 'kenworth t800', 'manufacturer': ['kenworth'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'samsung ssc-1', 'manufacturer': ['samsung'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['mid-engine', 'four-wheel drive layout', 'mid-engine', 'all-wheel drive'], 'production_year': 1997, 'related': ['unbulleted list']}

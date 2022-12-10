@@ -1,0 +1,5 @@
+{'name': 'alfa romeo carabo', 'manufacturer': [], 'class': ['concept car'], 'layout': ['rmr layout'], 'production_year': 1968, 'related': ['alfa romeo 33 stradale', 'alfa romeo 33', 'alfa romeo iguana', 'alfa romeo navajo']}
+{'name': 'tvr typhon', 'manufacturer': ['tvr'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 2000, 'related': []}
+{'name': 'tvr speed eight engine', 'manufacturer': ['tvr'], 'class': [], 'layout': [], 'production_year': 1996, 'related': []}
+{'name': 'dacia 1310', 'manufacturer': ['automobile dacia', 'dacia'], 'class': ['small family car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1979, 'related': ['dacia 1300', 'dacia 1320', 'dacia 1325', 'dacia pick-up']}
+{'name': 'lagonda rapier', 'manufacturer': ['lagonda'], 'class': [], 'layout': [], 'production_year': 1934, 'related': []}

@@ -1,0 +1,5 @@
+{'name': 'maz-5335', 'manufacturer': ['minsk automobile plant'], 'class': ['cab over', 'truck'], 'layout': ['fr layout'], 'production_year': 1977, 'related': []}
+{'name': 'maz-525', 'manufacturer': ['ubl', 'minsk automobile plant', 'maz', '1950-1959', 'belaz', '1959-1965'], 'class': ['mining', 'truck'], 'layout': ['fr layout'], 'production_year': 1950, 'related': ['maz-530']}
+{'name': 'maz-530', 'manufacturer': ['ubl', 'minsk automobile plant', 'maz', '1957-1960', 'belaz', '1960-1963'], 'class': [], 'layout': ['front engine', 'rear-wheel drive layout'], 'production_year': 1957, 'related': []}
+{'name': 'new flyer xcelsior', 'manufacturer': ['new flyer'], 'class': ['transit bus'], 'layout': [], 'production_year': 2008, 'related': []}
+{'name': 'zytek-renault zrs03', 'manufacturer': ['flagicon', 'renault', 'zytek'], 'class': [], 'layout': [], 'production_year': 2012, 'related': []}

@@ -1,0 +1,11 @@
+{'name': 'oldsmobile model s', 'manufacturer': ['oldsmobile'], 'class': [], 'layout': [], 'production_year': 1906, 'related': []}
+{'name': 'oldsmobile model 42', 'manufacturer': ['general motors'], 'class': [], 'layout': [], 'production_year': 1914, 'related': []}
+{'name': 'oldsmobile model 43', 'manufacturer': ['general motors'], 'class': [], 'layout': [], 'production_year': 1915, 'related': []}
+{'name': 'oldsmobile model a', 'manufacturer': ['oldsmobile'], 'class': [], 'layout': [], 'production_year': 1907, 'related': []}
+{'name': 'oldsmobile model m', 'manufacturer': ['oldsmobile'], 'class': [], 'layout': [], 'production_year': 1908, 'related': []}
+{'name': 'oldsmobile model d', 'manufacturer': ['general motors'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'oldsmobile series 40', 'manufacturer': ['general motors'], 'class': [], 'layout': [], 'production_year': 1912, 'related': []}
+{'name': 'hyundai bayon', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': ['subcompact crossover suv', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2021, 'related': ['hyundai i20', 'bc3', 'hyundai i20', 'bc3']}
+{'name': 'renault kiger', 'manufacturer': ['renault'], 'class': ['subcompact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2021, 'related': ['unbulleted list']}
+{'name': 'mclaren artura', 'manufacturer': ['mclaren automotive'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel drive layout', 'rear mid-engine', 'rear-wheel drive'], 'production_year': 2022, 'related': []}
+{'name': 'neta v', 'manufacturer': ['hozon auto'], 'class': ['subcompact crossover'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-motor', 'front-wheel-drive'], 'production_year': 2020, 'related': []}

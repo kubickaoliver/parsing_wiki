@@ -1,0 +1,4 @@
+{'name': 'shinjin h-sj micro bus', 'manufacturer': ['unbulleted list', 'shinjin industrial company'], 'class': ['micro bus'], 'layout': [], 'production_year': 1962, 'related': []}
+{'name': 'ap automatic transmission', 'manufacturer': ['automotive products', 'for', 'british motor corporation'], 'class': ['4-speed', 'transverse engine', 'transverse', 'automatic transmission'], 'layout': [], 'production_year': 1965, 'related': []}
+{'name': 'project', 'manufacturer': ['british motor corporation'], 'class': ['land speed record', 'land speed record vehicle'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'sunbeam tiger', 'manufacturer': ['rootes group'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1964, 'related': ['sunbeam alpine']}

@@ -1,0 +1,2 @@
+{'name': 'brilliance bs4', 'manufacturer': ['brilliance auto'], 'class': ['compact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2006, 'related': ['brilliance bs6']}
+{'name': 'volkswagen transporter', 'manufacturer': ['volkswagen commercial vehicles'], 'class': ['light commercial vehicle', 'm-segment'], 'layout': ['front-engine design', 'front-engine', 'front-wheel drive', 'four-wheel-drive'], 'production_year': 2003, 'related': []}

@@ -1,0 +1,4 @@
+{'name': 'zap xebra', 'manufacturer': ['zap', 'motor company', 'zap'], 'class': ['sedan', 'automobile', 'sedan', 'truck'], 'layout': [], 'production_year': 2006, 'related': []}
+{'name': 'bmw n52 engine', 'manufacturer': [], 'class': ['wikitable sortable style=text-align: center'], 'layout': [], 'production_year': 2004, 'related': []}
+{'name': 'volkswagen wasserboxer', 'manufacturer': ['volkswagen group'], 'class': ['wikitable sortable style=text-align: center', 'font-size: 94% width=100%'], 'layout': [], 'production_year': 1982, 'related': []}
+{'name': 'maserati 450s', 'manufacturer': ['maserati'], 'class': ['racing car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1956, 'related': []}

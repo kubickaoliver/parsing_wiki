@@ -1,0 +1,5 @@
+{'name': 'jinbei haise', 'manufacturer': ['jinbei', 'marque', 'jinbei'], 'class': ['unbulleted list'], 'layout': [], 'production_year': 1991, 'related': []}
+{'name': 'volkswagen type 147', 'manufacturer': ['volkswagen commercial vehicles'], 'class': ['panel van'], 'layout': ['rear-engine', 'rear-wheel drive layout', 'rr layout'], 'production_year': 1964, 'related': []}
+{'name': 'navistar dt engine', 'manufacturer': ['navistar international'], 'class': [], 'layout': [], 'production_year': 1971, 'related': []}
+{'name': 'cummins m-series engine', 'manufacturer': ['cummins'], 'class': [], 'layout': [], 'production_year': 1994, 'related': []}
+{'name': 'costin amigo', 'manufacturer': ['costin automotive racing products ltd'], 'class': ['sports car'], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': 1970, 'related': []}

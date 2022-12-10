@@ -1,0 +1,3 @@
+{'name': 'dodge ev', 'manufacturer': ['dodge', 'chrysler'], 'class': ['electric vehicle'], 'layout': ['rmr layout', 'rear mid-motor', 'rear-wheel drive'], 'production_year': '', 'related': ['unbulleted list']}
+{'name': 'renault celtaquatre', 'manufacturer': ['renault'], 'class': ['small family car', 'c-segment'], 'layout': ['fr layout'], 'production_year': 1934, 'related': ['renault primaquatre']}
+{'name': 'wolseley eight', 'manufacturer': ['wolseley motors'], 'class': [], 'layout': [], 'production_year': 1946, 'related': []}

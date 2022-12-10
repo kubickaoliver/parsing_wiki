@@ -1,0 +1,7 @@
+{'name': 'bond equipe', 'manufacturer': ['sharp', 's commercials', 'bond cars ltd'], 'class': ['sports car'], 'layout': [], 'production_year': 1963, 'related': []}
+{'name': 'f10', 'manufacturer': ['volvo trucks'], 'class': ['heavy truck', 'heavy truck'], 'layout': [], 'production_year': 1977, 'related': []}
+{'name': 'gtm coupé', 'manufacturer': ['ubl', 'cox brothers', '1967-1968', 'howard heerey', 'midland garage', '1969-1972', 'gtm cars', 'gtm engineering', 'gtm cars', '1980-1995', 'primo designs', '1996-2001'], 'class': ['sports car'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel drive'], 'production_year': 1967, 'related': ['mini']}
+{'name': 'squire', 'manufacturer': ['squire car manufacturing company'], 'class': ['sports car'], 'layout': [], 'production_year': 1935, 'related': []}
+{'name': 'zil-4102', 'manufacturer': ['zil'], 'class': ['executive car'], 'layout': ['front-engine design', 'front-engine', 'front-wheel drive'], 'production_year': 1987, 'related': []}
+{'name': 'ford cargo', 'manufacturer': ['ford motor company'], 'class': ['class 7', 'usa'], 'layout': [], 'production_year': 1981, 'related': []}
+{'name': 'hyundai hcd-1', 'manufacturer': ['hyundai motor company'], 'class': ['sports car'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 1992, 'related': []}

@@ -1,0 +1,3 @@
+{'name': 'tata ace zip', 'manufacturer': ['tata motors'], 'class': ['micro truck'], 'layout': [], 'production_year': 2010, 'related': ['tata magic iris']}
+{'name': 'alfa romeo mille', 'manufacturer': ['alfa romeo'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1958, 'related': []}
+{'name': 'bertone suagnà', 'manufacturer': ['gruppo bertone', 'bertone'], 'class': ['concept car'], 'layout': ['fr layout'], 'production_year': '', 'related': ['fiat grande punto']}

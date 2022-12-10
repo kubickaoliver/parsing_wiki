@@ -1,0 +1,4 @@
+{'name': 'ferrari sp', 'manufacturer': ['ferrari'], 'class': [], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 1961, 'related': []}
+{'name': 'baojun rs-3', 'manufacturer': ['saic-gm-wuling'], 'class': ['subcompact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2019, 'related': ['unbulleted list']}
+{'name': 'suzuki xbee', 'manufacturer': ['suzuki'], 'class': ['crossover city car', '!-- not a kei car', '660 cc engine displacement and', '475 mm vehicle width --'], 'layout': ['unbulleted list'], 'production_year': 2017, 'related': ['unbulleted list']}
+{'name': 'pierce-arrow model r', 'manufacturer': ['pierce-arrow motor car company'], 'class': ['5-ton truck'], 'layout': [], 'production_year': '', 'related': []}

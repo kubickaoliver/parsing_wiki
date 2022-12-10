@@ -1,0 +1,7 @@
+{'name': 'rolls-royce 40', 'manufacturer': ['rolls-royce limited', 'rolls-royce ltd', 'rolls-royce of america'], 'class': [], 'layout': [], 'production_year': 1906, 'related': ['rolls-royce armoured car']}
+{'name': '1957 chevrolet', 'manufacturer': ['chevrolet', 'general motors'], 'class': [], 'layout': [], 'production_year': 1956, 'related': []}
+{'name': 'toyota hiace', 'manufacturer': ['toyota'], 'class': ['light commercial vehicle'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1967, 'related': ['toyota toyoace']}
+{'name': 'rolls-royce camargue', 'manufacturer': ['rolls-royce motors'], 'class': ['luxury car'], 'layout': ['fr layout'], 'production_year': 1975, 'related': ['rolls-royce silver shadow', 'rolls-royce corniche', 'bentley t-series']}
+{'name': 'eagle medallion', 'manufacturer': ['eagle', 'automobile', 'eagle'], 'class': ['mid-size car', 'mid-size'], 'layout': ['front-engine', 'front-wheel-drive layout', 'longitudinally mounted front-engine', 'front-wheel drive'], 'production_year': 1987, 'related': ['renault 21']}
+{'name': 'judd av', 'manufacturer': ['flagicon', 'judd'], 'class': ['wikitable style=text-align:center', 'font-size:85%'], 'layout': [], 'production_year': 1984, 'related': []}
+{'name': 'mitsubishi i', 'manufacturer': ['mitsubishi motors'], 'class': ['kei car'], 'layout': ['mid-engine design', 'mid-engine', 'rear-wheel drive', 'rear-', 'four-wheel drive'], 'production_year': 2006, 'related': []}

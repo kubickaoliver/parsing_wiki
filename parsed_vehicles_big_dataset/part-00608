@@ -1,0 +1,2 @@
+{'name': 'saleen 302 series', 'manufacturer': ['saleen'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 2007, 'related': ['ford mustang']}
+{'name': 'lion 360', 'manufacturer': ['autobus lion', '2011-2017', 'la compagnie électrique lion', '2017-present'], 'class': [], 'layout': ['fr layout', '4x2'], 'production_year': 2011, 'related': []}

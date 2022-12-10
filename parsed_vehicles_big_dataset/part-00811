@@ -1,0 +1,4 @@
+{'name': 'cmc leadca', 'manufacturer': ['china motor corporation'], 'class': ['truck'], 'layout': [], 'production_year': 2013, 'related': []}
+{'name': 'mercedes-benz rennwagen schnelltransporter', 'manufacturer': ['mercedes-benz'], 'class': [], 'layout': [], 'production_year': 1954, 'related': []}
+{'name': 'porsche 911 carrera rs 2', 'manufacturer': [], 'class': ['sports car', 's-segment'], 'layout': ['rr layout', 'rear wheel drive', 'rwd'], 'production_year': '', 'related': ['porsche 911']}
+{'name': 'crown firecoach', 'manufacturer': ['crown coach corporation'], 'class': [], 'layout': ['mr layout', 'mid-engine', 'rear-wheel drive', '4x2'], 'production_year': 1951, 'related': ['crown supercoach']}

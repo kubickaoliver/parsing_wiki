@@ -1,0 +1,4 @@
+{'name': 'suzuki g70', 'manufacturer': ['suzuki'], 'class': ['subcompact car', 'subcompact', 'b-segment'], 'layout': ['front-engine', 'front-wheel drive layout', 'front-engine', 'front-wheel drive'], 'production_year': 2011, 'related': []}
+{'name': 'volkswagen id', 'manufacturer': ['volkswagen'], 'class': ['subcompact', 'suv'], 'layout': ['front-engine', 'front-wheel drive', 'front-motor', 'front-wheel drive'], 'production_year': 2021, 'related': []}
+{'name': 'wells vertige', 'manufacturer': ['wells motor cars'], 'class': ['sports car'], 'layout': ['rmr layout', 'mid-engine', 'rear-wheel drive'], 'production_year': 2021, 'related': []}
+{'name': 'lotus m90', 'manufacturer': ['lotus cars'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': '', 'related': []}

@@ -1,0 +1,3 @@
+{'name': 't816 force', 'manufacturer': ['tatra', 'company', 'tatra'], 'class': ['heavy', 'vehicles', 'heavy', 'truck'], 'layout': [], 'production_year': 1996, 'related': []}
+{'name': 'citroën survolt', 'manufacturer': ['citroën'], 'class': ['racing car'], 'layout': ['mid-engine', 'four-wheel drive layout', 'rear mid-engine', 'all-wheel-drive'], 'production_year': '', 'related': ['citroën revolte']}
+{'name': 'datsun type 12', 'manufacturer': ['datsun', 'nissan'], 'class': [], 'layout': ['fr layout'], 'production_year': 1933, 'related': []}

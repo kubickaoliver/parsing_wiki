@@ -1,0 +1,4 @@
+{'name': 'lightning gt', 'manufacturer': ['lightning car company'], 'class': ['sports car'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear motor', 'rear-wheel drive'], 'production_year': '', 'related': []}
+{'name': 'plymouth concord', 'manufacturer': ['plymouth', 'automobile', 'plymouth', 'chrysler'], 'class': ['full-size'], 'layout': ['front-engine', 'rear-wheel drive layout', 'fr layout'], 'production_year': 1951, 'related': ['ubl', 'plymouth cambridge', 'plymouth cranbrook']}
+{'name': 'tvr tuscan challenge', 'manufacturer': ['tvr'], 'class': ['sports car', 'sports', 'racing car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1989, 'related': ['unbulleted list']}
+{'name': 'playboy convertible prototype', 'manufacturer': ['playboy motor car corporation'], 'class': [], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': '', 'related': []}

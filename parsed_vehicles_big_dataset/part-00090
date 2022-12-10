@@ -1,0 +1,21 @@
+{'name': 'honda concerto', 'manufacturer': [], 'class': [], 'layout': ['ff layout', 'awd'], 'production_year': 1988, 'related': ['honda civic']}
+{'name': 'unbulleted list', 'manufacturer': ['alfa romeo'], 'class': ['small family car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': '', 'related': ['unbulleted list']}
+{'name': 'alfa romeo 8c', 'manufacturer': ['alfa romeo'], 'class': ['luxury car', 'sports car', 'racing car'], 'layout': ['fr layout'], 'production_year': 1931, 'related': []}
+{'name': 'mg mga', 'manufacturer': ['mg cars', 'british motor corporation', 'bmc'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1955, 'related': []}
+{'name': 'mg t-type', 'manufacturer': ['car', 'morris motors', 'morris', 'later', 'british motor corporation', 'bmc'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1936, 'related': []}
+{'name': 'hummer h3', 'manufacturer': ['general motors'], 'class': ['mid-size', 'sport utility vehicle', 'suv', 'pickup truck'], 'layout': ['front-engine design', 'front engine', 'four-wheel drive'], 'production_year': 2005, 'related': ['ubl', 'chevrolet colorado', 'gmc canyon', 'isuzu i-series']}
+{'name': 'alfa romeo 75', 'manufacturer': ['alfa romeo', 'alfa romeo auto', '1985-1986', 'alfa-', 'lancia', 'industriale', '1987-1991', 'fiat auto', '1991-1992'], 'class': ['compact executive car', 'd-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1985, 'related': ['alfa romeo alfetta', 'alfa romeo gtv6', 'alfa romeo sz']}
+{'name': 'bugatti type 57', 'manufacturer': ['bugatti'], 'class': ['grand tourer'], 'layout': [], 'production_year': 1934, 'related': []}
+{'name': 'austin-healey 100', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1953, 'related': []}
+{'name': 'bmc c-series engine', 'manufacturer': ['british motor corporation'], 'class': [], 'layout': [], 'production_year': 1954, 'related': []}
+{'name': 'mg midget', 'manufacturer': ['mg cars', 'british motor corporation', 'bmc', 'later', 'british leyland'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1961, 'related': ['austin-healey sprite']}
+{'name': 'ford explorer sport trac', 'manufacturer': ['ford motor company'], 'class': ['pickup truck', 'truck classification', 'class 1', 'class 1'], 'layout': [], 'production_year': 2000, 'related': ['ford explorer', 'mercury mountaineer', 'ford ranger']}
+{'name': 'austin a90 atlantic', 'manufacturer': ['austin motor company', 'austin'], 'class': [], 'layout': ['fr layout'], 'production_year': 1949, 'related': []}
+{'name': 'fiat twin cam engine', 'manufacturer': ['fiat', 'lancia'], 'class': ['wikitable'], 'layout': [], 'production_year': 1966, 'related': []}
+{'name': 'renault master', 'manufacturer': ['renault'], 'class': ['unbulleted list', 'light commercial vehicle', 'm-segment', 'full-size van', 'large van'], 'layout': [], 'production_year': 1980, 'related': []}
+{'name': 'hyundai accent', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': ['subcompact car', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1994, 'related': ['hyundai getz']}
+{'name': 'lotus excel', 'manufacturer': ['lotus cars'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1982, 'related': []}
+{'name': 'ford mustang mach 1', 'manufacturer': ['ford motor company', 'ford'], 'class': ['muscle car'], 'layout': ['fr layout'], 'production_year': '', 'related': []}
+{'name': 'nissan e engine', 'manufacturer': ['nissan'], 'class': [], 'layout': [], 'production_year': 1958, 'related': []}
+{'name': 'nissan h engine', 'manufacturer': ['nissan motors'], 'class': [], 'layout': [], 'production_year': 1954, 'related': []}
+{'name': 'lancia flavia', 'manufacturer': ['lancia'], 'class': ['executive car'], 'layout': ['longitudinal engine', 'longitudinal', 'ff layout'], 'production_year': 1961, 'related': ['lancia 2000']}

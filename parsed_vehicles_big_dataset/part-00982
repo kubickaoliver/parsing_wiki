@@ -1,0 +1,2 @@
+{'name': 'mercedes-benz gls', 'manufacturer': ['mercedes-benz'], 'class': ['full-size', 'luxury suv'], 'layout': ['front-engine', 'four-wheel-drive layout', 'front-engine', 'four-wheel-drive', '4matic'], 'production_year': 2019, 'related': []}
+{'name': 'volkswagen tarek', 'manufacturer': ['volkswagen'], 'class': ['rally raid'], 'layout': ['4-wheel drive'], 'production_year': 2003, 'related': []}

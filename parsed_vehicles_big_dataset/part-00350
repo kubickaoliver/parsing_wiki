@@ -1,0 +1,4 @@
+{'name': 'sunbeam-talbot 90', 'manufacturer': ['sunbeam-talbot', 'rootes group'], 'class': ['compact executive car', 'd-segment'], 'layout': [], 'production_year': 1948, 'related': ['sunbeam-talbot 80']}
+{'name': 'volvo fe', 'manufacturer': ['volvo trucks', 'volvo trucks corporation'], 'class': ['medium'], 'layout': [], 'production_year': 2006, 'related': []}
+{'name': 'bedford ca', 'manufacturer': ['bedford vehicles', 'bedford'], 'class': ['light commercial vehicle'], 'layout': ['longitudinal engine', 'longitudinal', 'front-engine design', 'front engine', 'rear-wheel drive'], 'production_year': 1952, 'related': ['bedford dormobile']}
+{'name': 'triumph 1800', 'manufacturer': ['standard motor company'], 'class': [], 'layout': [], 'production_year': 1946, 'related': []}

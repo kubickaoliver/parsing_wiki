@@ -1,0 +1,13 @@
+{'name': 'arrinera hussarya', 'manufacturer': ['arrinera', 'arrinera automotive s', 'noble automotive', 'noble automotive ltd'], 'class': ['sports car', 's-segment'], 'layout': ['mid-engine design', 'mid-engine', 'rear-wheel drive'], 'production_year': '', 'related': []}
+{'name': 'alfa romeo 110a', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'alfa romeo 140a', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1950, 'related': []}
+{'name': 'alfa romeo 430a', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1949, 'related': []}
+{'name': 'alfa romeo 150a', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1957, 'related': ['alfa romeo 140a']}
+{'name': 'alfa romeo 900a', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1952, 'related': []}
+{'name': 'austin 25-30', 'manufacturer': ['austin motor company', 'austin'], 'class': [], 'layout': [], 'production_year': 1906, 'related': []}
+{'name': 'alfa romeo 902a', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1957, 'related': []}
+{'name': 'austin 15-20', 'manufacturer': ['austin motor company'], 'class': [], 'layout': [], 'production_year': 1906, 'related': []}
+{'name': 'alfa romeo 500a', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1945, 'related': ['alfa romeo 500']}
+{'name': 'alfa romeo 50', 'manufacturer': ['alfa romeo'], 'class': ['commercial vehicle'], 'layout': [], 'production_year': 1931, 'related': []}
+{'name': 'austin 7&nbsp', 'manufacturer': ['swift motor company', 'swift'], 'class': [], 'layout': [], 'production_year': 1909, 'related': []}
+{'name': 'austin 15-h', 'manufacturer': ['austin motor company', 'austin'], 'class': [], 'layout': [], 'production_year': 1908, 'related': []}

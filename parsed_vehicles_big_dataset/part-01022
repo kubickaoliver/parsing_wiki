@@ -1,0 +1,4 @@
+{'name': 'mazda rx-vision', 'manufacturer': ['mazda'], 'class': ['concept car'], 'layout': ['fr layout'], 'production_year': 2015, 'related': []}
+{'name': 'mazda shinari', 'manufacturer': ['mazda'], 'class': ['concept car', 'concept sports sedan', 'mid-size car', 'd-segment'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2010, 'related': ['mazda6', 'third_generation_', 'gj1', '_2012', 'mazda 6', 'gj1']}
+{'name': 'microlino 1', 'manufacturer': ['micro mobility systems'], 'class': ['quadricycle', 'eu vehicle classification', 'quadricycle'], 'layout': [], 'production_year': 2018, 'related': []}
+{'name': 'volkswagen taigo', 'manufacturer': ['volkswagen'], 'class': ['subcompact crossover suv', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2020, 'related': ['volkswagen polo', 'mk6', 'volkswagen polo mk6', 'volkswagen virtus', 'volkswagen t-cross']}

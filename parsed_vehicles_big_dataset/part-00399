@@ -1,0 +1,4 @@
+{'name': 'dixie flyer', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'fia formula two championship car', 'manufacturer': ['chassis', ': williams jph1', 'engine', 'audi', 'audi ag', 'prepared & built by', 'mountune racing'], 'class': ['open wheel racing', 'open-wheeled single seat race car'], 'layout': ['longitudinal engine', 'longitudinal', 'mid-engine design', 'mid engine', 'rear-wheel drive'], 'production_year': 2009, 'related': []}
+{'name': 'toyota quick delivery 100', 'manufacturer': ['toyota'], 'class': ['van'], 'layout': ['all-wheel drive'], 'production_year': 1982, 'related': []}
+{'name': 'zis-5', 'manufacturer': ['zil', 'zis'], 'class': ['truck'], 'layout': ['fr layout'], 'production_year': 1934, 'related': []}

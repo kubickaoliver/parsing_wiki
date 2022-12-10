@@ -1,0 +1,4 @@
+{'name': 'honda capa', 'manufacturer': ['honda'], 'class': ['mini mpv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'front engine', 'four-wheel-drive'], 'production_year': 1998, 'related': ['honda logo']}
+{'name': 'honda zest', 'manufacturer': ['honda'], 'class': ['kei car'], 'layout': [], 'production_year': 2006, 'related': ['honda life', 'fifth generation']}
+{'name': 'daytona sportcar', 'manufacturer': ['borland racing developments'], 'class': ['grand tourer'], 'layout': [], 'production_year': 2001, 'related': []}
+{'name': 'triumph italia', 'manufacturer': ['ruffino s', 'naples'], 'class': ['sports car'], 'layout': [], 'production_year': 1959, 'related': []}

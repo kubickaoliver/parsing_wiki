@@ -1,0 +1,6 @@
+{'name': 'dacia solenza', 'manufacturer': ['automobile dacia', 'dacia'], 'class': ['supermini'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2003, 'related': ['renault clio']}
+{'name': 'citroën prototype y', 'manufacturer': ['citroën'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'saab 9-4x', 'manufacturer': ['general motors', 'for', 'saab automobile', 'saab'], 'class': ['mid-size car', 'mid-size', 'luxury', 'crossover', 'automobile', 'crossover'], 'layout': ['front engine', 'front-wheel drive', 'all-wheel drive', 'saab xwd'], 'production_year': 2010, 'related': ['cadillac srx']}
+{'name': 'renault rodeo', 'manufacturer': ['renault'], 'class': ['off-road', 'mini suv'], 'layout': ['front-engine design', 'front-engine', 'front-wheel drive', 'four-wheel drive'], 'production_year': 1970, 'related': []}
+{'name': 'toyota innova', 'manufacturer': ['toyota'], 'class': ['mid-size car', 'mid-size', 'multi purpose vehicle', 'mpv'], 'layout': ['front-engine', 'rear-wheel-drive'], 'production_year': 2004, 'related': ['unbulleted list']}
+{'name': 'toyota kr engine', 'manufacturer': ['daihatsu'], 'class': [], 'layout': [], 'production_year': 2004, 'related': []}

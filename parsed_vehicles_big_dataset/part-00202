@@ -1,0 +1,9 @@
+{'name': 'pentastar engine', 'manufacturer': ['chrysler', 'stellantis north america'], 'class': ['wikitable'], 'layout': [], 'production_year': 2010, 'related': []}
+{'name': 'simca 9 aronde', 'manufacturer': ['simca'], 'class': [], 'layout': [], 'production_year': 1951, 'related': []}
+{'name': 'toyota ipsum', 'manufacturer': ['toyota'], 'class': ['compact mpv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1995, 'related': ['toyota avensis']}
+{'name': 'daihatsu rugger', 'manufacturer': ['daihatsu'], 'class': ['unbulleted list'], 'layout': ['unbulleted list'], 'production_year': '', 'related': []}
+{'name': 'lincoln-zephyr', 'manufacturer': ['lincoln motor company', 'lincoln', 'ford motor company', 'ford'], 'class': ['mid-size car', 'mid-size', 'luxury car'], 'layout': [], 'production_year': 1936, 'related': ['lincoln continental']}
+{'name': 'lincoln-zephyr v12', 'manufacturer': ['ford motor company'], 'class': ['75 °flathead', 'v12 engine', 'v12'], 'layout': [], 'production_year': 1936, 'related': []}
+{'name': 'mitsubishi town box', 'manufacturer': ['mitsubishi motors', '1999–2011', 'suzuki', '2014–present'], 'class': ['microvan', 'town box', 'minivan', 'town box wide'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive', 'front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1999, 'related': ['mitsubishi minicab', 'cmc veryca']}
+{'name': 'mitsubishi triton', 'manufacturer': ['mitsubishi motors'], 'class': [], 'layout': [], 'production_year': 1978, 'related': []}
+{'name': 'rover 60', 'manufacturer': ['rover', 'car', 'the rover company limited'], 'class': ['executive car', 'e-segment'], 'layout': ['fr layout'], 'production_year': 1948, 'related': []}

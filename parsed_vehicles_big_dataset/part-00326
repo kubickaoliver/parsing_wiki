@@ -1,0 +1,4 @@
+{'name': 'isuzu journey', 'manufacturer': ['isuzu'], 'class': ['minibus'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1970, 'related': ['nissan civilian']}
+{'name': 'rossion q1', 'manufacturer': ['rossion automotive'], 'class': ['sports car', 's-segment'], 'layout': ['transverse engine', 'transversely mounted', 'rear mid-engine', 'rear-wheel drive layout', 'rear mid-engine', 'rear-wheel drive'], 'production_year': 2008, 'related': ['noble m400', 'noble m12', 'noble m15']}
+{'name': 'mitsubishi colt 1000', 'manufacturer': ['mitsubishi motors'], 'class': [], 'layout': ['front-engine', 'rear-wheel drive layout', 'front-engine', 'rear-wheel drive'], 'production_year': 1963, 'related': []}
+{'name': 'tata nano', 'manufacturer': ['tata motors'], 'class': ['city car'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-engine', 'rear-wheel-drive'], 'production_year': 2008, 'related': []}

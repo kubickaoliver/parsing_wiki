@@ -1,0 +1,3 @@
+{'name': 'lagonda v12', 'manufacturer': ['lagonda'], 'class': [], 'layout': [], 'production_year': 1938, 'related': []}
+{'name': 'alvis silver crest', 'manufacturer': ['alvis limited', 'holyhead road', 'coventry', 'ref name=tt47771', 'alvis 16', '95 hp', 'cars of to-day', 'the times', 'tuesday', '24 aug 1937', 'issue 47771', 'ref'], 'class': [], 'layout': ['front-engine', 'rear-wheel-drive layout', 'ref name=tt47771'], 'production_year': 1937, 'related': []}
+{'name': 'daihatsu sigra', 'manufacturer': ['daihatsu'], 'class': ['mini mpv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2016, 'related': ['unbulleted list']}

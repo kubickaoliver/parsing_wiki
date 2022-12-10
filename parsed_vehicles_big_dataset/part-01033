@@ -1,0 +1,2 @@
+{'name': 'bedford ta', 'manufacturer': ['bedford vehicles', 'bedford'], 'class': ['medium-duty truck', 'medium-duty truck'], 'layout': [], 'production_year': 1953, 'related': ['bedford tj', 'awd tank transporter']}
+{'name': 'proterra catalyst', 'manufacturer': ['proterra', 'bus manufacturer', 'proterra'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-engine', 'rear-wheel-drive'], 'production_year': 2014, 'related': []}

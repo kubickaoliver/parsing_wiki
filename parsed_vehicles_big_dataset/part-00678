@@ -1,0 +1,4 @@
+{'name': 'ferrari 315 s', 'manufacturer': ['ferrari'], 'class': ['sports racing car'], 'layout': ['mid-engine design', 'fmr layout – front mid-engine', 'rear-wheel drive', 'front mid-engine', 'rear-wheel-drive'], 'production_year': 1957, 'related': []}
+{'name': 'airline coupe', 'manufacturer': ['hrg engineering company'], 'class': ['sports car'], 'layout': ['front engine rear wheel drive'], 'production_year': '', 'related': []}
+{'name': 'freightliner cascadia', 'manufacturer': ['daimler trucks north america'], 'class': ['heavy truck'], 'layout': [], 'production_year': 2007, 'related': ['western star 57x']}
+{'name': 'freightliner argosy', 'manufacturer': ['freightliner trucks', 'daimler trucks north america'], 'class': ['truck classification', 'class 8', 'class 8 truck'], 'layout': ['4x2', '6x4'], 'production_year': 1998, 'related': ['freightliner century class', 'freightliner cascadia']}

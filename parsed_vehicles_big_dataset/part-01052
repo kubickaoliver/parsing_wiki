@@ -1,0 +1,2 @@
+{'name': 'toyota c', 'manufacturer': ['toyota'], 'class': ['kei car'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-motor', 'rear-wheel-drive'], 'production_year': 2021, 'related': []}
+{'name': 'soueast dx5', 'manufacturer': ['soueast'], 'class': ['compact suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-wheel-drive'], 'production_year': 2019, 'related': ['soueast dx3']}

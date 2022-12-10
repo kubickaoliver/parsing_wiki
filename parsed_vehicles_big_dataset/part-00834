@@ -1,0 +1,2 @@
+{'name': 'buick four', 'manufacturer': ['buick', 'general motors'], 'class': ['luxury vehicle', 'luxury car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive', 'ref name=kimes1996'], 'production_year': '', 'related': ['janney', 'automobile', 'janney automobile', 'ref name=kimes1996']}
+{'name': 'oldsmobile series 20', 'manufacturer': ['general motors'], 'class': [], 'layout': [], 'production_year': 1909, 'related': []}

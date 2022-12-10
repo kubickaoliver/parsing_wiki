@@ -1,0 +1,2 @@
+{'name': 'honda accord', 'manufacturer': ['honda'], 'class': ['mid-size car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2007, 'related': ['acura tl', 'honda crosstour']}
+{'name': 'm7 snow tractor', 'manufacturer': ['allis-chalmers'], 'class': [], 'layout': ['halftrack'], 'production_year': '', 'related': []}

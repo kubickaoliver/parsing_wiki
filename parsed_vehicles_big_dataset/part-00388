@@ -1,0 +1,4 @@
+{'name': 'ferrari f40', 'manufacturer': ['ferrari'], 'class': ['sports car'], 'layout': ['rear mid-engine', 'rear-wheel drive layout', 'mid-engine', 'rear-wheel drive'], 'production_year': 1987, 'related': []}
+{'name': 'raw striker', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'mg m-type midget', 'manufacturer': ['car'], 'class': ['sports car'], 'layout': [], 'production_year': 1929, 'related': []}
+{'name': 'vauxhall 20 22 and 16-20', 'manufacturer': ['vauxhall motors', 'vauxhall'], 'class': [], 'layout': [], 'production_year': 1908, 'related': []}

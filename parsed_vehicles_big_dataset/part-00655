@@ -1,0 +1,3 @@
+{'name': 'maruti xa alpha', 'manufacturer': ['maruti suzuki'], 'class': ['concept car'], 'layout': ['ff layout'], 'production_year': 2013, 'related': []}
+{'name': 'mercedes-benz f125', 'manufacturer': ['mercedes-benz'], 'class': ['grand tourer', 's-segment'], 'layout': ['front-engine', 'all-wheel-drive layout', 'front-engine', 'all-wheel-drive'], 'production_year': 2011, 'related': []}
+{'name': 'morris major', 'manufacturer': ['morris motors'], 'class': [], 'layout': ['fr layout', 'ref name=sedgwick'], 'production_year': 1930, 'related': []}

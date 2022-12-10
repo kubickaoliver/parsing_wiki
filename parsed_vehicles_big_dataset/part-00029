@@ -1,0 +1,4 @@
+{'name': 'mazda rx-7', 'manufacturer': ['mazda'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive'], 'production_year': 1978, 'related': []}
+{'name': 'saab 900 classic', 'manufacturer': ['saab automobile'], 'class': ['entry-level luxury car', 'mid-size car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'longitudinal front-engine', 'front-wheel drive'], 'production_year': 1978, 'related': ['opel calibra', 'opel vectra', 'vauxhall cavalier', 'saab 9-5', 'saturn l-series']}
+{'name': 'saab 9-2', 'manufacturer': ['saab automobile', 'saab', 'spyker cars'], 'class': ['small family car', 'c-segment'], 'layout': ['ff layout'], 'production_year': '', 'related': []}
+{'name': 'liberty motor car company', 'manufacturer': [], 'class': ['wikitable'], 'layout': [], 'production_year': 1916, 'related': []}

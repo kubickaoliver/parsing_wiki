@@ -1,0 +1,3 @@
+{'name': 'gaz-67', 'manufacturer': ['gaz'], 'class': [], 'layout': ['f4 layout'], 'production_year': 1943, 'related': []}
+{'name': 'daimler regina df400 and dk400', 'manufacturer': ['daimler company', 'the daimler company limited'], 'class': ['luxury vehicle', 'ultra-luxury'], 'layout': [], 'production_year': 1954, 'related': []}
+{'name': 'seat exeo', 'manufacturer': ['seat'], 'class': ['large family car', 'd-segment'], 'layout': ['longitudinally mounted', 'front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2008, 'related': ['audi a4', 'audi a4']}

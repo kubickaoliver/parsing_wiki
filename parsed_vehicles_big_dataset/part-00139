@@ -1,0 +1,4 @@
+{'name': 'alfa romeo alfetta', 'manufacturer': ['alfa romeo'], 'class': ['wikitable style=text-align:center', 'font-size:90%'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1972, 'related': ['alfa romeo giulietta', '116', 'alfa romeo alfa 6', 'alfa romeo 90']}
+{'name': 'orbitron', 'manufacturer': [], 'class': ['custom car'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'porsche 936', 'manufacturer': ['porsche', 'porsche ag'], 'class': ['racing car'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': '', 'related': []}
+{'name': 'daihatsu hijet', 'manufacturer': ['daihatsu'], 'class': ['unbulleted list'], 'layout': ['front-engine design', 'front-engine', 'rear-wheel drive'], 'production_year': 1960, 'related': ['unbulleted list']}

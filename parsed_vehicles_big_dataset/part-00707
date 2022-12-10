@@ -1,0 +1,4 @@
+{'name': 'subaru levorg', 'manufacturer': ['subaru'], 'class': ['mid-size car'], 'layout': ['front-engine', 'four-wheel drive layout', 'front-engine', 'four-wheel drive'], 'production_year': 2014, 'related': []}
+{'name': 'maz-200', 'manufacturer': ['ubl', 'yaroslavl motor plant', 'minsk automobile plant'], 'class': ['truck'], 'layout': ['fr layout'], 'production_year': 1947, 'related': []}
+{'name': 'riley 12', 'manufacturer': ['riley'], 'class': ['midsize sports saloon and until 1938 2-seater'], 'layout': [], 'production_year': 1935, 'related': []}
+{'name': 'gm medium diesel engine', 'manufacturer': ['general motors'], 'class': ['wikitable style=text-align:center', 'font-size:90%'], 'layout': [], 'production_year': 2013, 'related': []}

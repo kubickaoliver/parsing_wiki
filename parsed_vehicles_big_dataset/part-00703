@@ -1,0 +1,4 @@
+{'name': 'proton perdana', 'manufacturer': ['proton holdings', 'proton'], 'class': ['mid-size car', 'mid-size family', 'd-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel drive'], 'production_year': 1995, 'related': ['mitsubishi galant', 'seventh generation', 'e52', 'e53', 'e54', 'e57', 'e64', 'e72', 'e77', 'e84', 'e88', 'mitsubishi eterna']}
+{'name': 'proton perdana', 'manufacturer': ['honda', 'honda motor company', 'ltd', 'proton', 'automobile', 'proton'], 'class': ['mid-size car', 'mid-size', 'd-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel drive'], 'production_year': 2013, 'related': []}
+{'name': 'duesenberg model j engine', 'manufacturer': ['duesenberg'], 'class': [], 'layout': [], 'production_year': 1928, 'related': []}
+{'name': 'škoda 1101', 'manufacturer': ['škoda auto', 'aznp'], 'class': [], 'layout': ['fr layout'], 'production_year': 1946, 'related': []}

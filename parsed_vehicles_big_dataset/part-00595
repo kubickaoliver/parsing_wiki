@@ -1,0 +1,3 @@
+{'name': 'austin-healey 100-6', 'manufacturer': ['austin-healey', 'british motor corporation', 'bmc'], 'class': [], 'layout': [], 'production_year': 1956, 'related': []}
+{'name': 'toyota aqua', 'manufacturer': ['toyota'], 'class': ['subcompact car', 'supermini', 'b-segment'], 'layout': ['unbulleted list'], 'production_year': 2011, 'related': ['unbulleted list']}
+{'name': 'toyota 86', 'manufacturer': ['subaru'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2012, 'related': []}

@@ -1,0 +1,5 @@
+{'name': 'cadillac celestiq', 'manufacturer': ['general motors'], 'class': ['full-size car', 'full-size', 'luxury car'], 'layout': ['dual-motors', 'four-wheel drive'], 'production_year': 2024, 'related': []}
+{'name': 'hyundai ioniq 5', 'manufacturer': ['hyundai motor company', 'hyundai'], 'class': ['compact crossover suv'], 'layout': ['unbulleted list'], 'production_year': 2021, 'related': ['unbulleted list']}
+{'name': 'proterra zx5', 'manufacturer': ['proterra', 'bus manufacturer', 'proterra'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-motor', 'rear-wheel-drive'], 'production_year': 2020, 'related': []}
+{'name': 'dongfeng junfeng', 'manufacturer': ['dongfeng motor co', 'ltd', 'dongfeng motor'], 'class': [], 'layout': ['mid engine', 'rear-wheel drive'], 'production_year': 2012, 'related': []}
+{'name': 'jac v7', 'manufacturer': ['jac motors', 'jac'], 'class': ['mid-sized pickup truck'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2018, 'related': ['jac shuailing t6', 'shuailing t8', 'jac shuailing t8']}

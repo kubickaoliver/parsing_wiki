@@ -1,0 +1,12 @@
+{'name': 'silver bullet', 'manufacturer': ['sunbeam motor car company', 'sunbeam', 'wolverhampton'], 'class': [], 'layout': [], 'production_year': 1929, 'related': []}
+{'name': 'peugeot type 15', 'manufacturer': ['peugeot', 'des automobiles peugeot'], 'class': [], 'layout': ['rr layout'], 'production_year': 1897, 'related': []}
+{'name': 'jaguar 420 and daimler sovereign', 'manufacturer': ['jaguar cars'], 'class': ['sports saloon'], 'layout': ['fr layout'], 'production_year': 1966, 'related': ['jaguar mark 2', 'jaguar mark x']}
+{'name': 'toyota corolla', 'manufacturer': [], 'class': [], 'layout': ['fr layout'], 'production_year': '', 'related': []}
+{'name': 'toyota corolla', 'manufacturer': [], 'class': [], 'layout': ['fr layout'], 'production_year': '', 'related': ['daihatsu charmant']}
+{'name': 'toyota corolla', 'manufacturer': [], 'class': [], 'layout': ['fr layout'], 'production_year': 1974, 'related': ['unbulleted list']}
+{'name': 'toyota corolla', 'manufacturer': ['toyota'], 'class': [], 'layout': ['fr layout'], 'production_year': 1979, 'related': []}
+{'name': 'toyota corolla', 'manufacturer': ['toyota'], 'class': [], 'layout': ['front-engine design', 'front engine', 'front-wheel drive', 'four-wheel drive'], 'production_year': '', 'related': []}
+{'name': 'toyota corolla', 'manufacturer': ['toyota'], 'class': ['wikitable style=float:left', 'margin-left:1em'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': '', 'related': ['unbulleted list']}
+{'name': 'toyota corolla', 'manufacturer': ['toyota'], 'class': ['compact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'four-wheel-drive'], 'production_year': '', 'related': ['unbulleted list']}
+{'name': 'toyota corolla', 'manufacturer': ['toyota'], 'class': ['wikitable'], 'layout': ['unbulleted list'], 'production_year': '', 'related': ['unbulleted list']}
+{'name': 'toyota corolla', 'manufacturer': ['toyota'], 'class': [], 'layout': ['front-engine design', 'front engine', 'front-wheel drive', 'rear-wheel drive'], 'production_year': 1983, 'related': []}

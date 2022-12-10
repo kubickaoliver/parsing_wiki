@@ -1,0 +1,4 @@
+{'name': 't 928', 'manufacturer': ['tatra', 'company', 'tatra'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'tata onecat', 'manufacturer': ['tata motors'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'rinspeed squba', 'manufacturer': ['rinspeed'], 'class': ['amphibious vehicle', 'amphibious', 'convertible', 'car', 'convertible'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': 2008, 'related': []}
+{'name': 'saleen s-281', 'manufacturer': ['saleen', 'incorporated'], 'class': ['sports car', 'muscle car'], 'layout': ['fr layout'], 'production_year': 1996, 'related': ['ford mustang']}

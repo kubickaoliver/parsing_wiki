@@ -1,0 +1,11 @@
+{'name': 'ural-4320', 'manufacturer': ['ural automotive plant'], 'class': ['truck'], 'layout': ['four-wheel drive', 'awd', '6×6'], 'production_year': 1977, 'related': []}
+{'name': 'caterpillar 797 series', 'manufacturer': ['caterpillar inc'], 'class': ['haul truck', 'ultra class', 'ultra class'], 'layout': ['front engine', 'automobile layout', 'rear-wheel-drive layouts', 'rear wheel drive'], 'production_year': 1998, 'related': []}
+{'name': 'zis-151', 'manufacturer': ['zil', 'zis'], 'class': ['truck'], 'layout': ['front engine', '6×6'], 'production_year': 1948, 'related': ['jiefang ca-30']}
+{'name': 'zil-131', 'manufacturer': ['zil'], 'class': ['truck'], 'layout': [], 'production_year': 1964, 'related': ['amur-531350', 'zil-130']}
+{'name': 'orion i', 'manufacturer': ['orion bus industries', 'ontario bus industries'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 1978, 'related': []}
+{'name': 'orion v', 'manufacturer': ['orion bus industries', 'ontario', 'orion bus industries'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 1989, 'related': []}
+{'name': 'orion vi', 'manufacturer': ['orion bus industries'], 'class': ['transit bus'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'offset'], 'production_year': 1995, 'related': []}
+{'name': 'hyundai mighty', 'manufacturer': ['hyundai motor company', 'mitsubishi motors corporation'], 'class': ['rear wheel drive vehicles'], 'layout': [], 'production_year': 1987, 'related': ['mitsubishi fuso canter']}
+{'name': 'hyundai chorus', 'manufacturer': ['hyundai motor company', 'mitsubishi motors corporation'], 'class': ['minibus'], 'layout': [], 'production_year': '', 'related': ['mitsubishi fuso rosa']}
+{'name': 'morris j4', 'manufacturer': ['morris commercial cars', 'morris commercial'], 'class': ['van'], 'layout': [], 'production_year': 1960, 'related': []}
+{'name': 'volkswagen tiguan', 'manufacturer': ['volkswagen'], 'class': ['compact crossover suv', 'dubious', 'date= june 2022', 'synthesis inline', 'date=june 2022'], 'layout': ['ubl', 'front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'front-engine', 'all-wheel-drive', '4motion'], 'production_year': 2007, 'related': ['plainlist']}

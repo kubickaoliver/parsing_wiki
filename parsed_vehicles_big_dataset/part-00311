@@ -1,0 +1,4 @@
+{'name': 'mercedes-benz om601 engine', 'manufacturer': ['mercedes-benz'], 'class': [], 'layout': [], 'production_year': 1983, 'related': []}
+{'name': 'mercedes-benz om602 diesel engine', 'manufacturer': ['daimler-benz'], 'class': [], 'layout': [], 'production_year': 1985, 'related': []}
+{'name': 'file:nissan logo', 'manufacturer': ['nissan'], 'class': ['wikitable style=text-align:center', 'font-size:91%'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'daf 33', 'manufacturer': ['vdl nedcar', 'daf'], 'class': [], 'layout': ['fr layout'], 'production_year': 1967, 'related': []}

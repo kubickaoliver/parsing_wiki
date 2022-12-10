@@ -1,0 +1,5 @@
+{'name': 'clan crusader', 'manufacturer': [], 'class': ['sports car'], 'layout': ['rr layout'], 'production_year': 1971, 'related': []}
+{'name': 'rochdale olympic', 'manufacturer': ['rochdale motor panels and engineering'], 'class': ['kit car'], 'layout': [], 'production_year': 1959, 'related': []}
+{'name': 'wayne busette', 'manufacturer': ['wayne corporation'], 'class': ['type a', 'cutaway van'], 'layout': ['dual rear wheel 4x2'], 'production_year': '', 'related': []}
+{'name': 'renault alpine gta', 'manufacturer': ['renault', 'alpine', 'car', 'alpine'], 'class': ['sports car'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rr layout'], 'production_year': 1984, 'related': []}
+{'name': 'marauder a and 100', 'manufacturer': ['ubl', 'marauder car company limited', '00481727', 'previously wilks', 'mackie and company limited'], 'class': [], 'layout': [], 'production_year': 1950, 'related': []}

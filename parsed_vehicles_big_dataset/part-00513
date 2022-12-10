@@ -1,0 +1,5 @@
+{'name': 'renault dezir', 'manufacturer': ['renault'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'mid-motor', 'rear-wheel-drive'], 'production_year': 2010, 'related': []}
+{'name': 'mitsuoka himiko', 'manufacturer': ['mitsuoka'], 'class': ['grand tourer'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 2008, 'related': ['mazda mx-5']}
+{'name': 'mitsuoka like', 'manufacturer': ['mitsuoka'], 'class': [], 'layout': [], 'production_year': 2010, 'related': []}
+{'name': 're5r05a', 'manufacturer': ['jatco'], 'class': ['5-speed', 'longitudinal engine', 'longitudinal', 'automatic transmission'], 'layout': [], 'production_year': 2002, 'related': []}
+{'name': 'bedford sb', 'manufacturer': ['bedford vehicles', 'bedford'], 'class': ['wikitable border=1 style=float: left'], 'layout': [], 'production_year': 1950, 'related': []}

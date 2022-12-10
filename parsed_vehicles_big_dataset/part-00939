@@ -1,0 +1,3 @@
+{'name': 'dodge viper', 'manufacturer': [], 'class': ['sports car', 's-segment'], 'layout': [], 'production_year': 1995, 'related': []}
+{'name': 'pontiac master six', 'manufacturer': ['pontiac', 'pontiac'], 'class': [], 'layout': ['fr layout'], 'production_year': 1935, 'related': []}
+{'name': 'dodge viper', 'manufacturer': [], 'class': ['sports car', 's-segment'], 'layout': [], 'production_year': 2002, 'related': ['bristol fighter', 'automobile', 'bristol fighter']}

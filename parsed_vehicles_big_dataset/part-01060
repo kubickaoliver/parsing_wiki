@@ -1,0 +1,4 @@
+{'name': 'amc amx', 'manufacturer': ['american motors corporation', 'amc'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-drive'], 'production_year': 1969, 'related': []}
+{'name': 'costin sports roadster', 'manufacturer': [], 'class': ['sports car'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout'], 'production_year': '', 'related': []}
+{'name': 'bestune t33', 'manufacturer': ['faw group', 'besturn'], 'class': ['subcompact crossover', 'b-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front engine', 'front-wheel drive'], 'production_year': 2019, 'related': ['senia r7']}
+{'name': 'bestune t55', 'manufacturer': ['bestune'], 'class': ['compact', 'crossover sport utility vehicle', 'cuv', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front engine', 'front-wheel drive'], 'production_year': 2021, 'related': []}

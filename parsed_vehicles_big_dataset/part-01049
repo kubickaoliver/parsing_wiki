@@ -1,0 +1,5 @@
+{'name': 'gutbrod standard e1', 'manufacturer': ['gutbrod', 'standard werkzeugfabrik', 'germany'], 'class': [], 'layout': ['ff layout'], 'production_year': '', 'related': []}
+{'name': 'electric global modular platform', 'manufacturer': ['ubl', 'hyundai motor company', 'kia corporation'], 'class': [], 'layout': ['ubl', 'rear-engine', 'rear-wheel-drive layout', 'rear-motor', 'rear-wheel drive', 'dual-motor', 'all-wheel drive'], 'production_year': 2021, 'related': []}
+{'name': 'oldsmobile six', 'manufacturer': ['general motors'], 'class': [], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'oldsmobile six f-series', 'manufacturer': ['general motors'], 'class': [], 'layout': ['fr layout'], 'production_year': '', 'related': []}
+{'name': 'oldsmobile eight f-series', 'manufacturer': ['oldsmobile', 'general motors'], 'class': [], 'layout': ['front engine', 'rear drive'], 'production_year': '', 'related': []}

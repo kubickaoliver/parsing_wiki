@@ -1,0 +1,2 @@
+{'name': 'iveco s-way', 'manufacturer': ['iveco'], 'class': ['truck classification', 'class 8', 'class 8', 'heavy-duty truck', 'heavy-duty truck'], 'layout': [], 'production_year': 2019, 'related': ['nikola motor', 'nikola tre', 'nikola tre']}
+{'name': 'toyota ba', 'manufacturer': ['toyota'], 'class': ['truck classification', 'class 3', 'class 3 truck'], 'layout': [], 'production_year': 1954, 'related': ['toyota bb', 'fb buses']}

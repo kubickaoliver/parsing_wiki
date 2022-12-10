@@ -1,0 +1,5 @@
+{'name': 'bmc professional', 'manufacturer': ['bmc', 'turkey', 'bmc'], 'class': [], 'layout': [], 'production_year': 1996, 'related': ['ford cargo', 'bmc fatih']}
+{'name': 'bmc fatih', 'manufacturer': ['bmc', 'turkey', 'bmc'], 'class': [], 'layout': [], 'production_year': 1986, 'related': ['ford cargo', 'bmc professional']}
+{'name': 'lane motor vehicle company', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1900, 'related': []}
+{'name': 'fsc a-30', 'manufacturer': ['fabryka samochodów ciężarowych', 'fsc'], 'class': ['light commercial vehicle', 'm-segment', 'off-road vehicle', 'off-road capable', 'van'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'four-wheel drive'], 'production_year': 1968, 'related': ['polski fiat 125p']}
+{'name': 'iveco 491 cityclass', 'manufacturer': ['flag', 'italy', 'iveco', 'flag', 'irisbus'], 'class': [], 'layout': ['- transversal', 'rear overhang', '- longitudinal', 'rear overhang'], 'production_year': '', 'related': []}

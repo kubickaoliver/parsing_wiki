@@ -1,0 +1,4 @@
+{'name': 'alfa romeo 8c competizione', 'manufacturer': ['fca italy', 'fiat group automobiles'], 'class': ['sports car', 's-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive'], 'production_year': 2007, 'related': ['unbulleted list']}
+{'name': 'alfa romeo giulietta', 'manufacturer': ['alfa romeo'], 'class': ['midsize car', 'd-segment'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1977, 'related': ['alfa romeo alfetta']}
+{'name': 'ford focus', 'manufacturer': ['ford motor company', 'ford'], 'class': ['compact car', 'small family car', 'c-segment'], 'layout': [], 'production_year': 2007, 'related': []}
+{'name': 'flxible new look', 'manufacturer': ['flxible'], 'class': ['transit bus'], 'layout': [], 'production_year': 1960, 'related': []}

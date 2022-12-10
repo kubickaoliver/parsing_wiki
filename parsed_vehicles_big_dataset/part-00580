@@ -1,0 +1,4 @@
+{'name': 'dodge lcf series', 'manufacturer': ['dodge', 'chrysler'], 'class': ['heavy-duty truck'], 'layout': ['front-engine design', 'front engine', 'rear-wheel drive'], 'production_year': 1960, 'related': ['dodge c series']}
+{'name': 'marussia b1', 'manufacturer': ['marussia motors'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel drive layout', 'rmr'], 'production_year': 2009, 'related': []}
+{'name': 'anteros', 'manufacturer': [], 'class': ['sports car', 's-segment'], 'layout': ['front mid-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive'], 'production_year': 2006, 'related': ['chevrolet corvette']}
+{'name': '2004 almac sabre s2', 'manufacturer': ['almac'], 'class': ['two-seater sports coupe'], 'layout': [], 'production_year': 2004, 'related': []}

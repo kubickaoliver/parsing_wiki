@@ -1,0 +1,3 @@
+{'name': 'divergent blade', 'manufacturer': ['divergent technologies'], 'class': ['sports car', 's-segment', '!-- per', 'wp:carclass', 'this should not be changed to supercar or hypercar --'], 'layout': ['mr layout'], 'production_year': '', 'related': []}
+{'name': 'jaguar e-pace', 'manufacturer': ['jaguar land rover'], 'class': ['luxury vehicle', 'premium compact', 'subcompact luxury', 'crossover suv', 'c-segment'], 'layout': ['ubl'], 'production_year': 2017, 'related': ['ubl']}
+{'name': 'mitsubishi xpander', 'manufacturer': ['mitsubishi motors'], 'class': ['compact mpv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2017, 'related': []}

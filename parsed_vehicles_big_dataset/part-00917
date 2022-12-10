@@ -1,0 +1,5 @@
+{'name': 'karry youya i', 'manufacturer': ['karry', 'chery'], 'class': ['compact mpv'], 'layout': [], 'production_year': 2007, 'related': []}
+{'name': 'baojun 510', 'manufacturer': ['saic-gm-wuling'], 'class': ['subcompact crossover suv'], 'layout': ['front-engine', 'front-wheel-drive'], 'production_year': 2017, 'related': ['unbulleted list']}
+{'name': 'bmw i4', 'manufacturer': ['bmw'], 'class': ['compact executive car', 'd-segment'], 'layout': ['unbulleted list'], 'production_year': 2021, 'related': ['unbulleted list']}
+{'name': 'volkswagen jetta king', 'manufacturer': ['faw-volkswagen'], 'class': ['compact car', 'compact'], 'layout': ['front-engine design', 'front engine', 'front-wheel drive'], 'production_year': 1997, 'related': ['volkswagen jetta', 'second generation', 'typ 16', 'volkswagen jetta', 'volkswagen passat', 'volkswagen passat']}
+{'name': 'zotye t600', 'manufacturer': ['zotye'], 'class': ['mid-size car', 'mid-size', 'crossover', 'automobile', 'cuv'], 'layout': ['front-engine', 'front-wheel-drive layout'], 'production_year': 2013, 'related': []}

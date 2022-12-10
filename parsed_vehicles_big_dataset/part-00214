@@ -1,0 +1,4 @@
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2007, 'related': ['nissan rogue', 'j10', 'nissan rogue', 's35', 'nissan dualis', 'nissan qashqai', 'j10', 'fengdu mx6', 'nissan x-trail', 't31']}
+{'name': 'douglas', 'manufacturer': ['douglas engineering company'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1914, 'related': []}
+{'name': 'isuzu d-max', 'manufacturer': ['isuzu motors'], 'class': ['compact car', 'compact', 'pickup truck', '2002–2011'], 'layout': ['ubl'], 'production_year': 2002, 'related': []}
+{'name': 'mercury monterey', 'manufacturer': ['mercury', 'automobile', 'mercury', 'ford motor company', 'ford'], 'class': ['full-size'], 'layout': ['fr layout'], 'production_year': 1952, 'related': ['lincoln cosmopolitan', 'second generation', '1952-1954', 'lincoln cosmopolitian', 'lincoln capri', 'mercury custom', 'ford crestline skyliner']}

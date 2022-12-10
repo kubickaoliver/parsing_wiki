@@ -1,0 +1,3 @@
+{'name': 'volga gaz-24', 'manufacturer': ['gaz'], 'class': ['executive car', 'full-size car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel drive'], 'production_year': 2401, 'related': ['gaz-3102', 'gaz-31029', 'gaz-3110', 'gaz-31105']}
+{'name': 'ford falcon', 'manufacturer': ['ford australia'], 'class': ['full-size car'], 'layout': [], 'production_year': 1973, 'related': []}
+{'name': 'ford falcon', 'manufacturer': ['ford australia'], 'class': ['full-size car'], 'layout': [], 'production_year': 1976, 'related': []}

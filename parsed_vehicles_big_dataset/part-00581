@@ -1,0 +1,4 @@
+{'name': 'renault frendzy', 'manufacturer': ['renault'], 'class': ['leisure activity vehicle', 'm-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'ff layout'], 'production_year': 2011, 'related': ['renault kangoo', 'renault kangoo z']}
+{'name': 'bliss', 'manufacturer': ['bliss company'], 'class': ['touring car'], 'layout': [], 'production_year': 1906, 'related': []}
+{'name': 'land rover dc100', 'manufacturer': [], 'class': ['concept car'], 'layout': ['front-engine design', 'front engine', 'four-wheel drive'], 'production_year': '', 'related': []}
+{'name': 'ford evos', 'manufacturer': ['ford motor company', 'ford'], 'class': ['grand tourer', 's-segment'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rr layout'], 'production_year': 2011, 'related': ['lincoln mkr']}

@@ -1,0 +1,4 @@
+{'name': 'mini john cooper works rally', 'manufacturer': ['bmw', 'mini', 'marque', 'mini'], 'class': ['rally raid'], 'layout': ['front-engine', 'four-wheel drive layout', 'f4 layout'], 'production_year': 2016, 'related': []}
+{'name': 'aston martin db4 gt jet', 'manufacturer': ['aston martin lagonda limited', 'gruppo bertone'], 'class': [], 'layout': [], 'production_year': 1960, 'related': ['aston martin db4']}
+{'name': 'mclaren 720s', 'manufacturer': ['mclaren automotive'], 'class': ['sports car', 's-segment'], 'layout': [], 'production_year': 2017, 'related': ['ubl']}
+{'name': 'oushan x5', 'manufacturer': ['changan automobile'], 'class': ['compact car', 'compact', 'crossover suv', 'crossover suv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2020, 'related': []}

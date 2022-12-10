@@ -1,0 +1,6 @@
+{'name': 'wayne lifestar', 'manufacturer': ['wayne corporation', 'wayne wheeled vehicles'], 'class': ['type d'], 'layout': ['front-engine 4×2'], 'production_year': 1986, 'related': ['wayne lifeguard']}
+{'name': 'gq by citroën', 'manufacturer': ['citroën', 'in cooperation with'], 'class': ['compact car', 'c-segment'], 'layout': ['front-engine design', 'front-engine', 'rear-wheel-drive'], 'production_year': 2010, 'related': []}
+{'name': 'lexus ct', 'manufacturer': ['lexus', 'toyota'], 'class': ['luxury vehicle', 'premium compact', 'subcompact executive car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2011, 'related': ['toyota auris', 'e180']}
+{'name': 'fiat moretti sportiva', 'manufacturer': ['moretti motor company'], 'class': [], 'layout': ['rear-engine', 'rear-wheel-drive layout'], 'production_year': 1965, 'related': ['fiat 850', 'fiat 850 coupe']}
+{'name': 'frontenac', 'manufacturer': ['ford motor company of canada', 'ford of canada'], 'class': ['compact car', 'compact'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'fr layout'], 'production_year': 1960, 'related': ['ford falcon', 'north america', 'ford falcon', 'mercury comet', 'comet']}
+{'name': 'chevrolet 265', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1954, 'related': []}

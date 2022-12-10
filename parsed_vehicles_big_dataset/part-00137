@@ -1,0 +1,7 @@
+{'name': 'lotus europa s', 'manufacturer': ['lotus cars'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'transverse mid-engine', 'rear-wheel drive'], 'production_year': 2006, 'related': ['unbulleted list']}
+{'name': 'ariel atom', 'manufacturer': ['ariel motor company'], 'class': ['sports car'], 'layout': [], 'production_year': 2000, 'related': []}
+{'name': 'warwick gt', 'manufacturer': [], 'class': [], 'layout': ['fr layout'], 'production_year': 1960, 'related': []}
+{'name': 'panther 6', 'manufacturer': ['panther westwinds', 'panther westwinds ltd'], 'class': [], 'layout': ['rmr layout'], 'production_year': 1977, 'related': []}
+{'name': 'ruf ctr yellowbird', 'manufacturer': ['ruf automobile', 'ruf automobile gmbh'], 'class': ['sports car', 's-segment'], 'layout': ['longitudinal engine', 'longitudinally-mounted', 'rear-engine', 'rear-wheel-drive layout', 'rear-engine', 'rear-wheel-drive'], 'production_year': 1987, 'related': ['porsche 911', 'classic', 'porsche 911']}
+{'name': 'renault samsung sm7', 'manufacturer': ['renault samsung motors'], 'class': ['full-size car', 'executive car', 'e-segment'], 'layout': ['front-engine design', 'front engine', 'front-wheel drive'], 'production_year': 2004, 'related': []}
+{'name': 'triumph v8', 'manufacturer': ['triumph motor company'], 'class': [], 'layout': [], 'production_year': 1971, 'related': []}

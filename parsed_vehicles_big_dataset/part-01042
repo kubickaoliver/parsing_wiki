@@ -1,0 +1,6 @@
+{'name': 'transbus', 'manufacturer': ['ubl', 'am general', 'flxible', 'rohr', 'inc', 'rohr', 'general motors'], 'class': ['transit bus'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'holden utility', 'manufacturer': ['holden', 'general motors'], 'class': ['coupé utility'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1990, 'related': ['holden commodore']}
+{'name': 'karry dolphin', 'manufacturer': ['karry'], 'class': ['light commercial vehicle'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rear-engine', 'rear-wheel-drive'], 'production_year': 2019, 'related': []}
+{'name': 'karry aika', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2012, 'related': ['isuzu faster']}
+{'name': 'huansu h5', 'manufacturer': ['huansu'], 'class': ['multi purpose vehicle', 'mpv'], 'layout': ['ff layout'], 'production_year': 2017, 'related': []}
+{'name': 'geely k12', 'manufacturer': ['kandi technologies'], 'class': ['microcar'], 'layout': ['front-engine', 'front-wheel-drive layout'], 'production_year': 2016, 'related': []}

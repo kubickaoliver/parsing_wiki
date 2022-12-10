@@ -1,0 +1,5 @@
+{'name': 'porsche 981', 'manufacturer': [], 'class': ['wikitable'], 'layout': [], 'production_year': 2012, 'related': []}
+{'name': 'tagaz aquila', 'manufacturer': ['tagaz'], 'class': ['compact car'], 'layout': ['ff layout'], 'production_year': 2013, 'related': []}
+{'name': 'gaz sobol', 'manufacturer': ['gaz', 'gorky automobile plant'], 'class': ['light commercial vehicle'], 'layout': ['fr layout'], 'production_year': 1998, 'related': []}
+{'name': '1923 chevrolet series m copper-cooled', 'manufacturer': ['chevrolet', 'general motors'], 'class': [], 'layout': [], 'production_year': '', 'related': ['chevrolet superior']}
+{'name': 'daihatsu luxio', 'manufacturer': ['daihatsu'], 'class': ['minivan'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive'], 'production_year': 2009, 'related': ['daihatsu gran max']}

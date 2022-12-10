@@ -1,0 +1,3 @@
+{'name': 'ds 4s', 'manufacturer': ['ds automobiles'], 'class': ['subcompact executive car', 'c-segment'], 'layout': ['front-engine', 'front-wheel-drive layout'], 'production_year': 2015, 'related': ['ds 5ls']}
+{'name': 'renault trezor', 'manufacturer': ['renault'], 'class': ['concept car'], 'layout': ['mid-engine design', 'mid-mounted'], 'production_year': 2016, 'related': []}
+{'name': 'mclaren 720s', 'manufacturer': ['mclaren automotive'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel drive layout', 'rear mid-engine', 'rear-wheel drive'], 'production_year': 2017, 'related': ['ubl']}

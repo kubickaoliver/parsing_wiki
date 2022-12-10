@@ -1,0 +1,5 @@
+{'name': 'dewcar', 'manufacturer': ['engineering co ltd'], 'class': ['cyclecar'], 'layout': [], 'production_year': 1913, 'related': []}
+{'name': 'kia joice', 'manufacturer': ['kia motors'], 'class': ['compact mpv', 'm-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1999, 'related': ['mitsubishi chariot', 'hyundai santamo']}
+{'name': 'meadows frisky', 'manufacturer': ['henry meadows ltd'], 'class': ['microcar'], 'layout': ['rmr layout', 'rmr'], 'production_year': 1958, 'related': []}
+{'name': 'ford ranger', 'manufacturer': ['ford motor company', 'ford'], 'class': ['pickup truck', 'compact pickup truck', '1998&ndash', '2011', 'pickup truck', 'mid-size pickup truck', '2011&ndash', 'present'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive', 'front-engine', 'four-wheel-drive layout', 'four-wheel-drive'], 'production_year': 1998, 'related': ['ford everest', 'mazda b-series', 'mazda bt-50']}
+{'name': 'talbot 14-45', 'manufacturer': ['talbot', 'automobile', 'talbot'], 'class': ['sports car'], 'layout': [], 'production_year': 1926, 'related': []}
