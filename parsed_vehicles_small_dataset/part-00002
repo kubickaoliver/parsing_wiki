@@ -1,0 +1,16 @@
+{'name': 'first generation', 'manufacturer': [], 'class': ['wikitable'], 'layout': [], 'production_year': 2004, 'related': ['nissan livina', 'first', 'nissan livina', 'l10', 'l11', 'nissan ad', 'y12', 'nissan ad', 'wingroad', 'y12', 'nissan tiida', 'c11', 'nissan tiida', 'c11']}
+{'name': 'saab aero-x', 'manufacturer': ['saab automobile'], 'class': ['sports car'], 'layout': ['saab xwd', 'all-wheel-drive'], 'production_year': 2006, 'related': []}
+{'name': 'renault magnum', 'manufacturer': ['renault trucks'], 'class': ['truck'], 'layout': [], 'production_year': 1990, 'related': ['mack magnum']}
+{'name': 'mg c-type', 'manufacturer': ['car'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1931, 'related': []}
+{'name': 'toyota fortuner', 'manufacturer': ['toyota'], 'class': ['mid-size suv'], 'layout': ['unbulleted list'], 'production_year': 2004, 'related': ['unbulleted list']}
+{'name': 'mg d-type midget', 'manufacturer': ['car'], 'class': ['sports car'], 'layout': ['fr layout'], 'production_year': 1931, 'related': []}
+{'name': '4f27e', 'manufacturer': ['ford motor company', 'mazda motor company'], 'class': ['4-speed', 'transverse engine', 'transverse', 'automatic transmission', 'automatic', 'transaxle'], 'layout': [], 'production_year': 2000, 'related': []}
+{'name': 'turbo-hydramatic 180', 'manufacturer': ['unbulleted list'], 'class': ['3-speed', 'longitudinal engine', 'longitudinal', 'automatic transmission'], 'layout': [], 'production_year': 1969, 'related': ['unbulleted list']}
+{'name': 'turbo-hydramatic 425', 'manufacturer': ['general motors corporation', 'general motors'], 'class': ['3-speed', 'longitudinal engine', 'longitudinal', 'automatic transmission'], 'layout': [], 'production_year': 1966, 'related': []}
+{'name': '4l30-e', 'manufacturer': ['general motors corporation', 'general motors'], 'class': ['4-speed', 'longitudinal engine', 'longitudinal', 'automatic transmission'], 'layout': [], 'production_year': 1991, 'related': []}
+{'name': 'mg f-type magna', 'manufacturer': ['car'], 'class': ['sports car'], 'layout': [], 'production_year': 1931, 'related': []}
+{'name': 'san storm', 'manufacturer': ['san motors india ltd'], 'class': ['roadster', 'automobile', 'roadster'], 'layout': ['ff layout'], 'production_year': 1998, 'related': []}
+{'name': 'volkswagen taro', 'manufacturer': ['volkswagen commercial vehicles', 'toyota', 'hino motors', 'hino'], 'class': ['light commercial vehicle'], 'layout': ['longitudinal engine', 'longitudinal', 'front-engine design', 'front engine', 'rear-wheel drive', '4x2', 'four-wheel drive', '4x4'], 'production_year': 1989, 'related': []}
+{'name': 'l3n71b', 'manufacturer': ['jatco'], 'class': ['3-speed', 'longitudinal engine', 'longitudinal', 'automatic transmission'], 'layout': [], 'production_year': 1969, 'related': []}
+{'name': 'l4n71b', 'manufacturer': ['jatco'], 'class': ['4-speed', 'longitudinal engine', 'longitudinal', 'automatic transmission'], 'layout': [], 'production_year': 1983, 'related': []}
+{'name': 'rl4r01a', 'manufacturer': ['jatco'], 'class': ['4-speed', 'longitudinal engine', 'longitudinal', 'automatic transmission'], 'layout': [], 'production_year': 1988, 'related': []}

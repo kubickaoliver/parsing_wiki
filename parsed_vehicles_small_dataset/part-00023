@@ -1,0 +1,4 @@
+{'name': 'will vi series ncp19', 'manufacturer': ['toyota'], 'class': ['subcompact car', 'subcompact'], 'layout': ['ff layout'], 'production_year': 2000, 'related': ['toyota vitz']}
+{'name': 'ac greyhound', 'manufacturer': ['ac cars'], 'class': ['grand tourer'], 'layout': [], 'production_year': 1959, 'related': []}
+{'name': 'nissan cherry', 'manufacturer': ['nissan'], 'class': ['supermini', 'subcompact car'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1970, 'related': []}
+{'name': 'škoda roomster', 'manufacturer': ['škoda auto'], 'class': ['small family car', 'roomster', 'ref name= parkers car guides skoda roomster 2006 to 2015', 'ref name=what car 2005 to 2010 review', 'panel van', 'praktik'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2006, 'related': ['škoda fabia', 'mk2', 'škoda fabia mk2']}

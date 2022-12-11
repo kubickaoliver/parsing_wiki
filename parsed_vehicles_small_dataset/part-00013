@@ -1,0 +1,6 @@
+{'name': 'scania omnilink', 'manufacturer': ['scania', 'company', 'scania ab'], 'class': [], 'layout': [], 'production_year': 1998, 'related': ['scania omnicity']}
+{'name': 'lincoln k series', 'manufacturer': ['lincoln motor company', 'lincoln', 'ford motor company', 'ford'], 'class': ['luxury car'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'lincoln sport', 'manufacturer': ['lincoln motor company', 'lincoln', 'ford motor company', 'ford'], 'class': ['luxury car'], 'layout': [], 'production_year': '', 'related': []}
+{'name': 'mercedes-benz clk gtr straßenversion', 'manufacturer': ['mercedes-amg', 'amg', 'in collaboration with', 'hans werner aufrecht', 'hwa ag'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 1998, 'related': []}
+{'name': 'isuzu bellett', 'manufacturer': ['isuzu'], 'class': ['compact car', 'compact'], 'layout': ['fr layout'], 'production_year': 1963, 'related': []}
+{'name': 'rolls-royce 10 hp', 'manufacturer': ['royce limited'], 'class': [], 'layout': [], 'production_year': 1904, 'related': []}

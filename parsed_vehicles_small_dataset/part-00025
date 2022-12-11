@@ -1,0 +1,6 @@
+{'name': 'austin ten', 'manufacturer': ['austin motor company', 'austin'], 'class': [], 'layout': [], 'production_year': 1932, 'related': []}
+{'name': 'aston martin short chassis volante', 'manufacturer': ['aston martin', 'limited'], 'class': ['grand tourer'], 'layout': ['fr layout'], 'production_year': 1965, 'related': []}
+{'name': 'caparo t1', 'manufacturer': ['caparo vehicle technologies'], 'class': ['sports car', 's-segment'], 'layout': ['rmr layout', 'mid-engine', 'rear-wheel drive'], 'production_year': '', 'related': []}
+{'name': 'elfin ms8 streamliner', 'manufacturer': ['elfin cars'], 'class': ['sports car', 's-segment'], 'layout': [], 'production_year': 2006, 'related': ['elfin ms8 clubman']}
+{'name': 'elfin ms8 clubman', 'manufacturer': ['elfin cars'], 'class': [], 'layout': [], 'production_year': 2006, 'related': ['elfin ms8 streamliner', 'streamliner']}
+{'name': 'mini clubman', 'manufacturer': ['bmw', 'mini', 'marque', 'mini marque'], 'class': ['luxury vehicle', 'premium compact', 'subcompact executive car', 'c-segment', 'ref', 'cite web', 'title=mini clubman refresh debuts with new grille and headlights', 'url=https:', 'www', 'motor1', 'com', 'news', '344702', '2019-mini-clubman-refresh', 'ref'], 'layout': ['front-engine design', 'front engine', 'front-wheel drive'], 'production_year': 2007, 'related': ['mini hatch']}

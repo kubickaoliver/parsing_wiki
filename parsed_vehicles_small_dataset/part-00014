@@ -1,0 +1,7 @@
+{'name': 'chrysler phaeton', 'manufacturer': ['chrysler', 'division', 'chrysler'], 'class': ['concept car'], 'layout': ['fr layout'], 'production_year': 1997, 'related': []}
+{'name': 'volkswagen country buggy', 'manufacturer': ['volkswagen'], 'class': ['ute', 'vehicle', 'ute'], 'layout': ['rear-engine', 'rear-wheel-drive layout', 'rr layout'], 'production_year': 1967, 'related': []}
+{'name': 'isuzu 117 coupé', 'manufacturer': ['isuzu'], 'class': ['compact car', 'compact', 'grand tourer', 'gt-type', 'sports car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1968, 'related': ['isuzu florian']}
+{'name': 'holden captiva', 'manufacturer': ['general motors'], 'class': [], 'layout': [], 'production_year': 2006, 'related': []}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 1983, 'related': []}
+{'name': 'mercedes-benz 190 sl', 'manufacturer': ['daimler-benz'], 'class': ['sports car', 'grand tourer'], 'layout': ['fr layout'], 'production_year': 1955, 'related': ['mercedes-benz w198', '300 sl', 'mercedes-benz w120', '121']}
+{'name': 'volkswagen logus', 'manufacturer': ['volkswagen', 'autolatina'], 'class': [], 'layout': ['ff layout'], 'production_year': 1993, 'related': ['ford escort', 'europe', 'fifth generation', '1990–1997', 'ford escort mk5']}

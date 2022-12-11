@@ -1,0 +1,5 @@
+{'name': 'aston martin dbs v12', 'manufacturer': ['aston martin', 'aston martin lagonda limited'], 'class': ['grand tourer', 's-segment'], 'layout': ['front mid-engine', 'rear-wheel-drive layout', 'front mid-engine', 'rear-wheel-drive'], 'production_year': 2007, 'related': ['unbulleted list']}
+{'name': 'lancia gamma', 'manufacturer': ['lancia'], 'class': ['executive car', 'e-segment'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 1976, 'related': ['lancia beta', 'ref name=carsfrom']}
+{'name': 'zap xebra', 'manufacturer': ['zap', 'motor company', 'zap'], 'class': ['sedan', 'automobile', 'sedan', 'truck'], 'layout': [], 'production_year': 2006, 'related': []}
+{'name': 'bmw n52 engine', 'manufacturer': [], 'class': ['wikitable sortable style=text-align: center'], 'layout': [], 'production_year': 2004, 'related': []}
+{'name': 'volkswagen wasserboxer', 'manufacturer': ['volkswagen group'], 'class': ['wikitable sortable style=text-align: center', 'font-size: 94% width=100%'], 'layout': [], 'production_year': 1982, 'related': []}

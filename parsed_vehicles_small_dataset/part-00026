@@ -1,0 +1,6 @@
+{'name': 'delfino feroce', 'manufacturer': ['delfino uk'], 'class': ['roadster', 'automobile', 'roadster'], 'layout': ['front engine', 'all wheel drive', 'awd'], 'production_year': 2000, 'related': []}
+{'name': 'nissan r390 gt1', 'manufacturer': ['nissan'], 'class': ['sports car', 's-segment'], 'layout': ['rear mid-engine', 'rear-wheel-drive layout', 'rear mid-engine', 'rear-wheel-drive'], 'production_year': 1997, 'related': []}
+{'name': 'lotus eleven', 'manufacturer': ['lotus cars'], 'class': ['sports car'], 'layout': ['front-engine', 'rear-wheel-drive layout', 'front-engine', 'rear-wheel-drive'], 'production_year': 1956, 'related': []}
+{'name': 'chery v5', 'manufacturer': ['chery'], 'class': ['compact mpv'], 'layout': ['front-engine', 'front-wheel-drive layout', 'front-engine', 'front-wheel-drive'], 'production_year': 2006, 'related': ['chery eastar']}
+{'name': 'morris six series ms', 'manufacturer': ['morris motors', 'morris', 'british motor corporation', 'bmc'], 'class': ['mid-size car', 'mid-size'], 'layout': ['fr layout'], 'production_year': 1948, 'related': []}
+{'name': 'subaru sambar', 'manufacturer': ['subaru'], 'class': ['kei truck'], 'layout': ['rr layout'], 'production_year': 1961, 'related': ['subaru 360']}

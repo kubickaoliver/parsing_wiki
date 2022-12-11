@@ -1,0 +1,4 @@
+{'name': 'mighty boy ss40t', 'manufacturer': [], 'class': [], 'layout': ['front-engine', 'front-wheel drive layout', 'transversely mounted'], 'production_year': '', 'related': []}
+{'name': 'opel combo', 'manufacturer': ['opel', 'efn', 'name=manufacturer', 'ubl', 'general motors', '1986–2017', 'psa group', '2017–2021', 'stellantis', '2021–present'], 'class': ['panel van', 'leisure activity vehicle'], 'layout': ['front-engine', 'front-wheel drive layout', 'front-engine', 'front-wheel drive'], 'production_year': 1986, 'related': ['opel kadett']}
+{'name': 'morris minor', 'manufacturer': ['morris motors', 'morris motors limited'], 'class': ['small car'], 'layout': ['front engine rear wheel drive'], 'production_year': 1928, 'related': ['wolseley hornet six', 'wolseley hornet', 'mg midget', 'ref group=note', 'to come', 'ref']}
+{'name': 'rover kv6 engine', 'manufacturer': ['rover group', 'mg rover group'], 'class': [], 'layout': [], 'production_year': 1996, 'related': []}

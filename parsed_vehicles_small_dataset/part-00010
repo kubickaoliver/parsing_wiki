@@ -1,0 +1,5 @@
+{'name': 'ee k type', 'manufacturer': ['english electric'], 'class': ['wikitable sortable'], 'layout': [], 'production_year': 1934, 'related': []}
+{'name': 'boss 302 mustang', 'manufacturer': ['ford motor company', 'ford'], 'class': ['muscle car'], 'layout': ['fr layout'], 'production_year': 1969, 'related': ['ford mustang']}
+{'name': 'first generation', 'manufacturer': ['international harvester'], 'class': ['full-size suv'], 'layout': [], 'production_year': '', 'related': ['international harvester r-series', 'ihc r', 's series']}
+{'name': 'mercedes-benz e-class', 'manufacturer': ['daimler ag'], 'class': ['executive car', 'e-segment'], 'layout': ['front-engine design', 'front engine', 'rear-wheel drive', 'four-wheel drive', '4matic'], 'production_year': 2009, 'related': ['ubl']}
+{'name': 'first generation', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': 2002, 'related': []}

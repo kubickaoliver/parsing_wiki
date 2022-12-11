@@ -1,0 +1,7 @@
+{'name': 'alfa romeo 33 stradale', 'manufacturer': ['alfa romeo'], 'class': ['sports car'], 'layout': ['rear mid-engine', 'rear-wheel drive layout', 'rear mid-engine', 'rear-wheel drive'], 'production_year': 1967, 'related': ['alfa romeo tipo 33']}
+{'name': 'tmc costin', 'manufacturer': ['thompson manufacturing company'], 'class': ['sports car'], 'layout': ['front-engine', 'rear-wheel-drive layout'], 'production_year': 1983, 'related': []}
+{'name': 'optare tempo', 'manufacturer': ['optare'], 'class': [], 'layout': [], 'production_year': 2005, 'related': []}
+{'name': 'toyota v engine', 'manufacturer': ['toyota'], 'class': ['wikitable'], 'layout': [], 'production_year': 1963, 'related': []}
+{'name': 'megatron', 'manufacturer': ['flagicon', 'germany', 'bmw'], 'class': ['wikitable style=text-align:center', 'font-size:85%'], 'layout': [], 'production_year': 1982, 'related': []}
+{'name': 'gmt400', 'manufacturer': ['general motors corporation', 'general motors'], 'class': ['full-size car', 'full size', 'truck'], 'layout': ['fr layout', 'four-wheel-drive', '4wd'], 'production_year': 1986, 'related': []}
+{'name': 'mercedes-benz c-class', 'manufacturer': ['daimler ag'], 'class': ['compact executive car', 'd-segment'], 'layout': ['front-engine', 'rear-wheel-drive', 'front-engine', 'all-wheel-drive', '4matic'], 'production_year': '', 'related': ['mercedes-benz e-class', 'c207']}

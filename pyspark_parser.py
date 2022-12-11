@@ -7,8 +7,25 @@ from pyspark.sql import SparkSession
 from pyspark.sql.types import *
 from search_simular_vehicle import create_indexes, query_user_vehicle, query_three_simular_vehicle, Index
 
-# vehicle name for example: audi e-tron gt
+
+# Do you want to parse dataset? 
+PARSE_DATASET = False
+
+# If parse the data == true choose dataset name
+# Small dataset - dataset/enwiki-20220920-pages-meta-current10.xml-p4045403p5399366.bz2
+# Big dataset - dataset/enwiki-20220920-pages-meta-current.xml.bz2
+DATASET_PATH = 'dataset/enwiki-20220920-pages-meta-current10.xml-p4045403p5399366.bz2'
+
+# This variable have to be set in case that you don't want to parse data (PARSE_DATASET == False) but just searching in parsed data
+# If you don't want to parse datset, choose dataset folder name in which you want to search for simular vehicles
+# You want big dataset, you have to choose  './parsed_vehicles_big_dataset'
+# You want small dataset, you have to choose  './parsed_vehicles_small_dataset'
+PARSED_VEHICLES = './parsed_vehicles_big_dataset'
+
+# For big dataset choose for example audi e-tron gt
+# For small dataset choose for example honda civic si
 USERS_VEHICLE = 'audi e-tron gt'
+
 
 class Vehicle:
     def __init__(self, name='', manufacturer=[], production='', vehicle_class=[], layout=[], related=[]):
@@ -80,10 +97,10 @@ def parsing_wiki(row):
     return None
 
 
-def search_simular_vehicle():
+def search_simular_vehicle(parsed_vehicle_folder: str):
     vehicles = []
     # Create index from parsed vehicles
-    os.chdir('./parsed_vehicles_big_dataset')
+    os.chdir(parsed_vehicle_folder)
     for file_name in os.listdir():
         if not file_name.endswith(".crc") and file_name != '_SUCCESS':
             with open(f'{file_name}', 'r') as f:
@@ -120,26 +137,28 @@ def search_simular_vehicle():
 
 
 if __name__ == "__main__":
-    sc = SparkContext("local[*]", "wiki_parsing")
-    spark = SparkSession.builder.master("local[*]").appName("wiki_parsing").getOrCreate()
-    start = time.time()
-    
-    xml_schema = StructType([\
-        StructField('revision', StructType([
-            StructField('text', StringType(), True)
-        ]))
-    ])
+    parsed_vehicle_folder = './new_parsed_vehicles'
+    if PARSE_DATASET == True:
+        sc = SparkContext("local[*]", "wiki_parsing")
+        spark = SparkSession.builder.master("local[*]").appName("wiki_parsing").getOrCreate()
+        start = time.time()
+        
+        xml_schema = StructType([\
+            StructField('revision', StructType([
+                StructField('text', StringType(), True)
+            ]))
+        ])
 
-    # dataset/enwiki-20220920-pages-meta-current10.xml-p4045403p5399366.bz2
-    # dataset/enwiki-20220920-pages-meta-current.xml.bz2
-    df = spark.read\
-        .format('xml')\
-            .options(rowTag="page")\
-                .load("dataset/enwiki-20220920-pages-meta-current10.xml-p4045403p5399366.bz2", schema=xml_schema)
+        df = spark.read\
+            .format('xml')\
+                .options(rowTag="page")\
+                    .load(DATASET_PATH, schema=xml_schema)
 
-    rdd2 = df.rdd.map(lambda row: parsing_wiki(row)).filter(lambda row: row != None)
-    rdd2.saveAsTextFile("./parsed_vehicles")
-    print(time.time() - start, 's')
+        rdd2 = df.rdd.map(lambda row: parsing_wiki(row)).filter(lambda row: row != None)
+        rdd2.saveAsTextFile(parsed_vehicle_folder)
+        print(time.time() - start, 's')
+    else:
+        parsed_vehicle_folder = PARSED_VEHICLES
 
-    search_simular_vehicle()
+    search_simular_vehicle(parsed_vehicle_folder)
  
