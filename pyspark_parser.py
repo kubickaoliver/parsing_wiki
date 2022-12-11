@@ -20,11 +20,11 @@ DATASET_PATH = 'dataset/enwiki-20220920-pages-meta-current10.xml-p4045403p539936
 # If you don't want to parse datset, choose dataset folder name in which you want to search for simular vehicles
 # You want big dataset, you have to choose  './parsed_vehicles_big_dataset'
 # You want small dataset, you have to choose  './parsed_vehicles_small_dataset'
-PARSED_VEHICLES = './parsed_vehicles_big_dataset'
+PARSED_VEHICLES = './parsed_vehicles_small_dataset'
 
 # For big dataset choose for example audi e-tron gt
-# For small dataset choose for example honda civic si
-USERS_VEHICLE = 'audi e-tron gt'
+# For small dataset choose for example ford s-max
+USERS_VEHICLE = 'ford s-max'
 
 
 class Vehicle:
