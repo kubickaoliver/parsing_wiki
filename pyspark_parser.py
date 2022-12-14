@@ -36,23 +36,25 @@ class Vehicle:
         self.layout = layout
         self.related = related
 
-
+# General function for parsing parameters values from infobox
 def parse_parameter_value(parameter: str, text: str) -> list:
     regex = f"(\|){{1}}(\s)*({parameter}){{1}}(\s)*(=){{1}}(.*?)(?=\\\\n)"
     matches = re.findall(regex, text, re.MULTILINE)
 
     if matches:
         value = matches[0][5]
+        # Split parameter's value accroding to speciefied delimiters
         values = re.split(r"[/;,.#()\[\]|<>{}\\']\s*", value)
         result_values = []
         for item in values:
             item = str(item).lstrip().rstrip().replace('\n', '').replace('"', '').replace("'", "")
+            # Remove words, which do not make sense
             if item != '' and len(item) > 2:
                 result_values.append(item)
         return result_values
     return None
 
-
+# Parsing from infobox all paramers defined in Vehicle class
 def get_vehicle_parameters(text: str):
     vehicle = { 'name': '', 'manufacturer': [], 'class': [], 'layout': [], 'production_year': '', 'related': [] }
     text = text.lower()
@@ -72,6 +74,7 @@ def get_vehicle_parameters(text: str):
         values = parse_parameter_value('production', text)
         if values:
             for item in values:
+                # Parse first year from string
                 years = re.findall(r'([1-2][0-9]{3})', item)
                 if years:
                     vehicle['production_year'] = int(years[0])
@@ -88,15 +91,16 @@ def get_vehicle_parameters(text: str):
         return vehicle
     return None
 
-
+# Find and parse infobox
 def parsing_wiki(row):
     regex = r"(\\n)(\s)*({\{){1}(\s)*(Infobox){1}(\s)*(automobile){1}(.*)(?=(\\n\}\}\\n)|(\\n\|\}\\n))"
     matches = re.findall(regex, str(row), re.MULTILINE)
     if matches:
+        # Parse infobox
         return get_vehicle_parameters(text=matches[0][7])
     return None
 
-
+# Create and search simular vehicles in all indexes 
 def search_simular_vehicle(parsed_vehicle_folder: str):
     vehicles = []
     # Create index from parsed vehicles
@@ -112,13 +116,15 @@ def search_simular_vehicle(parsed_vehicle_folder: str):
     
     vehicle_index = Index()
     vehicle_index = create_indexes(vehicles, vehicle_index)
-    print('somtui', USERS_VEHICLE)
+
+    # Find users vehicle in vehicle index
     key, user_vehicle = query_user_vehicle(USERS_VEHICLE, vehicle_index)
     print('')
     print("Your vehicle parameters:")
     print(user_vehicle)
     similar_vehicles = None
     if user_vehicle != {}:
+        # If users vehicle is present in vehicle index find 3 most simular vehicles
         similar_vehicles = query_three_simular_vehicle(
             users_vehicle_key=key,
             manufacturer=user_vehicle['manufacturer'],
@@ -144,22 +150,28 @@ if __name__ == "__main__":
         spark = SparkSession.builder.master("local[*]").appName("wiki_parsing").getOrCreate()
         start = time.time()
         
+        # Create xml schema for pyspark
         xml_schema = StructType([\
             StructField('revision', StructType([
                 StructField('text', StringType(), True)
             ]))
         ])
 
+        # Read pages within wiki file based on xml schema
         df = spark.read\
             .format('xml')\
                 .options(rowTag="page")\
                     .load(DATASET_PATH, schema=xml_schema)
 
+        # Parse wiki pages and filter out result that are None
         rdd2 = df.rdd.map(lambda row: parsing_wiki(row)).filter(lambda row: row != None)
+
+        # Save parsed dict to specified folder
         rdd2.saveAsTextFile(parsed_vehicle_folder)
         print(time.time() - start, 's')
     else:
         parsed_vehicle_folder = PARSED_VEHICLES
 
+    # Find 3 most simular vehicles to user's vehicle
     search_simular_vehicle(parsed_vehicle_folder)
  
