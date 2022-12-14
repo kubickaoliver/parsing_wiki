@@ -16,6 +16,19 @@
 curl -O https://repo1.maven.org/maven2/com/databricks/spark-xml_2.12/0.15.0/spark-xml_2.12-0.15.0.jar
 ```
 
+## If you don't have pipenv you can install it
+
+```
+pip install pipenv
+```
+
+## Activate virtual eviroment (pipenv) and install dependencies
+
+```
+pipenv shell
+pipenv install
+```
+
 ## Run pyspark wiki parsing
 
 ```
