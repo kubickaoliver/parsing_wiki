@@ -24,10 +24,11 @@ class Index:
         self.production_index = {}
         self.related_vehicles_index = {}
 
-
+# Create index for specified vehicle parameter
 def create_parameter_index(vehicle_parameters: list, vehicle_id: int, parameter_index: dict) -> dict:
     for parameter in vehicle_parameters:
         if type(parameter) != int:
+            # Lemmatize each parameter's value
             parameter = wnl.lemmatize(parameter)
         index_value_list = parameter_index.get(parameter, None)
         if index_value_list == None:
@@ -35,7 +36,7 @@ def create_parameter_index(vehicle_parameters: list, vehicle_id: int, parameter_
         else:
             parameter_index[parameter].append(vehicle_id)
 
-
+# Crete index for each parameter from Index class
 def create_indexes(vehicles: list, index: Index):
     for i, vehicle in enumerate(vehicles):
         index.vehicles_index[i] = vehicle
@@ -46,7 +47,7 @@ def create_indexes(vehicles: list, index: Index):
         create_parameter_index(vehicle_parameters=[vehicle['production_year']], vehicle_id=i, parameter_index=index.production_index)
     return index
 
-
+# Find enterd by user's vehicle within vehicles_index
 def query_user_vehicle(users_input: str, index: Index) -> list:
     users_vehicle = {}
     for key, item in index.vehicles_index.items():
@@ -56,7 +57,7 @@ def query_user_vehicle(users_input: str, index: Index) -> list:
             users_vehicle = item
     return users_vehicle
 
-
+# Find vehicle ids
 def find_vehicle_ids(vehicles_ids: list, users_vehicle_parameters: list, parameter_index: dict) -> list:
     for item in users_vehicle_parameters:
         ids = parameter_index.get(item, None)
@@ -64,7 +65,7 @@ def find_vehicle_ids(vehicles_ids: list, users_vehicle_parameters: list, paramet
             vehicles_ids = vehicles_ids + ids
     return vehicles_ids
 
-
+# According to user vehicle's parameters find 3 most simular vehicles
 def query_three_simular_vehicle(
     users_vehicle_key: int,
     manufacturer: list,
