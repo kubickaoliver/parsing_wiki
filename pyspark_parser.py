@@ -20,11 +20,11 @@ DATASET_PATH = 'dataset/enwiki-20220920-pages-meta-current10.xml-p4045403p539936
 # If you don't want to parse datset, choose dataset folder name in which you want to search for simular vehicles
 # You want big dataset, you have to choose  './parsed_vehicles_big_dataset'
 # You want small dataset, you have to choose  './parsed_vehicles_small_dataset'
-PARSED_VEHICLES = './parsed_vehicles_small_dataset'
+PARSED_VEHICLES = './parsed_vehicles_big_dataset'
 
 # For big dataset choose for example audi e-tron gt
 # For small dataset choose for example ford s-max
-USERS_VEHICLE = 'ford s-max'
+USERS_VEHICLE = 'audi e-tron gt'
 
 
 class Vehicle:
@@ -112,12 +112,12 @@ def search_simular_vehicle(parsed_vehicle_folder: str):
     
     vehicle_index = Index()
     vehicle_index = create_indexes(vehicles, vehicle_index)
-    
+    print('somtui', USERS_VEHICLE)
     key, user_vehicle = query_user_vehicle(USERS_VEHICLE, vehicle_index)
     print('')
     print("Your vehicle parameters:")
     print(user_vehicle)
-
+    similar_vehicles = None
     if user_vehicle != {}:
         similar_vehicles = query_three_simular_vehicle(
             users_vehicle_key=key,
@@ -134,6 +134,7 @@ def search_simular_vehicle(parsed_vehicle_folder: str):
             print(vehicle)
     else:
         print('We are not able to find your vehicle in the wiki :(')
+    return similar_vehicles
 
 
 if __name__ == "__main__":
